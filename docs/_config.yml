@@ -1,0 +1,40 @@
+theme: jekyll-theme-chirpy
+
+lang: zh-CN
+timezone: Asia/Shanghai
+
+title: 全球日报
+tagline: 每日全球资讯精选 + AI 摘要
+description: 自动聚合全球各领域资讯，AI 生成中文摘要和标签
+
+url: ""
+baseurl: ""
+
+github:
+  username: ""
+
+social:
+  name: Jarvis
+  links: []
+
+avatar: /assets/img/avatar.png
+
+paginate: 10
+
+permalink: /posts/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: false
+      toc: true
+
+exclude:
+  - "*.gem"
+  - "*.gemspec"
+  - Gemfile
+  - Gemfile.lock
+  - vendor

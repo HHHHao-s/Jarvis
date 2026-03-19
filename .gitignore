@@ -1,0 +1,9 @@
+.env
+logs/
+data/pending.json
+_site/
+.jekyll-cache/
+docs/.jekyll-cache/
+docs/_site/
+docs/Gemfile.lock
+vendor/
