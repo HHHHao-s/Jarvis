@@ -8,76 +8,76 @@
     "raw_summary": "<a href=\"https://news.ycombinator.com/item?id=47450478\">Comments</a>"
   },
   {
+    "id": "7c897903bb7338440a08bb41ee428dc9",
+    "title": "Google details new 24-hour process to sideload unverified Android apps",
+    "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+    "source": "Hacker News",
+    "category": "Tech",
+    "raw_summary": "<a href=\"https://news.ycombinator.com/item?id=47442690\">Comments</a>"
+  },
+  {
+    "id": "a51df9e08cdfa2d6b7cb26ea385c7bb6",
+    "title": "Push events into a running session with channels",
+    "url": "https://code.claude.com/docs/en/channels",
+    "source": "Hacker News",
+    "category": "Tech",
+    "raw_summary": "<a href=\"https://news.ycombinator.com/item?id=47448524\">Comments</a>"
+  },
+  {
+    "id": "3fedb558ab0326230aea5442ce2f1fe9",
+    "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+    "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
+    "source": "Hacker News",
+    "category": "Tech",
+    "raw_summary": "<a href=\"https://news.ycombinator.com/item?id=47448994\">Comments</a>"
+  },
+  {
+    "id": "6f414ae0fa0f1cb389f34e229871ab27",
+    "title": "Drugwars for the TI-82/83/83 Calculators (2011)",
+    "url": "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404",
+    "source": "Hacker News",
+    "category": "Tech",
+    "raw_summary": "<a href=\"https://news.ycombinator.com/item?id=47448566\">Comments</a>"
+  },
+  {
+    "id": "5e1bc20c4bf6ca829336a370c9f144c7",
+    "title": "How the Turner twins are mythbusting modern technical apparel",
+    "url": "https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/",
+    "source": "Hacker News",
+    "category": "Tech",
+    "raw_summary": "<a href=\"https://news.ycombinator.com/item?id=47416972\">Comments</a>"
+  },
+  {
+    "id": "0af044e90747628263cf13a04d9e9fe8",
+    "title": "Drawvg Filter for FFmpeg",
+    "url": "https://ayosec.github.io/ffmpeg-drawvg/",
+    "source": "Hacker News",
+    "category": "Tech",
+    "raw_summary": "<a href=\"https://news.ycombinator.com/item?id=47413879\">Comments</a>"
+  },
+  {
+    "id": "f76af7c9a5ad17d0f843ae1da1c77c63",
+    "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "source": "Hacker News",
+    "category": "Tech",
+    "raw_summary": "<a href=\"https://news.ycombinator.com/item?id=47441546\">Comments</a>"
+  },
+  {
+    "id": "3bee6e98a4fa9f48726fe7370d3419b9",
+    "title": "Cockpit is a web-based graphical interface for servers",
+    "url": "https://github.com/cockpit-project/cockpit",
+    "source": "Hacker News",
+    "category": "Tech",
+    "raw_summary": "<a href=\"https://news.ycombinator.com/item?id=47445599\">Comments</a>"
+  },
+  {
     "id": "77dfe90a4acabfc1e395b6c1553f3378",
     "title": "4Chan mocks £520k fine for UK online safety breaches",
     "url": "https://www.bbc.com/news/articles/c624330lg1ko",
     "source": "Hacker News",
     "category": "Tech",
     "raw_summary": "<a href=\"https://news.ycombinator.com/item?id=47440430\">Comments</a>"
-  },
-  {
-    "id": "653bfe135a4c848ef62bfcc3d4ac0fe9",
-    "title": "Clockwise acquired by Salesforce",
-    "url": "https://www.getclockwise.com",
-    "source": "Hacker News",
-    "category": "Tech",
-    "raw_summary": "<a href=\"https://news.ycombinator.com/item?id=47444906\">Comments</a>"
-  },
-  {
-    "id": "fd624e29f6afa0f16bddbb04bebde7e7",
-    "title": "Launch HN: Voltair (YC W26) – Drone and charging network for power utilities",
-    "url": "https://news.ycombinator.com/item?id=47442452",
-    "source": "Hacker News",
-    "category": "Tech",
-    "raw_summary": "<a href=\"https://news.ycombinator.com/item?id=47442452\">Comments</a>"
-  },
-  {
-    "id": "36937fe4393162865f97befb2091d42b",
-    "title": "Be intentional about how AI changes your codebase",
-    "url": "https://aicode.swerdlow.dev",
-    "source": "Hacker News",
-    "category": "Tech",
-    "raw_summary": "<a href=\"https://news.ycombinator.com/item?id=47446373\">Comments</a>"
-  },
-  {
-    "id": "1e5b37fdee07c7a60ce9c7c97a324662",
-    "title": "From Oscilloscope to Wireshark: A UDP Story (2022)",
-    "url": "https://www.mattkeeter.com/blog/2022-08-11-udp/",
-    "source": "Hacker News",
-    "category": "Tech",
-    "raw_summary": "<a href=\"https://news.ycombinator.com/item?id=47444460\">Comments</a>"
-  },
-  {
-    "id": "2dfc3685842fc73470711d43eea84f08",
-    "title": "NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute",
-    "url": "https://qlabs.sh/10x",
-    "source": "Hacker News",
-    "category": "Tech",
-    "raw_summary": "<a href=\"https://news.ycombinator.com/item?id=47444072\">Comments</a>"
-  },
-  {
-    "id": "05c726260db7a73bf3cd75a222c940f0",
-    "title": "Waymo Safety Impact",
-    "url": "https://waymo.com/safety/impact/",
-    "source": "Hacker News",
-    "category": "Tech",
-    "raw_summary": "<a href=\"https://news.ycombinator.com/item?id=47445246\">Comments</a>"
-  },
-  {
-    "id": "e6a4519d08fcd522d3b4ad0cc20abba0",
-    "title": "Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster",
-    "url": "https://blog.skypilot.co/scaling-autoresearch/",
-    "source": "Hacker News",
-    "category": "Tech",
-    "raw_summary": "<a href=\"https://news.ycombinator.com/item?id=47442435\">Comments</a>"
-  },
-  {
-    "id": "5d4a49cbc3577cd8ab395fa2c2667329",
-    "title": "OpenBSD: PF queues break the 4 Gbps barrier",
-    "url": "https://undeadly.org/cgi?action=article;sid=20260319125859",
-    "source": "Hacker News",
-    "category": "Tech",
-    "raw_summary": "<a href=\"https://news.ycombinator.com/item?id=47439320\">Comments</a>"
   },
   {
     "id": "3fc7a8ae3d8d2fb67633f194f6aea69e",
@@ -216,6 +216,14 @@
     "raw_summary": "Cops asked the jury for millions after Afroman used raid footage in music videos."
   },
   {
+    "id": "503f2cae98ffc87bdc9965841ec77996",
+    "title": "Mind-altering substances are (still) falling short in clinical trials",
+    "url": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/",
+    "source": "MIT Technology Review",
+    "category": "Tech",
+    "raw_summary": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocybin—which is found in magic mushrooms—are being explored for all sorts of health applications, including treatments for depression, PTSD, addiction, and even obesity. Over&#8230;"
+  },
+  {
     "id": "8e8fb6b97f9774b54ba202974fb5219c",
     "title": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
     "url": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/",
@@ -336,6 +344,22 @@
     "raw_summary": "Kilmer’s estate collaborated with the filmmakers to make a digital likeness of the actor, who died of cancer last year."
   },
   {
+    "id": "8a02acc9d0e352ce517e66bc9a59527d",
+    "title": "「男二以下全换AI」吵翻全网，但真正该慌的人一声没吭",
+    "url": "https://www.ifanr.com/1658885?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿",
+    "category": "Tech",
+    "raw_summary": "在平台的变现逻辑里，内容的可替代性远高于人<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>"
+  },
+  {
+    "id": "2ce23b0a5f52c1ba02a76bfc7d0092a8",
+    "title": "专访 Nothing Smart Products 负责人高岩：从一开始，我们就被拿来和苹果做对比",
+    "url": "https://www.ifanr.com/1659028?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "source": "爱范儿",
+    "category": "Tech",
+    "raw_summary": "只有当产品首先解决了自己的需求，它才有机会打动一群相似的人。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>"
+  },
+  {
     "id": "a4bb471812470feb2c98a1da7ae3888e",
     "title": "小米 Xiaomi Book Pro 14 评测：小贵，超值",
     "url": "https://www.ifanr.com/1659053?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -384,20 +408,12 @@
     "raw_summary": "工作在哪里，哪里就有飞书 aily<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>"
   },
   {
-    "id": "fbd33a6e7e0d7e3719f1ac906a73f532",
-    "title": "英伟达给游戏玩家喂 AI 泔水？事情可能没有想象的那么糟",
-    "url": "https://www.ifanr.com/1658826?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "source": "爱范儿",
+    "id": "bb3f05125a92248c781ce536ca0ca72d",
+    "title": "年度征文｜速通新疆，我的穷游攻略",
+    "url": "https://sspai.com/post/107202",
+    "source": "少数派",
     "category": "Tech",
-    "raw_summary": "让子弹飞一会。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>"
-  },
-  {
-    "id": "a1fc6ee44278d7fe990aecc8c9bd6a35",
-    "title": "全网猜了一周 DeepSeek V4，结果是小米干的",
-    "url": "https://www.ifanr.com/1658781?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "source": "爱范儿",
-    "category": "Tech",
-    "raw_summary": "人车家全生态<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>"
+    "raw_summary": "我们总是习惯规则林立的城市，而那些宽广的、不受人的意志约束而矗立的存在，多看看它们，顿觉世界广大、人间渺小，一切苦难困顿尽是过眼云烟。<a href=\"https://sspai.com/post/107202\" target=\"_blank\">查看全文</a>"
   },
   {
     "id": "f38b125006b37ff682a1eac43ccb4b9d",
@@ -456,92 +472,164 @@
     "raw_summary": "Firefox 浏览器将启用吉祥物 Kit、FIFA 与 YouTube 达成世界杯内容合作等。<a href=\"https://sspai.com/post/107514\" target=\"_blank\">查看全文</a>"
   },
   {
-    "id": "1567c507ef78a04caa2c2634a7c32c94",
-    "title": "年度征文｜效率杂谈：告别纸笔拓荒，怎么用 AI 来辅助学习？",
-    "url": "https://sspai.com/post/106878",
-    "source": "少数派",
+    "id": "f4c1f5e5185a1ed33142bb775ce9d03c",
+    "title": "Valve’s huge SteamOS 3.8 update adds long-awaited features — and supports Steam Machine",
+    "url": "https://www.theverge.com/games/897765/valve-steamos-3-8-update-steam-deck-hibernation-steam-machine-xbox-ally",
+    "source": "The Verge",
     "category": "Tech",
-    "raw_summary": "如果你现在比较迷茫，不知道怎么学习才好，那希望这个学习方法论可以给你提供一些参考。切记：一切都要以自己的需求为主。<a href=\"https://sspai.com/post/106878\" target=\"_blank\">查看全文</a>"
+    "raw_summary": "Valve has just released SteamOS 3.8.0 in preview, and it's a doozy. Not only is it the first release to support the upcoming Steam Machine living room gaming PC, it comes with long-awaited features for Valve's handhelds and more support for other companies' handhelds than we've seen to date - including Microsoft and Asus' Xbox [&#8230;]"
   },
   {
-    "id": "463c6dd6901c9d941e5a20a2bd892ab5",
-    "title": "《光伏组件安全要求》等两项强制性国家标准座谈会在京召开",
-    "url": "https://36kr.com/newsflashes/3730886368329987?f=rss",
-    "source": "36氪",
-    "category": "商业",
-    "raw_summary": "36氪获悉，据工信部消息，2026年3月19日，《光伏组件安全要求》《光伏组件铭牌标识要求》两项强制性国家标准座谈会在京召开，会议重点研究推进两项强制性国家标准制定和实施工作。会议强调，光伏制造企业之间要加强标准引领、安全监管；发电央企要主动优化招投标采购机制，采购过程中要提前对标、主动衔接标准要求，加大对安全问题的重视。各方要协同发力，坚持创新引领，推动光伏行业从“规模领先”向“价值领先”转变，共同构建安全可靠的良性竞争格局，以实际行动筑牢国家能源安全屏障。"
+    "id": "26a8a23db836851979f2b685f4ff8bed",
+    "title": "OpenAI is planning a desktop ‘superapp’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
+    "source": "The Verge",
+    "category": "Tech",
+    "raw_summary": "OpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports. The company is making the change as part of an effort to simplify its various product efforts, according to a memo cited by the WSJ [&#8230;]"
   },
   {
-    "id": "355b089479e82e42673d0b7244d0a820",
-    "title": "贾国龙起家的西贝首店将“关闭一半”",
-    "url": "https://36kr.com/newsflashes/3730884457103619?f=rss",
-    "source": "36氪",
-    "category": "商业",
-    "raw_summary": "贾国龙西贝的创业起始之地、位于北京六里桥的品牌首店即将“关闭一半”。3月19日，记者获悉，西贝北京六里桥旗舰店将会减少一半面积，但不会完全关闭。“没接到通知要关。”该店员工表示，“但后面可能会调整，现在是5层，可能会去掉几层。”他承认是因为目前受到客流减少的压力较大，并且确认自4月1日起，该店将不再接受包厢预订。（界面）"
+    "id": "ede0fc09f3ab6ad6ac0d415a345cf9ff",
+    "title": "Sony’s new WF-1000XM6 earbuds are already on sale for $30 off",
+    "url": "https://www.theverge.com/gadgets/897668/sony-wf-1000xm6-wireless-earbuds-deal-sale",
+    "source": "The Verge",
+    "category": "Tech",
+    "raw_summary": "Sony’s WF-1000XM6 are the best noise-canceling wireless earbuds you can buy, but they’ve been hard to recommend over the last-gen model because of the price. While the older version is often on sale for $248, the update costs $329 — and has never before been marked down. That’s why this deal is worth paying attention [&#8230;]"
   },
   {
-    "id": "96d6b29311f9daf3d2dfd7ee2f6ba0b4",
-    "title": "科大讯飞等在北京成立科技公司",
-    "url": "https://36kr.com/newsflashes/3730883359850500?f=rss",
-    "source": "36氪",
-    "category": "商业",
-    "raw_summary": "36氪获悉，爱企查App显示，近日，量智开物（北京）科技有限公司成立，法定代表人为石琦，注册资本500万元人民币，经营范围包括量子计算技术服务、人工智能理论与算法软件开发、人工智能行业应用系统集成服务等。股东信息显示，该公司由两仪万象（北京）科技有限公司、科大讯飞（北京）有限公司、安徽言知科技有限公司、量智臻融（北京）科技合伙企业（有限合伙）共同持股。"
+    "id": "ac126a4f12c2f9466834e77eab1720c3",
+    "title": "Marc Andreessen is a philosophical zombie",
+    "url": "https://www.theverge.com/tldr/897566/marc-andreessen-is-a-philosophical-zombie",
+    "source": "The Verge",
+    "category": "Tech",
+    "raw_summary": "I admit, this is an innovation I did not see coming: Silicon Valley has invented the philosophical zombie from the classic thought experiment \"lol how crazy would it be if there were a philosophical zombie.\" Until recently, the philosophical zombie was a concept closely associated with Australian philosopher David Chalmers, who defines it as \"someone [&#8230;]"
   },
   {
-    "id": "119479421818d5992e3f4b56a380769c",
-    "title": "前2个月我国邮政行业寄递业务量超330亿件",
-    "url": "https://36kr.com/newsflashes/3730878033297669?f=rss",
-    "source": "36氪",
-    "category": "商业",
-    "raw_summary": "今天（20日）从国家邮政局了解到，前2个月我国邮政行业寄递业务量超330亿件，行业市场规模稳步增长。国家邮政局最新数据显示，1-2月，邮政行业寄递业务量累计完成331.4亿件，同比增长5.6%。其中，快递业务量累计完成304.9亿件，同比增长7.1%。（央视新闻）"
+    "id": "1a41e0f3e813606417ce005bddcb6b8a",
+    "title": "The coolest game controller for your phone is $50 off",
+    "url": "https://www.theverge.com/gadgets/897465/ohsnap-mcon-phone-controller-deal-sale",
+    "source": "The Verge",
+    "category": "Tech",
+    "raw_summary": "The MCON is the closest to a Swiss army knife that a controller can be. No, it doesn’t contain a can opener, but it makes up for it with a surprising array of features. Once you attach your MagSafe- or Pixelsnap-ready phone to the top plate, pressing a button along its top edge satisfyingly pops [&#8230;]"
   },
   {
-    "id": "110172842c97799d03afb9810b7004c3",
-    "title": "考虑缩减董事会规模？世界经济论坛回应",
-    "url": "https://36kr.com/newsflashes/3730873699713027?f=rss",
-    "source": "36氪",
-    "category": "商业",
-    "raw_summary": "据报道，世界经济论坛预计将在未来数月正式讨论缩减由28名成员组成的董事会规模的提案，最早可能在今夏举行的董事会半年一度的线下会议上作出决定。知情人士透露，瑞士联邦基金会监管局（FSAH）已表示，精简董事会是明智之举。世界经济论坛在一份声明中称，“将继续致力于强有力的治理，并将在论坛作为全球对话与合作领先平台持续发展的过程中进一步完善这一机制。目前既无讨论计划，也未作出任何决定”。（界面）"
+    "id": "acb939d03b2409ba844e7148495fec37",
+    "title": "Hermès doesn’t include a power adapter with its $5,150 charging case",
+    "url": "https://www.theverge.com/tech/897474/hermes-paddock-wireless-charger-apple-watch-airpods-iphone-leather-luxury",
+    "source": "The Verge",
+    "category": "Tech",
+    "raw_summary": "Over a decade after Apple first partnered with Herm&#232;s for a special Apple Watch collaboration, the French luxury goods maker has released a new collection of leather-wrapped charging accessories for Apple's mobile devices. The most expensive option is a multi-device wireless charger in a case made from the brand's signature gold-colored calfskin leather that will [&#8230;]"
   },
   {
-    "id": "0b38360df9dd7d1ea3678219bcc33519",
-    "title": "消息人士：马斯克团队采购光伏设备预计将在5月第一周发货",
-    "url": "https://36kr.com/newsflashes/3730768118890500?f=rss",
-    "source": "36氪",
-    "category": "商业",
-    "raw_summary": "从消息人士获悉，此前马斯克旗下Space X团队向国内某头部异质结设备厂采购设备，该订单预计将于5月第一周发货。类半导体产品出口都需要经过相关部门备案审批，目前还在推进中。据了解，马斯克团队旗下光伏订单主要分为Space X（S链）和Tesla（T链），规划应用场景分别是太空和地面。另据消息人士称，目前T链合作订单还处于洽谈中，涉及多家TOPCon设备厂。（财联社）"
+    "id": "a88c93a7b72716faa6475e892c03fb24",
+    "title": "A rogue AI led to a serious security incident at Meta",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
+    "source": "The Verge",
+    "category": "Tech",
+    "raw_summary": "For almost two hours last week, Meta employees had unauthorized access to company and user data thanks to an AI agent that gave an employee inaccurate technical advice, as previously reported by The Information. Meta spokesperson Tracy Clayton said in a statement to The Verge that \"no user data was mishandled\" during the incident. A [&#8230;]"
   },
   {
-    "id": "36880bc0429dc3891fdc0d3d5ab89740",
-    "title": "国能龙源环保接手三菱动力旗下杭州环保设备公司",
-    "url": "https://36kr.com/newsflashes/3730863185772801?f=rss",
-    "source": "36氪",
-    "category": "商业",
-    "raw_summary": "36氪获悉，爱企查App显示，近日，三菱动力（杭州）环保设备有限公司发生工商变更，原股东三菱动力株式会社退出，新增国能龙源环保有限公司为全资股东，伊藤和典卸任法定代表人，由马卓接任，同时，企业名称更名为国能龙源环保（杭州）有限公司。 国能龙源环保（杭州）有限公司成立于2011年6月，注册资本约1.09亿元人民币，经营范围包括燃煤烟气脱硫脱硝装备制造、环境保护专用设备制造、大气污染治理等。"
+    "id": "e1549265811bacd3b8a4fa8475a31183",
+    "title": "Microsoft’s go-to Xbox controller is selling at its best price of the year",
+    "url": "https://www.theverge.com/gadgets/897334/xbox-wireless-controller-pc-steam-deck-amazon-big-spring-sale-2026-deal",
+    "source": "The Verge",
+    "category": "Tech",
+    "raw_summary": "Microsoft’s Xbox console strategy needs work, but its Bluetooth-ready controller that shipped alongside the Xbox Series X and Series S is fantastic. We think it’s one of the best Xbox controllers out there, thanks to its comfortable design, multiplatform compatibility (it works great on the Steam Deck and PC, too), and its textured grips and [&#8230;]"
   },
   {
-    "id": "00a6667bb8210bc6571d507ef9f091c0",
-    "title": "摩根大通运用技术监控初级银行员工工作时长",
-    "url": "https://36kr.com/newsflashes/3730853861539840?f=rss",
-    "source": "36氪",
-    "category": "商业",
-    "raw_summary": "据英国《金融时报》援引匿名知情人士消息，摩根大通银行将推出一项试点计划，向初级银行员工出具报告，对比系统根据其行为自动估算的每周工作时长与员工自行填报的工时表。该行计划在投行部门内更广泛地推广这一项目。系统估算时长基于员工每周的数字轨迹，包括视频会议、桌面键盘敲击记录以及日程会议安排。（新浪财经）"
+    "id": "b61215d008f4738a819e93fb86edddbe",
+    "title": "All the wrong EVs are getting canceled",
+    "url": "https://www.theverge.com/transportation/897399/all-the-wrong-evs-are-getting-cancelled",
+    "source": "The Verge",
+    "category": "Tech",
+    "raw_summary": "These past few weeks have been particularly brutal for the EV industry - and anyone who believes that electric vehicles are the future. Thanks to slowing demand and policy whiplashes, automakers are on an EV murder spree, killing a host of promising new models. The EV graveyard grows bigger by the minute. And unfortunately, as [&#8230;]"
   },
   {
-    "id": "430bd0c82b820b2432785f6cc4aa6902",
-    "title": "恒生科技指数跌超2%",
-    "url": "https://36kr.com/newsflashes/3730841980977156?f=rss",
-    "source": "36氪",
-    "category": "商业",
-    "raw_summary": "36氪获悉，恒生科技指数跌超2%，恒生指数跌0.82%；科技股领跌，小米集团、阿里巴巴跌超6%。"
+    "id": "c25455dfa42c81174929287eb0e8c8c5",
+    "title": "Prediction markets are trying to lure journalists with partnership deals",
+    "url": "https://www.theverge.com/news/897388/kalshi-polymarket-journalists-partnership-deals",
+    "source": "The Verge",
+    "category": "Tech",
+    "raw_summary": "Prediction markets are working to ingratiate themselves with mainstream news and culture: The Golden Globes broadcast in January was plastered with Polymarket odds, the AP is licensing election data to Kalshi, and a partnership between Polymarket and Substack means more prediction market data in newsletters. Some prediction market exchanges are now attempting to strike deals [&#8230;]"
   },
   {
-    "id": "b6d82abd820a26e7c25ee53dc35c58e5",
-    "title": "LG新能源拟将储能系统业务占比提升一倍至40%左右",
-    "url": "https://36kr.com/newsflashes/3730828240208131?f=rss",
+    "id": "7be05c05a2fc2e2026f66310c1439d71",
+    "title": "求购Anthropic老股份额；求购多家机器人公司老股份额｜资情留言板第181期",
+    "url": "https://36kr.com/p/3730996090192130?f=rss",
     "source": "36氪",
     "category": "商业",
-    "raw_summary": "LG新能源公司首席执行官金东明周五表示，为顺应市场趋势，公司计划未来将储能系统（ESS）业务占比提升至40%左右。金东明在首尔举行的股东大会上表示：“公司计划未来将储能系统和新业务的占比提升至40%左右，高于目前的20%，从而保持业务组合的稳定均衡。”（新浪财经）"
+    "raw_summary": "<p>资产交易市场，信息瞬息万变，消息真假难辨，即使买卖双方花费大量的时间、精力，推动成交往往困难重重。为了能够帮助买卖双方更快速链接市场信息和潜在交易对手，避免不必要的投入与浪费，我们特地打造了这样一档栏目。</p>\n  <p>本文是这个栏目的第181期。如果你对本文提到的相关的交易线索感兴趣，希望接触这些潜在的交易对手，或者如果你手中直接握有希望交易的资金或者资产，欢迎与我们联系。（邮箱：zcjy@36kr.com）&nbsp;</p>\n  <h2><strong>一、本月新增</strong></h2>\n  <h2><strong>1、求购Anthropic老股份额（预期估值面议）</strong></h2>\n  <p>交易价格：预期估值面议</p>\n  <p>资产规模：约5000万-1亿美元</p>\n  <p>交易方式：直接老股交易，可以接受进入结构</p>\n  <p>联系方式：zcjy@36kr.com</p>\n  <h2><strong>2、求购乐聚机器人老股份额（预期估值面议）</strong></h2>\n  <p>交易价格：预期估值面议</p>\n  <p>资产规模：约3000万人民币</p>\n  <p>交易方式：直接老股交易，可以接受锚定份额和进入结构</p>\n  <p>联系方式：zcjy@36kr.com</p>\n  <h2><strong>3、求购斯坦德机器人老股份额（预期估值面议）</strong></h2>\n  <p>交易价格：预期估值面议</p>\n  <p>资产规模：约5000万人民币</p>\n  <p>交易方式：直接老股交易，可以接受锚定份额和进入结构</p>\n  <p>联系方式：zcjy@36kr.com</p>\n  <h2><strong>4、转让持有月之暗面股份的基金LP份额（预期估值面议）</strong></h2>\n  <p>卖家性质：直接卖家&nbsp;</p>\n  <p>交易价格：预期估值面议</p>\n  <p>资产规模：约1000万美元份额&nbsp;</p>\n  <p>交易方式：需要进入结构，有管理费和carry</p>\n  <p>联系方式：zcjy@36kr.com</p>\n  <h2><strong>5、转让持有胜宏科技股份的基金LP份额（预期估值面议）</strong></h2>\n  <p>卖家性质：直接卖家&nbsp;</p>\n  <p>交易价格：预期估值面议</p>\n  <p>资产规模：约5000万美元份额&nbsp;</p>\n  <p>交易方式：LP份额，有管理费和carry</p>\n  <p>联系方式：zcjy@36kr.com</p>\n  <h2><strong>6、求购小红书老股份额（预期估值面议）</strong></h2>\n  <p>交易价格：预期估值面议</p>\n  <p>资产规模：约5000万-1亿美元</p>\n  <p>交易方式：直接老股交易</p>\n  <p>联系方式：zcjy@36kr.com</p>\n  <h2><strong>7、求购智元机器人老股份额（预期估值面议）</strong></h2>\n  <p>交易价格：预期估值面议</p>\n  <p>资产规模：约5000万人民币</p>\n  <p>交易方式：直接老股交易</p>\n  <p>联系方式：zcjy@36kr.com</p>\n  <h2><strong>8、求购伯希和公司老股份额（预期估值面议）</strong></h2>\n  <p>交易价格：预期估值面议</p>\n  <p>资产规模：约3000万人民币</p>\n  <p>交易方式：直接老股交易</p>\n  <p>联系方式：zcjy@36kr.com</p>\n  <h2><strong>9、求购强脑科技老股份额（预期估值面议）</strong></h2>\n  <p>交易价格：预期估值面议</p>\n  <p>资产规模：约5000万人民币</p>\n  <p>交易方式：直接老股交易</p>\n  <p>联系方式：zcjy@36kr.com</p>\n  <h2><strong>10、转让持有SpaceX股份的基金LP份额（预期估值面议）</strong></h2>\n  <p>卖家性质：直接卖家&nbsp;</p>\n  <p>交易价格：预期估值面议</p>\n  <p>资产规模：约1000万美元份额&nbsp;</p>\n  <p>交易方式：两层LP份额，有管理费和carry</p>\n  <p>联系方式：zcjy@36kr.com</p>\n  <h2><strong>二、资产求购</strong></h2>\n  <h2><strong>1、求购SpaceX公司老股份额（预期估值面议）</strong></h2>\n  <p>交易价格：预期估值面议，市场公允价格即可</p>\n  <p>资产规模：约3000-5000万美元</p>\n  <p>交易方式：老股份额和LP份额均可接受，具体看价格和架构</p>\n  <p>联系方式：zcjy@36kr.com</p>\n  <h2><strong>2、求购Momenta公司老股份额（预期估值面议）</strong></h2>\n  <p>交易价格：预期估值面议</p>\n  <p>资产规模：约1000-2000万人民币</p>\n  <p>交易方式：可以接受进结构，价格具体看是否承担管理费和carry</p>\n  <p>联系方式：zcjy@36kr.com&nbsp;</p>\n  <h2><strong>3、求购强脑科技公司老股份额（预期估值16亿美元）</strong></h2>\n  <p>交易价格：预期估值16亿美元</p>\n  <p>资产规模：约3000万人民币</p>\n  <p>交易方式：要求可以人民币交易的结构</p>\n  <p>联系方式：zcjy@36kr.com</p>\n  <h2><strong>4、求购字节跳动公司老股份额（预期估值约5300亿美元）</strong></h2>\n  <p>交易价格：预期估值面议，市场公允价格即可</p>\n  <p>资产规模：约3000-5000万美元</p>\n  <p>交易方式：希望是一层LP份额</p>\n  <p>联系方式：zcjy@36kr.com</p>\n  <h2><strong>5、寻求小家电领域上下游并购标的（预期估值面议）</strong></h2>\n  <p>买家性质：直接买家&nbsp;</p>\n  <p>交易价格：预期估值面议，20亿人民币之内</p>\n  <p>并购要求：要求有盈利</p>\n  <p>交易方式：控股并购、现金并购，也考虑战略投资</p>\n  <h2><strong>6、求购Rokid公司老股（预期估值面议）</strong></h2>\n  <p>卖家性质：直接卖家&nbsp;</p>\n  <p>交易价格：预期估值面议，市场公允即可</p>\n  <p>资产规模：约1000万美元份额&nbsp;</p>\n  <p>交易方式：直接老股份额&nbsp;</p>\n  <h2><strong>7、求购天兵科技公司老股份额（预期估值面议）</strong></h2>\n  <p>交易价格：预期估值面议</p>\n  <p"
+  },
+  {
+    "id": "dd9f10fa9d40d022fe673c82eee00e26",
+    "title": "从能力到商品：Skills市场正在重塑开发者的生产方式",
+    "url": "https://36kr.com/p/3730644353286150?f=rss",
+    "source": "36氪",
+    "category": "商业",
+    "raw_summary": "<p>技能是产业竞争力的重要体现方式之一 。在上海，一场 AI 时代的技能革命也在悄然展开——进入 2026 年，新赛季的竞争不再是大模型间的参数比拼，而是谁能真正走进工厂、实验室和写字楼，变成“会做事”的生产力工具。开源项目 OpenClaw 的迅速走红，折射出以 Skills 市场等形式的开放共享的新趋势——或许正是那把撬开这场 Agent 变革的锁钥。</p>\n  <p>简言之， Skills 市场是智能体的“技能商店”：开发者将专业能力封装为标准化模块，供全球智能体按需调用。这是开发工具的升级， 更是生产关系的深层重构。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260320/v2_43d7c9d2d9444798b1929cb39d186cff@5868219_oswg101784oswg1000oswg459_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>从“大模型”到“智能体”：AI的价值在于极致落地</strong></p>\n  <p>理解 Skills 市场，首先要厘清大模型与智能体的分工。大模型是 AI 系统的“聪明大脑”——它能告诉你怎么做，但它不会替你真正完成任务。智能体（ Agent ）才是执行者：给它一条指令，它去理解、规划、调用工具、完成任务、反馈结果。企业 Agent 可以自动读取数据库、调用财务接口、分析经营状况，最终生成一份管理报告——全程无需人工干预。&nbsp;</p>\n  <p>然而，早期的智能体开发面临 <strong>“重复造轮子”</strong> 的困境。每位开发者构建特定领域的智能体时，往往需要从零实现一套基础功能——信息检索、数值计算、数据分析……这不仅效率低下，也难以保证稳定性与安全性。随着 AI 应用场景加速扩张，单一模型显然无法支撑复杂需求，一种标准化能力组件体系呼之欲出。&nbsp;</p>\n  <p><strong>从“写代码”到“编能力”：开发者角色的根本转变</strong></p>\n  <p>Skills 市场的本质，是将特定功能——如财务分析、图像识别、行业数据处理——封装为具备标准化输入/输出接口的可调用模块。开发者无需重点关注底层代码实现，只需检索、评估并调用所需 Skills ，即可将其无缝集成进自己的智能体工作流。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260320/v2_bfa5b70f065142bb86d0da5147f39671@5868219_oswg260559oswg1000oswg525_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>开发者的角色正在悄然转型：从“写代码的人”，变为“能力架构师”，其专业知识也由此获得了数字资产的属性。一名擅长财务分析的开发者，可以将这项能力封装为财务分析 Skill 向外发布；一套顶尖的医学图像识别算法，同样能被打包为医疗影像 Skill ，赋能医疗和工业领域的智能体。未来，拥有行业经验的工程师、医生、金融分析师，都有望成为 AI 时代真正的“技能供应商”。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260320/v2_f311f05205b1417185d6348ff0d4f60c@5868219_oswg731085oswg928oswg945_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>这种转变极大降低了复杂 AI 应用的开发门槛。它把开发者从繁琐的底层重复劳动中解放出来，让他们将精力集中于业务逻辑的创新与工作流设计，加速 AI 变为“生产工具”。&nbsp;</p>\n  <p><strong>标准协议是生态繁荣的基石</strong></p>\n  <p>Skills 市场能否规模化，标准化是核心命题。 Anthropic 提出 Model Context Protocol（MCP），为 AI 模型与外部工具、数据源之间建立了一套通用交互接口，本质上是为各类“能力”的跨平台调用铺平道路。有了统一标准，开发者无需担心自己开发的 Skill 只能绑定在某个特定平台运行，从而更有动力投入资源开发高质量的通用能力模块。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260320/v2_8d447e7d45da4d0ea9bec1492ba5fbdd@5868219_oswg61494oswg1000oswg390_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>国内头部大模型厂商也在积极跟进。更值得关注的是垂直专业场景的突破——复旦大学科研团队将“脂质体介导转染”“siRNA 设计优化”等高度专业的科研操作封装为可调用模块，驱动机械臂在 16 分钟内完成 96 个样本的高通量实验，将过去需要数月带教的经验转化为可即时复用的数字技能。&nbsp;</p>\n  <p><strong>上海：全球AI技能供应的新坐标</strong></p>\n  <p>观察 Skills 市场的落地图谱，上海正在扮演一个特殊角色——不只是 AI 应用的落地场域，更是 AI 能力的供给中心。&nbsp;</p>\n  <p>今年，上海将迎来第 47 届世界技能大赛。这场被誉为“技能奥林匹克”的国际赛事，将把全球顶尖的专业技能汇聚一堂 。当世界技能大赛的赛场在上海点燃，另一场关乎数字技能的革命也已全面铺开。今年，世界技能大赛的举办地恰在上海。这场“技能奥林匹克”的历史性落地，与 Skills 市场的崛起，共聚上海，形成了深刻的历史呼应：无论是身怀绝技的工匠，还是封装能力的开发者，技能的核心逻辑从未改变——专业能力，始终是价值创造的原点。&nbsp;</p>\n  <p>在基础模型层，总部位于上海的 MiniMax 和阶跃星辰已成为全球 Skills 生态中最活跃的中国力量。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260320/v2_96641412aeb44d209bf00547c359e8c0@5868219_oswg118850oswg1000oswg695_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p"
+  },
+  {
+    "id": "5b246ee06bb57118143a76f00e2607dd",
+    "title": "港中文95后博士、OPPO员工做了款AI可穿戴硬件，要成为用户全天候情感导师｜硬氪首发",
+    "url": "https://36kr.com/p/3729647028960903?f=rss",
+    "source": "36氪",
+    "category": "商业",
+    "raw_summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，深圳十镜科技有限公司（以下简称“十镜科技”）近日完成数千万元天使轮融资，本轮由元禾原点投资，融资资金将主要用于核心技术研发、产品结构迭代优化及小批量量产落地。首款产品Spiro计划于&nbsp;2026年4月在北美独立站上线、6月量产。</p>\n  <p>十镜科技成立于2025年7月，创始人兼CEO赵之赫是一名95后连续创业者，博士毕业于香港中文大学，他曾出任智能穿戴硬件企业物启科技CEO，并推出全球首款AI情绪吊坠Nuna。联合创始人曾任职于大疆、安克、OPPO等企业，拥有多年的产品落地经验与成熟的市场化运作能力。</p>\n  <p>智能穿戴行业正经历一场隐性的代际更替。过去几年，功能叠加始终是行业的主流叙事，更多传感器、更精准的数据、更专业的分析，被默认为产品进化的主导方向。但AI Pin等市场遇冷，暴露了这一路径的深层困境：当硬件被定义为“工具”，其价值就被锁死在特定使用场景之中，脱离场景，用户容易失去持续佩戴的动力。</p>\n  <p>新鲜感退潮后的高闲置率，正在倒逼行业重新思考AI可穿戴硬件的底层逻辑。</p>\n  <p>赵之赫将AI终局的发展趋势概括为“Context × Intelligence（上下文加智能）”。在他看来，Intelligence一侧正由大模型厂商快速演进，而Context才是真正的壁垒——它远不止是原始数据的堆砌，而是从连续、对齐的多模态数据中，萃取出关于这个人本身的心智建模。</p>\n  <p>将这一逻辑投射到可穿戴设备领域，竞争的焦点便转化为：谁能使用户愿意长期贡献物理世界中独特且连续的模态数据。这也向当前AI硬件创业者抛出了一个第一天就必须回答的选择题，是优先追求更多人先戴上，还是专注于让少数人愿意一直戴着？</p>\n  <p>赵之赫告诉硬氪，“市场上海量的穿戴硬件产品大体上可分为两类。一类是目标导向型，解决特定问题，用之即走；另一类是关系型，卖的不是功能，是陪伴。”</p>\n  <p>Oura监测生理指标、Whoop深耕恢复管理、佳明专注运动表现，这些产品都有明确的交付结果，用户为功能价值付费。而十镜科技想做的，是一种打破功能终点的产品。“我想做一个产品。它不是帮你达成某个目标，而是能全天候陪伴、持续见证、和在意你的心灵生活。”赵之赫说。</p>\n  <p>为此，十镜科技的首款产品Spiro在形态选择上，避开戒指、手表、吊坠等强标签化品类，转而做了一款融合大模型情感引擎与珠宝工艺的AI智能手链。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260319/v2_b9cae911e50748ed91924e202ca79211@6022551_oswg457175oswg830oswg486_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">AI智能手链Spiro（图源/企业）</p>\n  <p>赵之赫告诉硬氪，在饰品消费中，手链属于最容易被无意识佩戴的品类之一，“用户可以同时拥有多条，根据心情和穿搭随意替换；它不会宣示‘我是谁’，而是自然地成为日常生活的一部分。”这对用户而言也意味着更低的决策门槛、更少的佩戴心理负担，距离十镜科技想实现“不摘下来”的目标更近一步。</p>\n  <p>产品功能逻辑同样克制。Spiro搭载有IMU传感器加麦克风、具备全天候收音功能，团队构建了一套以事件切分为基础的记忆引擎。用户当天经历会被分割成连续的“事件流”，系统在每一个节点打上注解，比如用户从走进咖啡馆落座，到与朋友聊完起身离开，这被定义为一个完整事件。</p>\n  <p>在整个时间窗口内，环境音、语音语调、对话内容（经转录）、停顿长短、背景噪音等维度的信息，都会被提取为结构化数据。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260319/v2_c21be359180448d5833337e066b109aa@6022551_oswg3525449oswg2274oswg1394_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">AI智能手链Spiro（图源/企业）</p>\n  <p>“我们底层是一个以事件和证据为基础的记忆架构。”赵之赫解释。而数据采集只是底层，真正的产品体验在于交付方式。这些细颗粒度的多维信息，结合过往记忆上下文形成的用户情绪画像，最终生成个性化的情感反馈。</p>\n  <p>具体到Spiro的App端，其会以三种形态呈现用户的日常。第一种是AI日记，系统识别到一段有意义的对话或瞬间时，将其整理成一条“高光”：可能是一则带情绪色彩的日记卡片，一段帮用户复盘当天起伏的文字，或者一句精准点破当天心情的短评。</p>\n  <p>这不是简单的文本摘要，而是基于用户画像的风格化再创作。它更像给生活加了一层情绪和叙事的滤镜，而不是简单的录音转写或机械摘要。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260319/v2_9ebd2327316941b9b56e1eda4fc3b5e2@6022551_oswg1962804oswg2458oswg1380_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">基于用户日常生成的AI日记（图源/企业）</p>\n  <p>第二种是人际关系能量图谱。系统会持续分析用户与不同对象的互动模式，比如和谁聊天时语调更放松，和谁相处后容易陷入沉默等，将这些洞察被可视化为一幅动态图谱，用户可以看到自己的情感带宽如何被分配，以及哪些人真正构成了自己的支持系统。</p>\n  <p>第三种形态更具仪式感，也是Spiro命名的来源——转运拨动。其AI手链的硬件结构上设有一处可转动的机关，当用户感到焦虑、需要力量时可以亲手波动转盘转满一圈，手机端会弹出一张AI卡片。其卡面上的内容并非随机鸡汤，而是基于此前用户的记忆数据库所生成，更契合用户当下的具体处境与心理状态。</p>\n  <p>可以看到，这些“非功能性”的产品哲学背后，是Spiro技术架构的完整表达，它最终指向的是“情感资产”——基于真实历史、不可迁移的个人精神和情绪记忆。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260319/v2_5bb46f0a4ec74d15ae4583"
+  },
+  {
+    "id": "177b78d9297fd566825f3d2efc8959f0",
+    "title": "8点1氪丨贾国龙推出新品牌“天边砂锅焖面”；涨价4000元，新一代小米SU7起售价21.99万元；麦当劳回应卖蛋挞",
+    "url": "https://36kr.com/p/3730515366871046?f=rss",
+    "source": "36氪",
+    "category": "商业",
+    "raw_summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>ZARA、H&amp;M、拉夫劳伦等，被海关总署点名通报</li>\n   <li>腾讯股价大跌原因：加大AI投入或削减回购</li>\n   <li>欧盟证实：马斯克X缴纳1.2亿欧元罚款</li>\n   <li>中国移动“移动梦网”等业务将下线</li>\n   <li>现货黄金跌破4700美元</li>\n   <li>腾讯回应在美游戏投资</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>贾国龙新品牌做焖面，人均消费40元至50元</strong></p>\n  <p>西贝餐饮集团创始人、董事长贾国龙的最新创业项目“天边砂锅焖面”已在北京798艺术区悄然落地，这家新店2月13日开业，人均消费40元至50元，主打品类是贾国龙家乡内蒙古巴盟特色的砂锅焖面。贾国龙向记者透露，西贝要关一部分店，他希望有个新品牌能够承接一部分门店和员工。“西贝这个品牌还是要做，未来关一部分、转（新品牌）一部分、保留一部分核心门店。”贾国龙表示。（每日经济新闻）</p>\n  <p><strong>涨价4000元，新一代小米SU7起售价21.99万元</strong></p>\n  <p>3月19日晚，小米举办春季新品发布会，发布新一代SU7。小米创办人、董事长兼CEO雷军宣布，新一代小米SU7标准版起售价21.99万元，Pro版起售价24.99万元，Max版起售价30.39万元。新一代小米SU7正式定价低于预售价，但比老款车型价格高4000元。此前，小米方面公布新一代小米SU7标准版预售价22.99万元，Pro版25.99万元，Max版30.99万元。而小米SU7第一代车型的售价区间为21.59万-29.99万元。</p>\n  <p>据悉，新一代SU7门把手安全设计100%符合2027年新国标。共有三重安全冗余设计：车外机械拉手，碰撞后自动解锁，可从车外应急开门；门锁冗余备份电源，碰撞后仍可正常解锁；车内应急机械拉手，车内无需解锁即可开门。小米新一代SU7有4大色系，9款外饰颜色。（界面新闻、湖北日报）</p>\n  <p><strong>麦当劳回应销售蛋挞：个别餐厅限时供应新品；蛋挞价格为单只8元，6只29.9元</strong></p>\n  <p>近期多位消费者在网络平台发布内容显示，部分麦当劳餐厅开始出售蛋挞。3月19日，麦当劳中国向界面新闻确认了这一消息，同时表示“个别麦当劳餐厅开始限时供应新品，请以餐厅实际供应为准”。但蛋挞是否为长期产品、是否全部门店推广，该品牌没有做出回应。</p>\n  <p>有网友总结了麦当劳蛋挞在各个城市的售卖“地图”，目前北京、上海、广州、深圳、武汉、天津、沈阳、南京、成都、福州、杭州、长沙、西安等城市的个别麦当劳餐厅上线了蛋挞，每个城市只有1-2家餐厅可以买到。（界面新闻）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>ZARA、H&amp;M、拉夫劳伦等，被海关总署点名通报</strong></p>\n  <p>日前，海关总署对2025年检验发现的100个进口消费品质量安全不合格典型案例进行通报，ZARA、H&amp;M、拉夫劳伦等被点名通报。</p>\n  <p>其中，ZARA涉及5批次进口服装不合格，涉及甲醛含量超标、纤维成分与标识不符、附件锐利尖端等多项违规。拉夫劳伦（Ralph Lauren）被检出男式机织衬衫、女童针织T恤、男童机织衬衫、婴儿针织连身服套装、婴儿针织短连衣裤均查出pH值不合格。甲醛、pH值不合格是服装安全领域最常见问题，长期穿着会导致对人体的危害持续累积。（21世纪经济报道）</p>\n  <p><strong>哈啰回应“单车后轮突然锁死致乘客受伤”：用户48小时内就医，可赔付相应医疗费用</strong></p>\n  <p>3月17日，河北廊坊的赵先生反映，他在14日骑行哈啰单车时，车辆后轮突然锁死，导致他从车上摔下，身体多处受伤。赵先生回忆，事发时他刚扫码开锁骑行约两分钟、驶出约百米，位置在廊坊市建设路与新源道交叉口东侧约200米处。事故发生后，尽管App仍显示计费状态，但后轮已完全无法转动，他随身携带的包和手机也摔落在地。</p>\n  <p>3月17日，哈啰方面回应称，车辆突然无法行驶可能是出现故障，具体原因需待检测结果明确，预计将在来电后24小时内回复。哈啰方面还表示，该订单包含保险，若用户在事发48小时内就医，可获相应医疗费用赔付。（羊城晚报）</p>\n  <p><strong>贝莱德CEO警告：AI冲击下，美国应届毕业生恐将面临有史以来最高失业率</strong></p>\n  <p>贝莱德集团CEO拉里·芬克警告称，希望从事白领工作的美国应届大学毕业生不要抱太大希望，因为“人工智能将颠覆许多这类工作。”美国毕业季即将到来，数百万大学应届毕业生正准备走上毕业典礼的舞台，成为职场中最年轻的成员。但对于2026届毕业生来说，这一过渡期可能比以往任何时候都更加艰难。芬克警告，四年制大学学位作为通往稳定职业道路的承诺正开始动摇。（新浪财经）</p>\n  <p><strong>腾讯股价大跌原因：加大AI投入或削减回购</strong></p>\n  <p>据第一财经消息，3月19日，腾讯控股（00700.HK）披露2025年业绩后股价大跌，早盘一度跌超6%，午盘收跌5.9%报518港元，市值跌破5万亿港元，午后跌幅进一步扩大至6.18%。尽管公司全年营收7517.66亿元、同比增14%，净利润2248.42亿元、同比增16%，业绩符合市场预期，但股价仍大幅下挫。</p>\n  <p>此次股价大跌的核心导火索，是腾讯在3月18日业绩会上释放的AI投入与回购调整信号。业内分析认为，腾讯优先布局AI符合行业趋势，是为应对字节跳动、阿里、百度等对手竞争、抢占下一代技术高地的必要举措。但短期来看，回购减少将持续压制股价，市场预计短线将考验500港元支撑位，中长期走势则取决于AI投入能否转化为实际业绩增长。（第一财经）</p>\n  <p><strong>汇丰据悉考虑在未来几年大幅裁员，出于AI因素考量</strong></p>\n  <p>36氪获悉，汇丰控股正计划在未来几年进行大规模裁员，首席执行官乔治・埃尔赫德里押注通过人工智能缩减其中后台运营规模，这是该技术重塑华尔街用工格局的首批重要信号之一。据不愿透露姓名的知情人士透露，全球服务中心内非客户对接类岗位预计受影响最大，目前相关评估仍处于初期阶段。其中一位人士称，此次调整最终可能影响约20000 个岗位，约占汇丰总员工数的10%。（新浪财经）</p>\n  <p><strong>培育钻石价格大跳水，1克拉钻戒只要4000元</strong></p>\n  <p>近期有媒体报道，在深圳水贝珠宝批发市场，一克拉高品质培育钻石裸石的报价牌上，数字已变为“1800-3500元”。而在2020年，同样的产品售价还在8000元上下。短短数年，培育钻石零售价格较峰值下跌超50%。</p>\n  <p>3月18日，21世纪经济报道记者在对比主流品牌官方售价时发现，一克拉天然钻石戒指的标价仍在高位：某国内品牌原价约6.3万"
+  },
+  {
+    "id": "47ed340c237dd844f9f65da3f5c98c49",
+    "title": "氪星晚报｜澳大利亚就业依然强劲，支持澳央行的鹰派立场；首款国产化“龙虾云电脑”发布；法官下令恢复美国之音员工职务，推翻特朗普关停决定",
+    "url": "https://36kr.com/p/3729727275220613?f=rss",
+    "source": "36氪",
+    "category": "商业",
+    "raw_summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://www.36kr.com/newsflashes/3729201896996481\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>马斯克：SpaceX AI和特斯拉预计将继续大规模订购英伟达芯片</strong></a></p>\n  <p>马斯克发文称，非常欣赏英伟达和黄仁勋，英伟达市值实至名归，SpaceX AI和特斯拉预计将继续大规模订购英伟达芯片。</p>\n  <p><a href=\"https://www.36kr.com/newsflashes/3729563978136967\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>三星电子计划在2026年至少投入110万亿韩元用于研发与设施建设</strong></a></p>\n  <p>三星电子计划在2026年至少投入110万亿韩元用于研发与设施建设。</p>\n  <p><a href=\"https://www.36kr.com/newsflashes/3729175397842311\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>小马智行与如祺出行共建Robotaxi车队，首批交付超百辆第七代无人车</strong></a></p>\n  <p>36氪获悉，3月19日，小马智行向如祺出行正式交付搭载小马智行第七代自动驾驶系统的全新广汽埃安霸王龙Robotaxi，首批交付超百辆，这批车辆已接入如祺出行平台并陆续开展运营。与此同时，如祺出行与小马智行将进一步深化战略合作，共同打造更具规模的Robotaxi车队，并高效协同开展更大范围的运营。</p>\n  <p><a href=\"https://www.36kr.com/newsflashes/3729530457849478\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>文远知行正式启动斯洛伐克首个自动驾驶项目</strong></a></p>\n  <p>36氪获悉，3月19日，文远知行WeRide宣布，与ELEVATE Slovakia达成国家级战略合作，正式启动斯洛伐克首个自动驾驶项目。斯洛伐克由此成为文远知行继法国、比利时和瑞士之后布局的第四个欧洲国家市场，公司全球业务已覆盖12个国家、40余座城市。</p>\n  <p><a href=\"https://www.36kr.com/newsflashes/3729454147518088\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>美国八个州起诉阻止Nexstar收购竞争对手Tegna的计划</strong></a></p>\n  <p>当地时间周三晚些时候，美国八个州联合向加利福尼亚州地方法院提起诉讼，要求阻止 Nexstar公司以35.4亿美元收购Tegna公司的提议。该收购将使合并后的实体成为美国最大的广播电台集团。加利福尼亚州总检察长罗布-邦达说，拟议中的合并是非法的，将导致付费电视价格上涨并减少就业机会。</p>\n  <p><a href=\"https://www.36kr.com/newsflashes/3729445401493126\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>马自达：系统遭未经授权访问，部分员工个人信息或泄露</strong></a></p>\n  <p>马自达汽车3月19日公告称，公司发现用于管理从泰国采购零部件的仓库运营的管理系统存在未经授权的外部访问痕迹。发现此事后，公司立即采取了适当的安全措施，同时与外部专业机构合作展开了调查。经调查确认，本公司、集团旗下公司以及业务合作伙伴的部分员工个人信息可能已泄露。马自达就此致歉并表示，将持续强化信息安全体系，包括加强对外部访问的监控以及加强通信管控。</p>\n  <p><a href=\"https://www.36kr.com/newsflashes/3729336174017924\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>澳大利亚就业依然强劲，支持澳央行的鹰派立场</strong></a></p>\n  <p>澳大利亚2月失业率仍处于相对低位，就业继续增长，进一步印证了澳大利亚央行的判断：经济仍具韧性，足以承受更紧缩的货币政策。澳大利亚统计局周四公布的数据显示，就业人数增加48，900人，全部由兼职岗位推动。随着求职者增加，失业率升至4.3%，高于预期的4.1%。</p>\n  <p><a href=\"https://www.36kr.com/newsflashes/3729303536237961\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>贾国龙回应创办新品牌：希望能承接一部分西贝门店和员工</strong></a></p>\n  <p>西贝餐饮集团创始人、董事长贾国龙的最新创业项目“天边砂锅焖面”已在北京798艺术区悄然落地，这家新店2月13日开业，人均消费40元至50元，主打品类是贾国龙家乡内蒙古巴盟特色的砂锅焖面。贾国龙向记者透露，西贝要关一部分店，他希望有个新品牌能够承接一部分门店和员工。“西贝这个品牌还是要做，未来关一部分、转（新品牌）一部分、保留一部分核心门店。”贾国龙表示。</p>\n  <h2><strong>新产品：</strong></h2>\n  <p><a href=\"https://www.36kr.com/newsflashes/3729631926894208\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>赛力斯汽车公司公布车辆安全带预警专利</strong></a></p>\n  <p>36氪获悉，爱企查App显示，近日，赛力斯汽车有限公司申请的“车辆安全带预警方法、装置、设备及介质”专利公布。摘要显示，该方法包括：获取车辆的车速、车辆内乘员的安全带佩戴数据以及预设的至少一个车速区间，其中，至少一个车速区间包括低速区间，若车速处于低速区间，则根据车辆内乘员的安全带佩戴数据确定针对自动紧急制动功能的第一安全带预警策略，按照针对自动紧急制动功能的第一安全带预警策略进行安全带预警。</p>\n  <p><a href=\"https://www.36kr.com/newsflashes/3729588158889602\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>首款国产化“龙虾云电脑”发布</strong></a></p>\n  <p>36氪获悉，近日，国内首个“六边形龙虾战士”浮出水面。它由沐曦股份、智谱华章、创业黑马、启明星辰、湖南永州市经开区、永州移动联合推出，以国产"
+  },
+  {
+    "id": "aaac61ed4d9fe06c781417cd17817f3f",
+    "title": "AWE 2026观察：AI重构家庭空间",
+    "url": "https://36kr.com/p/3729551142534532?f=rss",
+    "source": "36氪",
+    "category": "商业",
+    "raw_summary": "<p>作者：王利</p>\n  <p>编辑：王小坤</p>\n  <p>想象一下，你身处一间密闭场所，四周音箱环绕。接着，音乐响起，声音从不同方向传来：有的掠过头顶，有的在左耳回响，每个声源的位置都清晰可辨。随后，你戴上一副耳机。奇怪的是，耳机隔音似乎并不好，外面声音清晰依旧。听了一会，你有些腻了，摘下耳机，才发现四周的音箱早已关闭——刚才以为仍由音箱播放的音乐，其实一直出自耳机。</p>\n  <p>这是发生AWE2026的一幕，来自索尼的音频系统。</p>\n  <p>这项技术名为“360VME”，旨在测量个人在特定空间里的听觉特征与声场结构，并生成一份个性化声学档案。之后，无论身处何地，用户只需戴上耳机，就可以还原该空间的声音环境。</p>\n  <p>据工作人员介绍：“这套系统目前主要瞄准专业音频制作场景，但未来也有可能拓展到更广泛的个人场景，例如在家中模拟影院的声场体验。”</p>\n  <p>索尼未必是AWE展会中最吸睛的展位，却恰好折射出今年展会的一个变化：<strong>科技正在更深入地进入家庭生活的细节，同时也在重新定义家庭科技的边界。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260319/v2_efd68f8a026c458889056d11e6d80838@5345065_oswg107052oswg554oswg339_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源：AWE</p>\n  <h2><strong>每个场景都值得被AI深挖一次</strong></h2>\n  <p>如果你是AWE的常客，大概早已熟悉家电行业的一个论调：<strong>智能家电的尽头是“系统”。</strong></p>\n  <p>早年间，智能家电大多聚焦在联网和远程控制。再往后，厂商们大规模讲述“全屋智能”和“场景联动”的故事：推开家门，灯光自动亮起，窗帘缓缓拉开，空调提前运转。这种由网关、中控串联设备的模式，一度被视为“智能家居”的标准定义。</p>\n  <p>但在真实生活里，这套叙事屡屡受阻。问题不在技术，而是生态。由于缺乏统一标准，再加上商业博弈，各家厂商更倾向构建自己的封闭体系。消费者被迫面临“二选一”：要么接受单一品牌的整套设备，要么接受中控系统只能控制部分终端。</p>\n  <p>这种情况下，所谓的“智能家电”，更多像是把原本安在墙上的开关，搬到了手机屏幕中，并没有改变人们的生活方式。而理想中的智能家居，则需要具备一定的主动能力。它们须能感知环境变化、学习用户习惯，并适时作出判断，比如空调随作息自动调温。</p>\n  <p>要实现“主动智能”的能力，需要大量数据和算力支撑。然而在相当长一段时间内，这种能力在家电行业仍停留在概念层面。</p>\n  <p>直到近两届AWE，一个新的变化开始变得清晰：<strong>当AI与芯片植入终端，单体设备已能自行完成“感知—判断—执行”的智能进化。</strong>相比行业讨论的“全屋智能”“生态系统”，现实中的技术演进，走出了一条更务实的道路。</p>\n  <p>这一趋势在展会现场展露无遗。尽管仍有“整体联动”的声音，但厂商们不约而同地细化拆解家庭场景，尝试让设备承担更主动的角色。</p>\n  <p>“适老化”是近几年AWE中备受关注的一个切口。早在AWE2023，就有海信等品牌，针对老年用户做产品优化，例如空调支持方言语音交互，还有厂商引入毫米波技术、红外热成像，用于跌倒检测和健康咨询。彼时的尝试更多局限在单一场景中，侧重对环境的感知。</p>\n  <p>而在AWE2026现场，适老化产品开始更加贴近日常。东方枢纽展区的一角，人流不算密集，和周围的机器人展台相比，这里安静许多。一款形似蓝牙耳机的小型设备，摆放在展台的显眼位置。工作人员递给观众试戴，并介绍说：“这是一款助听器。”</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260319/v2_8cc595e0ec8445a4b19a1d3bf1832037@5345065_oswg1419401oswg1436oswg950_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源：Orka</p>\n  <p>这款名为O1 Pro的产品出自听力科技公司 Orka。今年，他们与 Bose 合作，将主动降噪技术引入助听器。佩戴后的变化，并非简单的“声音变大”，而是人声变得清晰，周围环境音被压低。Orka联合创始人刘心可本人便是助听器长期使用者，她深知其中苦楚：“传统助听器的问题是‘听得累’，用户需要不断分辨人声与噪音。”</p>\n  <p>针对这一痛点，AI在助听器的作用更加精准：算法专攻语音识别与人声增强，以此剥离人声与环境音。同时，得益于低功耗设计，助听器续航能力远超传统耳机。</p>\n  <p>Orka CTO陆丛希对36氪表示：“（助听器）单次充电可用35小时。”这意味着，设备的使用场景也可延展至家庭以外，例如在就医过程中，全程记录医嘱，再交由本地模型整理与分析对话内容，实现用药提醒等功能。</p>\n  <p>相比AI功能的简单添加，O1 Pro更像在不断深挖听障场景，回答一个更基础的问题：如何做好“听清楚”这件事。</p>\n  <p>在新国际展区，惠达卫浴是本届AWE唯一以独立展位参展的卫浴品牌。其展区划分为多个主题空间，从镜柜、花洒到马桶；从灯光、除臭到水温控制，传感器与算法嵌入每一个使用环节，参观者仿佛在真实居家环境中体验产品。</p>\n  <p>惠达卫浴总裁王佳分享说：“当AI进入卫浴空间，重点不在操作方式的改变，而是使用过程的优化。”</p>\n  <p>事实上，AI不仅在重塑家电，它也正在进入家庭设计环节。</p>\n  <p>在发布会现场，惠达与群核科技宣布合作，将AI设计接入厨卫改造流程。用户只需提供户型与基本需求，系统便可以在短时间内生成完整的可交付方案。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260319/v2_02ab9baa7bda47c8a67dd9eae63c12f9@5345065_oswg189998oswg2271oswg1279_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">惠达在AWE的发布会</p>\n  <p>传统模式下，卫浴改造往往依赖设计师经验与多轮沟通，周期冗长，不确定性很大。而AI介入后，这"
+  },
+  {
+    "id": "92840e9b03c5c60281f351edd355a04c",
+    "title": "超级创业者时代：如何让个人拥有组织级能力",
+    "url": "https://36kr.com/p/3729545296559749?f=rss",
+    "source": "36氪",
+    "category": "商业",
+    "raw_summary": "<h3><strong>序章｜一个人，就是一家公司：第四次个体经济浪潮正在爆发</strong></h3>\n  <p>历史上每一次生产关系的重构，都诞生于旧有组织形态的瓶颈与新技术力量的碰撞。从1980年代的街头个体户，到1999年《个人独资企业法》确立的法人主体，再到2014年“大众创业、万众创新”的移动互联网浪潮——中国个体经济政策的每一次跃升，都是时代的一次集体答卷。</p>\n  <p>而今天，<strong>随着Agent、OpenClaw等基础设施普及，为超级创业者提供了以AI技术为基础，驱动创新变革的天然契机。</strong>OPC（One Person Company，一人公司）、SE（Super Entrepreneur，超级创业者）等创新模式，正在推动第四次浪潮已然到来。</p>\n  <p>数据已在讲述这个故事：根据《2025年中国数字经济创业白皮书》，全国已有超过1200万创业者选择OPC模式，新注册OPC数量同比增长47%，创造的经济价值占新经济总量的23%。超级个体，正在成为创新经济最小而最高效的单元。</p>\n  <p>SE超级创业者不是传统意义上的“个体户”，也不是自由职业者的数字化翻版。它是“<strong>个人+AI=公司</strong>”<strong>的全新组织范式</strong>——一个拥有敏锐洞察力和核心专业能力的个体，借助大模型、智能体、低代码平台等AI工具链，独立完成从产品研发、市场推广到客户服务的全链路闭环，实现真正意义上的单人成军。</p>\n  <h3><strong>技术平权与政策松绑：</strong></h3>\n  <p><strong>OPC的历史性窗口期</strong></p>\n  <p>OPC模式具有五大核心特征，划定了它与过去所有商业形态的本质边界：极致精简（决策链路趋近于零）、AI赋能（智能体承担重复性跨学科任务）、全链路闭环（个人可独立完成全流程运营）、高弹性（试错成本低、方向调整快）、利基定位（深耕大企业无暇覆盖的细分市场）。</p>\n  <p>支撑这一切成为可能的，是技术门槛的历史性坍塌。大模型能力正在经历“普惠化”革命：推理成本持续下降，开源模型崛起，顶尖开源模型在部分公开测评上接近GPT‑4水平。智能体从辅助工具进化为“数字员工”，具备自主规划、工具调用、记忆与反思的能力。低代码/无代码平台则让非技术背景的创业者也能快速构建可交付产品。算力与数据基础设施正在“水电化”——像水和电一样触手可及、按需付费。</p>\n  <p>与技术革命同步发生的，是政策层面的主动布局。2024年新《公司法》实施，取消了“一个自然人只能设立一个一人公司”的限制，从法律层面为OPC的规模化发展扫清障碍。上海、苏州、深圳等地密集推出OPC专项政策，城市之间的竞争，已从“投资于物”（产业园区与硬件补贴）转向“投资于人”（吸引超级个体）。</p>\n  <p>在这场竞争中，上海徐汇区以其独特的产业密度、政策力度与生态完整度，成为中国OPC实践最具代表性的样本。</p>\n  <h3><strong>技术底座：大模型与智能体如何构成\"个人的组织能力\"&nbsp;</strong></h3>\n  <p><strong>大模型普惠化：个人第一次拥有“组织级大脑”</strong></p>\n  <p>阶跃星辰Step 3.5 Flash、MiniMax M2.5、商汤SenseNova V6.5……这些诞生于上海滩的旗舰模型，不断刷新着AI能力的边界。以MiniMax M1为例，这一全球首个开源大规模MoE推理模型，支持高达100万token的上下文处理，让个人创业者能在秒级时间内消化数万页技术文档；其强化学习阶段仅花费53万美元，远低于行业动辄千万美元的投入——模型成本的下降，直接降低了每一位OPC创始人的运营成本。</p>\n  <p>多模态能力则让个人具备了“跨专业”的超能力：一名独立创作者借助AI，可以在同一天完成视频脚本创作、广告视觉生成、代码调试和市场分析报告撰写。这在三年前，需要一个完整的跨职能团队才能实现。</p>\n  <p><strong>智能体：让“一人即团队”成为现实，个人的组织能力被系统化复制</strong></p>\n  <p>与传统工具型AI不同，智能体具备自主规划、记忆、工具调用与反思的能力，能像“数字员工”一样独立承接任务、持续优化交付。阶跃AI桌面伙伴“小跃”、MiniMax Agent、Anthropic Claude等平台，正在为OPC提供多智能体协作系统——前端设计、算法研发、工程部署。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260319/v2_309ab8e5cbbf40448ff3a7a093bbe9a3@5868219_oswg52434oswg1000oswg684_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>随着OpenClaw的热潮席卷，MiniMax开发的MaxClaw以39元极具竞争力的价格，强势进入“小龙虾”市场，成为众多开发者的第一只小龙虾。每一个环节都可以由不同的Agent承接，个人创始人只需专注于最核心的判断与创意决策。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260319/v2_f7c03ba47f364e26bebb12fe8ae69647@5868219_oswg226924oswg831oswg353_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>AI Coding：研发能力的彻底平民化，从“不会写代码”到“能造产品”</strong></p>\n  <p>2026年，开发者已在日常工作中使用AI编程工具，非技术背景的创业者同样可以借助自然语言完成产品原型到上线的全流程开发。Stack Overflow2025年开发者调查显示，84%的开发者正在使用或计划使用AI工具。而由500名顶尖工程师参与的Pragmatic峰会给出的最新数据更夸张：93%的开发者已在使用AI工具，平均每周能节省4小时。Cursor、GitHub Copilot、通义灵码、腾讯CodeBuddy等AI原生IDE，使得一人开发、维护大规模系统成为可能。</p>\n  <h3><strong>关键赛道：OPC在多领域的突破与典型案例&nbsp;</strong></h3>\n  <p><strong>AI+视频：一人剧组的产业化，广告人用AI重写影视工业流程</strong></p>\n  <p>上海艾门韦思（Aimwise）网络科技有限公司，2023年4月在上海嘉定南翔创立，创始人黄楚杰是资深广告人，采用“上海为核心、多城联动”的轻量团队模式，主打“AI生成+人工精修”混合工作流，已是央视、腾讯、伊利等头部机构的AI内容"
+  },
+  {
+    "id": "3f207e8888d9f4ce9fd559540ae0bfd0",
+    "title": "长三角企业国际化合作发展交流会暨新华·中国企业出海合作中心（长三角）在宁启幕",
+    "url": "https://36kr.com/p/3729511818001799?f=rss",
+    "source": "36氪",
+    "category": "商业",
+    "raw_summary": "<p>3月17日，以“从长三角到全球：共筑企业出海新航线”为主题的长三角企业国际化合作发展交流会暨“新华·中国企业出海合作中心（长三角）”启动仪式在南京新华国际会议中心隆重举行，活动由香港长三角企业家国际联盟与江苏省国际商会联合主办。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260319/v2_e1712c6416864fb8ba0394641cc3fb2c@5868219_oswg192386oswg1349oswg900_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p>全国政协常委、香港长三角企业家国际联盟主席、粤港澳大湾区企业家联盟主席、香港中华总商会会长、香港新华集团主席蔡冠深博士，江苏省人民政府外事（港澳事务）办公室副主任沈雁飞，江苏省贸促会（省国际商会）党组成员、副会长丛苏峰，南京大学党委常委、副校长索文斌等长三角地区政府、高校代表，越南驻上海总领事馆总领事陈辉雄、柬埔寨王国驻上海总领事馆总领事吴维索等海外驻沪总领事，以及港澳及海内外商协会代表、行业专家、企业家代表约150人齐聚一堂，共商企业国际化合作发展新路径，共谋长三角企业出海新蓝图。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260319/v2_a2d7bd6d9dc94c508e2cb3e699e9c8f7@5868219_oswg285006oswg1266oswg844_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p><strong>多方聚力共襄盛举，政企协同护航出海</strong></p>\n  <p>全国政协常委、香港长三角企业家国际联盟主席、香港新华集团主席蔡冠深博士在致辞中指出，长三角是中国经济最具活力的区域之一，当前正迎来企业国际化发展的重要机遇期，而今年作为“十五五”规划开局之年，更为企业出海锚定了方向、提供了契机。在此背景下，新华集团发起设立“新华·中国企业出海合作中心（长三角）”，是立足国家高水平对外开放战略、契合长三角产业发展需求的重要举措。中心将依托长三角雄厚的制造业、科创等产业优势，结合新华集团深耕东盟及全球市场半个多世纪的实战经验，聚焦企业出海核心痛点，以“产业牵引、人才支撑、金融赋能”三位一体机制为核心，整合全链条资源，助力企业突破品牌建设、合规管理等关键瓶颈，推动企业实现从“走出去”到“扎下根”的可持续发展，助力江苏及长三角企业在新发展阶段把握出海机遇、行稳致远。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260319/v2_4e994c06c0b74a5a869cae8bbbdb8b05@5868219_oswg171173oswg1349oswg900_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p>江苏省贸促会（国际商会）党组成员、副会长丛苏峰在致辞中表示，江苏作为长三角开放型经济高地，与东盟等国际市场合作基础深厚。省贸促会将充分发挥联结政企、衔接内外的职能优势，聚焦企业出海核心需求整合全链条服务资源，此次将以新华出海合作中心启动为契机，加强与新华集团及长三角各方的联动协作，共同为企业稳健“走出去”保驾护航。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260319/v2_64138d6f4d45422ea9d40c67c40bca7f@5868219_oswg170890oswg1266oswg844_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p>南京市委统战部副部长、市工商联党组书记丁铭表示，南京正加快培育新质生产力、扩大高水平对外开放，市工商联将从政策服务、政企沟通、资源赋能、权益保护四大维度提质增效，充分发挥桥梁纽带作用，依托新华出海合作中心这一平台，助力南京企业提升国际竞争力，在全球舞台展现长三角企业风采。</p>\n  <p><strong>东盟总领事致辞，释放深化合作强烈信号</strong></p>\n  <p>柬埔寨王国驻上海总领事馆总领事吴维索莅临现场并致辞，高度认可长三角企业的活力与竞争力，介绍了柬埔寨强劲的经济增长态势与广阔投资机遇，提及柬埔寨2026年上半年将对所有中国公民及游客实施免签政策，并表示热忱欢迎长三角企业赴柬考察投资，深化双方互利共赢合作。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260319/v2_c81a5d88667949c5bf9b2348426a392d@5868219_oswg188503oswg1266oswg844_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p>越南驻上海总领事馆总领事陈辉雄在致辞中充分肯定长三角在中国式现代化进程中的引领作用，解读了越南跻身中等收入国家后的经济发展格局与“两个百年”发展目标，高度赞赏蔡冠深博士及新华集团为促进越中合作作出的突出贡献，并表示越南驻上海总领事馆将全力搭建长三角企业与越南的合作桥梁，推动双方合作走深走实。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260319/v2_ede5dd2ecfb4457dbefe356411c159ad@5868219_oswg169713oswg1266oswg844_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p>两位东盟国家总领事的致辞，传递出东盟与中国深化经贸合作的强烈意愿，也为长三角企业布局东盟市场提供了重要指引，彰显出中国与东盟双向奔赴、互利共赢的合作新格局。</p>\n  <p><strong>平台正式揭牌，打造长三角一站式出海枢纽</strong></p>\n  <p>活动现场，“新华·中国企业出海合作中心（长三角）”完成正式启动与揭牌仪式。该中心立足南京、服务长三角、辐射全国，将整合全球政商资源，打造务实、透明、高效的企业交流合作平台，重点助推长三角企业拓展国际市场，提"
+  },
+  {
+    "id": "fa449cf9b3eef1f4b9ec8ceed9732be9",
+    "title": "因胜传媒成功协办长三角企业国际化合作发展交流会",
+    "url": "https://36kr.com/p/3729505125350792?f=rss",
+    "source": "36氪",
+    "category": "商业",
+    "raw_summary": "<p>2026年3月17日，由香港长三角企业家国际联盟与江苏省国际商会联合主办、南京因胜文化传媒有限公司（简称“因胜传媒”）独家协办的“从长三角到全球：共筑企业出海新航线”为主题的长三角企业国际化合作发展交流会暨“新华·中国企业出海合作中心（长三角）”启动仪式在南京新华国际会议中心隆重举行。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260319/v2_f12c2e75ba4a4aefad352859a9b8d0a5@5868219_oswg273027oswg1600oswg1067_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p>全国政协常委、香港长三角企业家国际联盟主席、粤港澳大湾区企业家联盟主席、香港中华总商会会长、香港新华集团主席蔡冠深博士，江苏省人民政府外事（港澳事务）办公室副主任沈雁飞，江苏省贸促会（省国际商会）党组成员、副会长丛苏峰，南京大学副校长、南京大学苏州校区党工委常务副书记、管委会常务副主任索文斌，南京市委统战部副部长、南京市工商联党组书记丁铭，越南驻上海总领事馆总领事陈辉雄，柬埔寨王国驻上海总领事馆总领事吴维索先生等长三角地区政府代表、海外驻沪总领事、港澳及海内外商协会领袖、行业专家及企业家代表约150人欢聚一堂，共商合作，共谋发展。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260319/v2_b41f417ff2614c80a264573e2ffa8160@5868219_oswg1518083oswg6000oswg4000_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p>活动上，新华·中国企业出海合作中心（长三角）的正式落地，长三角企业将在“家门口”拥有一个联通全球的国际化服务平台。在香港，新华集团全力推动的“世界品牌大会”，正成为助力中国企业从“走出去”到“走上去”的重要舞台。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260319/v2_0bc2083b39204f83bd71b7e78764692b@5868219_oswg221574oswg1269oswg846_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p>南京因胜文化传媒有限公司（简称“因胜传媒”）将以此为契机，充分发挥联结宁港、衔接内外、媒体资源与整合营销的积极作用，依托自身专业与资源服务平台优势，凝聚各方力量，与各级政府、企业品牌、专业机构等携手，共控风险、共创品牌、共享成果，在连通世界的蓝海上，共同书写中国产业全球化的崭新篇章。</p>\n  <p>据了解，南京因胜文化传媒有限公司（简称“因胜传媒”）是双品工程秘书长单位，品牌传播与营销专家顾问单位。主营业务包括：品牌宣传：图文、设计、视频等内容，及媒体发稿、媒介投放等渠道服务；品牌活动：创意策划到落地执行全周期服务；整合营销：统筹传统广告、数字营销、公共关系、产品行销等手段为价值增长赋能；以及组织开展品牌人才能力提升培训，主办承办品牌引领行动等品牌建设发展领域峰会论坛等。</p>\n  <p>因胜传媒凭借强大的专业与资源服务优势，正快速成为中国品牌建设发展的引领者。</p>\n  <p>因胜传媒善于用品牌策略找准方向，用品牌传播放大声音，用品牌活动拉近距离，用整合营销刷新心智，从而让广大企业及品牌的每项预算都花在价值增长的刀刃上。</p>"
+  },
+  {
+    "id": "ad4a22a20a0d4af23a963fe96195d43d",
+    "title": "腾讯不愿在微信里躺平",
+    "url": "https://36kr.com/p/3729475100917126?f=rss",
+    "source": "36氪",
+    "category": "商业",
+    "raw_summary": "<p>作者&nbsp;|&nbsp;张帆 黄绎达</p>\n  <p>编辑&nbsp;|&nbsp;黄绎达</p>\n  <p>腾讯依旧还是那个稳健的腾讯。</p>\n  <p>3月18日，腾讯公布了2025年全年业绩。财报数据显示，公司在2025年实现收入7518亿元，同比增长14%；同期实现经营利润2416亿元，同比增长16%；同期Non-IFRS归母净利润录得2596亿元，同比增长17%。</p>\n  <p>作为中国市场最核心标的之一，稳健一直是腾讯的标签，2025年的业绩也总体符合市场预期。然而，<strong>在如今的AI浪潮下，投资者关注的核心点恐怕并不是腾讯的业绩表现，而是公司在AI上的作为。</strong></p>\n  <p>本次业绩发布会上，公司管理层披露，2025年腾讯对<strong>AI新产品</strong>的投入高达180亿元，其中Q4就投入了70亿元；而且，<strong>腾讯总裁刘炽平表示，2026年公司会持续加大对AI的投入，对新产品的投资额在今年至少翻倍</strong>。</p>\n  <p>为了平衡营运资金的使用，腾讯计划调整资金分配优先级，主要是在加大对AI投入的同时，将减少用于股份回购的资金。</p>\n  <h2><strong>01 没了回购的腾讯还能涨么？</strong></h2>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260319/v2_d50af54764ed46d7a7974f73b644a97c@5426566_oswg65802oswg1080oswg664_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图：腾讯股份回购与股价；资料来源：wind，35氪</p>\n  <p>从本轮回购的节奏来看，腾讯大规模回购开始于2022年。在此之前，腾讯股价从2021年2月693港元/股的历史峰值，一路下跌至2022年10月的184港元/股，区间跌幅高达73%。</p>\n  <p>作为中国总市值最大的上市公司，其股价出现如此跌幅，是当年多重因素共同作用的结果。比如，新冠时期腾讯业绩出现短期走低，大股东Prosus持续减持，以及当时社会氛围质疑游戏产业的论调等等。</p>\n  <p>但从实际的股份回购效果来看，腾讯的确抄了个大底。<strong>2022年腾讯回购金额接近300亿，2023年投入434.6亿，2024年更是投入近千亿加码回购</strong>。然而，随着腾讯股价的回暖，2025年腾讯的股份回购已经开始实质性减少。相较于2024年的984.7亿回购，2025年下滑到703.6亿，降幅28.6%。</p>\n  <p>论及近年来腾讯股份回购边际走弱的原因：一方面，腾讯股价已于2025年重回到了与2021年相当的历史高位，回购提振股价的诉求已经大幅减弱；另一方面，驱动腾讯本轮股价修复的核心因素，除了大规模的回购带来的资金面支撑之外，腾讯自身业绩回暖对估值的支撑亦功不可没。</p>\n  <p>反映到估值的维度，即便未来腾讯削减回购金额，但在持续好业绩的支撑下，经过了多轮估值切换，腾讯市盈率依旧处于2022年以来的低位。<strong>换句话说，2021年的腾讯股价接近700港元/股，对应的市盈率接近50倍，而当前520港元/股的腾讯，对应的估值还不到20倍，与2022年10月184港元/股时的估值底部相当。</strong></p>\n  <p><strong>因此，即便腾讯股价目前处于相对高位，但在其业绩预期向好支撑下的低估值，是公司股价在未来依然具备上涨空间的核心支撑</strong>。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260319/v2_729075b7db0b4ab98d889f46296a9d81@5426566_oswg14601oswg845oswg543_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图：腾讯长期市盈率表现；资料来源：wind，36氪</p>\n  <h2><strong>02 腾讯能迎来一波AI重估么？</strong></h2>\n  <p>作为中国互联网第一股，腾讯可谓是岁月静好。曾经与腾讯并驾齐驱的阿里，当前市值只有腾讯的一半左右；BAT之一的百度，总市值甚至一度不及腾讯音乐。</p>\n  <p><strong>这背后，作为国民级应用的微信，发挥了至关重要的作用。</strong></p>\n  <p>或许也正是由于微信在入口端天然具备的巨大优势，腾讯在这波AI“军备竞赛”的前期并不积极。2026年1月26日，腾讯年会现场，马化腾罕见承认：“我们整个动作其实是慢了，一直到2024年底，我们的AI产品元宝和混元大模型才转到CSIG，他们才开始正式做这个产品。”</p>\n  <p>而在“烧钱”的大模型领域，相对稳健的腾讯带来的直接结果就是LLM的掉队。从测评来看，智谱、Minimax、阿里千问、DeepSeek等模型名列前茅，却不见了混元。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260319/v2_7de1596dfd3b41268ac0c2da7bcdeda3@5426566_oswg40027oswg777oswg313_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图：主流大模型性能排名；资料来源：Artificial Analysis ，36氪</p>\n  <p><strong>但随着大模型性能的收敛，2026年市场关注的重点从大模型的更新换代逐步转移到了以OpenClaw为代表的Agent上，以及实际应用中如何降低Token成本。</strong>而2025年以来，千问免费外卖、元宝红包等争夺AI入口端的动作，整体而言都是各自为战，缺乏实际的应用场景支撑。</p>\n  <p>从OpenClaw的火爆来看，“龙虾”作为一个Agent，好用的前提就是要花时间去“养”。“养”的过程就是让龙虾能够足够了解使用者，通过使用者不断交互、投喂使用者的信息，进而生成定制化的Agent。</p>\n  <p>这亦说明，<strong>本质上看一个足够适配个人的Agent需要有足够的个人信息，而这点上微信依旧具有天然的优势</strong>。马斯克曾多次强调，微信在中国已超越普通应用，成为集社交、支付、政务、购物、出行等于一体的“数字生活操作系统”。</p>\n  <p>微信对使用者足够了解，或许甚至几乎不用“养”就能为用户生成可用的Agent。</p>\n  <"
   },
   {
     "id": "235f00ea264fc0dba6f66fab6f6890ab",
@@ -664,68 +752,84 @@
     "raw_summary": "<p>In 2026, data engineers working with multi-agent systems are hitting a familiar problem: Agents built on different platforms don’t operate from a shared understanding of the business. The result isn’t model failure — it’s hallucination driven by fragmented context.</p><p>The problem is that agents built on different platforms, by different teams, do not share a common understanding of how the business actually operates. Each one carries its own interpretation of what a customer, an order or a region means. When those definitions diverge across a workforce of agents, decisions break down.</p><p>A set of announcements from Microsoft this week directly targets that problem. The centerpiece is a significant expansion of <a href=\"https://venturebeat.com/data-infrastructure/microsofts-fabric-iq-teaches-ai-agents-to-understand-business-operations-not\"><u>Fabric IQ</u></a>, the semantic intelligence layer the company debuted in November 2025. Fabric IQ&#x27;s business ontology is now accessible via MCP to any agent from any vendor, not just Microsoft&#x27;s. Alongside that, Microsoft is adding enterprise planning to Fabric IQ, unifying historical data, real-time signals and formal organizational goals in one queryable layer. The new Database Hub brings Azure SQL, Cosmos DB, PostgreSQL, MySQL and SQL Server under a single management plane inside Fabric. Fabric data agents reach general availability. </p><p>The overall goal is a unified platform where all data and semantics are available and accessible by any agent to get the context that enterprises require.</p><p>Amir Netz, CTO of Microsoft Fabric, reached for a film analogy to explain why the shared context layer matters. &quot;It&#x27;s a little bit like the girl from 50 First Dates,&quot; Netz told VentureBeat<i>.</i> &quot;Every morning they wake up and they forget everything and you have to explain it again. This is the explanation that you give them every morning.&quot;</p><h2>Why MCP access changes the equation</h2><p>Making the ontology MCP-accessible is the step that moves Fabric IQ from a Fabric-specific feature into shared infrastructure for multi-vendor agent deployments. Netz was explicit about the design intent.</p><p>&quot;It doesn&#x27;t really matter whose agent it is, how it was built, what the role is,&quot; Netz said. &quot;There&#x27;s certain common knowledge, certain common context that all the agents will share.&quot;</p><p>That shared context is also where Netz draws a clear line between what the ontology does and what RAG does. He did not dismiss retrieval-augmented generation as a technique — he placed it specifically. RAG handles large document bodies such as regulations, company handbooks and technical documentation, where on-demand retrieval is more practical than loading everything into context.\n\n &quot;We don&#x27;t expect humans to remember everything by heart,&quot; he said. &quot;When somebody asks a question, you have to know to go and do a little bit of a search, f"
   },
   {
-    "id": "f8b955285201523c3fa68291a9c544ca",
-    "title": "北大团队推出AI自主全球直播，探讨脑机接口技术安全｜公司动态",
-    "url": "https://www.tmtpost.com/7921889.html",
+    "id": "5fb8014fbdd2bbdbeede5111b66255f7",
+    "title": "在大模型这件事上，雷军居然给马斯克打样了",
+    "url": "https://www.tmtpost.com/7921801.html",
     "source": "钛媒体",
     "category": "商业",
-    "raw_summary": "论论全球提出了一个解决方案：全面呼吁构建“开源科技文明”"
+    "raw_summary": "论大模型，马斯克确实该拜雷军为师。"
   },
   {
-    "id": "ec4fcc51b57369db1ed22d28d130ab40",
-    "title": "对话易点天下：Agent与过去有本质区别，安全风险不在于模型微调，而在于模型选择",
-    "url": "https://www.tmtpost.com/7921199.html",
+    "id": "60cd4b5f4ab4c8dcd6bd5b5ac10f529b",
+    "title": "阿里：电商再沦陷，AI才是大救星",
+    "url": "https://www.tmtpost.com/7921879.html",
     "source": "钛媒体",
     "category": "商业",
-    "raw_summary": "核心业务场景落地，关键是要给Agent权力框定边界。"
+    "raw_summary": "核心电商板块的增长显著放缓，欣慰之处是阿里云的增长还是比较强劲的"
   },
   {
-    "id": "72942495679a60b7d2bbe57c696518a9",
-    "title": "81000人深夜倾诉：AI正在偷走人类最珍贵的东西？",
-    "url": "https://www.tmtpost.com/7922305.html",
+    "id": "206865c9fe5494de0fe1f0fdfc1b7613",
+    "title": "中国疫苗的黎明静悄悄",
+    "url": "https://www.tmtpost.com/7922263.html",
     "source": "钛媒体",
     "category": "商业",
-    "raw_summary": "全球最大AI调研背后的欲望与恐惧。"
+    "raw_summary": "工程师红利的助力下，中国疫苗迟早会成为全球最具竞争力的力量。"
   },
   {
-    "id": "9e5ae06675dacb9ebbeb0a0850a720cd",
-    "title": "腾讯的心思，藏在“虾笼”里",
-    "url": "https://www.tmtpost.com/7921656.html",
+    "id": "87b1d2eb79f79b9f543fee630427598c",
+    "title": "小米新SU7，雷军输不起",
+    "url": "https://www.tmtpost.com/7922089.html",
     "source": "钛媒体",
     "category": "商业",
-    "raw_summary": "永远不要低估腾讯"
+    "raw_summary": "小米告别“新手保护期”。"
   },
   {
-    "id": "900076a762a26951044f7de93db31871",
-    "title": "Arm执行副总裁Drew Henry：物理AI领域，芯片设计并非以极致性能和超高内存带宽为核心",
-    "url": "https://www.tmtpost.com/7922211.html",
+    "id": "a91423e3648f34778d784296576ac57c",
+    "title": "风电+绿氢，能源行业的新\"黄金搭档\"前景如何？",
+    "url": "https://www.tmtpost.com/7921719.html",
     "source": "钛媒体",
     "category": "商业",
-    "raw_summary": "物理AI是Arm亟需打造的最复杂的计算平台之一。"
+    "raw_summary": "能源转型的必然选择。"
   },
   {
-    "id": "0b3276b2ece489d15eee95d83b9ccacd",
-    "title": "阿里的1000亿美金野心与美团的243亿亏损阴影",
-    "url": "https://www.tmtpost.com/7922309.html",
+    "id": "40fa283aed5a4c16f01ad979d6ae965f",
+    "title": "全世界都以为它是DeepSeek V4，结果却是小米交的“作业”",
+    "url": "https://www.tmtpost.com/7921866.html",
     "source": "钛媒体",
     "category": "商业",
-    "raw_summary": "2026年3月19日晚，杭州西溪园区与北京望京的空气密度截然不同。"
+    "raw_summary": "全世界都以为它是DeepSeek V4，结果却是小米交的“作业”"
   },
   {
-    "id": "7907b4c0ec13c7b9b89b0673fd2dcc76",
-    "title": "直觉机器公司的业绩指引超出华尔街预期，为什么股价却在下跌",
-    "url": "https://www.tmtpost.com/7922325.html",
+    "id": "5e0244f30482af7eb135f905bfa698ef",
+    "title": "一手实测钉钉“悟空”：AI总算从聊天进化到干活！",
+    "url": "https://www.tmtpost.com/7922228.html",
     "source": "钛媒体",
     "category": "商业",
-    "raw_summary": "到2026年，公司预计销售额将达到9亿美元至10亿美元。"
+    "raw_summary": "钉钉“悟空”真能替我干活"
   },
   {
-    "id": "1a6352ca599a7d2eeea7344f07fd09b5",
-    "title": "顶级价值型基金经理力荐他们最看好的股票，把目光放到国际市场上",
-    "url": "https://www.tmtpost.com/7922323.html",
+    "id": "eb5299b826aefc4d5f0cf4e846dfed4a",
+    "title": "争做 “英伟达平替”，地平线悬了吗？",
+    "url": "https://www.tmtpost.com/7922209.html",
     "source": "钛媒体",
     "category": "商业",
-    "raw_summary": "价值型基金经理认为，全球能源、航空航天以及其他工业类股票看起来很有吸引力。"
+    "raw_summary": "这是一份略显 “骨感” 的答卷。"
+  },
+  {
+    "id": "a7399d4767efa45b2f6ffd1203730f01",
+    "title": "大国交通！韩国八部委代表团访华，点赞百度萝卜快跑无人车",
+    "url": "https://www.leiphone.com/category/industrynews/4SdyZvdybLusrxb1.html",
+    "source": "雷锋网",
+    "category": "商业",
+    "raw_summary": "<p>3月18日至20日，由韩国国土交通部、财政经济部、交通安全公团等八部委组成的代表团抵达北京，开展了为期三天的实地考察。考察首日，代表团重点走访了百度旗下无人驾驶出行服务平台“萝卜快跑”，在位于北京亦庄的百度Apollo Park，与百度团队就业务发展及无人驾驶技术最新进展，进行了长达三小时的深入交流。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260320/69bcf25e381dd.png?imageView2/2/w/740\" />&nbsp;</p><p>考察期间，韩国国土交通部移动出行局局长、企划协调室室长亲自体验了萝卜快跑无人驾驶车辆，对车辆平稳流畅的行驶表现给予高度评价。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260320/69bcf261e4f39.png?imageView2/2/w/740\" />&nbsp;</p><p>作为全球无人驾驶领域的领军企业，萝卜快跑目前已累计提供出行服务超过2000万次，业务覆盖北京、上海、深圳、武汉、香港、迪拜、阿布扎比等全球26座城市。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260320/69bcf2660ac59.png?imageView2/2/w/740\" />&nbsp;</p><p><span style=\"color: #FFFFFF;\">雷峰网</span></p>"
+  },
+  {
+    "id": "2ccfb3c903c803f100c5cbca5d72b801",
+    "title": "明视脑机刘冰：攀登“脑机珠峰”需要一整套支持长期远征的后勤保障体系",
+    "url": "https://www.leiphone.com/category/industrynews/LhZ8cMvAboWNi4zM.html",
+    "source": "雷锋网",
+    "category": "商业",
+    "raw_summary": "<p>“行业在思考如何让机器读懂人心，我们则在探索如何让大脑理解机器。”明视脑机（Mindtrix）创始人刘冰博士在2026年亚布力论坛上如是诠释他们正在做的事。<br /></p><p>当前，全球脑机接口的竞赛焦点多集中于“读取”大脑信号，以实现意念控制等炫酷应用。而明视脑机（Mindtrix）专注于基于“脑机双学习”的具反馈运动控制以及基于闭环大规模刺激的视觉重建，这被刘冰博士定义为“逆向”——他们攻坚的是“写入”式脑机接口，目标是向大脑视觉皮层输入精确的电信号图谱，为彻底失明者重建光明。</p><p>两个方向勾勒出两种截然不同的创新哲学。前者沿着相对清晰的路径做迭代优化，而后者则试图在生物与机器的边界上，建立一套全新的基础通信协议。这被业界公认为“脑机接口”的终极挑战之一，其难度被比喻为该领域的“珠穆朗玛峰”。</p><p>刘冰表示，这种“逆向”选择，本质上是对创新“时间维度”的重新标定。明视脑机主动拥抱了最高的不确定性和最长的研发周期，其回报并非立竿见影的产品，而是对一项“根技术”的率先定义权。我们在为无法“敏捷迭代”的硬核创新，提供一套可被理解、可被追踪的“发展共识”。</p><p>他公布了一张清晰的时间表：2026年完成首例全盲受试者实验，2028年启动注册临床，目标2030年前后产品上市。&nbsp;</p><p>刘冰坦言：“在硬科技领域，比技术突破更难的，是管理各方预期，为‘耐心’设定清晰的刻度尺。”这张时间表，实际上是在科学探索的迷雾中，为包括投资者、合作方乃至监管机构在内的所有参与者，树立起一座座灯塔。它将漫长的不确定性，转化为一系列可验证、可</p><p>讨论的阶段性目标，从而试图构建一种基于理性共识的长期信任关系。这或许是所有长周期硬科技企业必须修炼的内功。</p><p>针对脑机接口领域的投融资环境，刘冰也提出了当前生态的几点不足：缺乏足够长期的专项基金、针对前沿科技投资的税收激励不足、退出通道过于单一且短期化。刘冰的观点与早前一些硬科技投资人的呼吁不谋而合——只有当投资最前沿、最基础的科技，能够成为一件“名利双收”、可持续的事，社会资本才会系统性地流向这些决定国家未来的赛道。</p><p>“最大的风险或许不是技术上的暂时失败，而是在长期主义的‘沉没成本’面前，整个系统失去定力。”刘冰点出了硬科技创新的最深层挑战。攀登“脑机珠峰”，需要的不仅是一两个探险家的勇气，更需要的是一整套支持长期远征的后勤保障体系。&nbsp;</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260320/69bcd52aa28f9.jpeg?imageView2/2/w/740\" /></p><p>明视脑机（Mindtrix）是一家由海外顶尖脑机接口实验室归国博士创立，专注于视觉重建等解决方案的植入式脑机接口科技公司。公司以“成全球领先的面向颠覆性医疗的植入式脑机接口科技公司”为愿景，为神经系统疾病治疗和人类潜能开发提供革命性解决方案。</p><p>公司目前聚焦于视觉重建、运动控制等前沿领域，基于“脑机双学习”的具反馈运动控制以及基于闭环大规模刺激的视觉重建，公司目前突破多项植入式脑机接口关键技术。</p><p>公司创始团队来自加州大学伯克利分校、杜克大学、索克尔生物研究所、加州大学尔湾分校、约翰斯霍普金斯大学、芝加哥大学、中国科学院自动化所等国际顶尖研究所院校，在脑机双学习解码算法、视觉重建、柔性神经电极、神经调控方面有丰富的科研积累和成果，整体技术实力全球领先。</p><p>媒体联系：fanyc@mindtrix.cn人才招聘：xujing@mindtrix.cn</p><p>&nbsp;</p><p><br /></p>"
   },
   {
     "id": "ee64ae9027c08bd04c442c2a5ece10ae",
@@ -776,36 +880,28 @@
     "raw_summary": "<h3>序章｜一个人，就是一家公司：第四次个体经济浪潮正在爆发</h3><p>历史上每一次生产关系的重构，都诞生于旧有组织形态的瓶颈与新技术力量的碰撞。从1980年代的街头个体户，到1999年《个人独资企业法》确立的法人主体，再到2014年“大众创业、万众创新”的移动互联网浪潮——中国个体经济政策的每一次跃升，都是时代的一次集体答卷。</p><p>而今天，<strong>随着Agent、OpenClaw等基础设施普及，为超级创业者提供了以AI技术为基础，驱动创新变革的天然契机。</strong>OPC（One Person Company，一人公司）、SE（Super Entrepreneur，超级创业者）等创新模式，正在推动第四次浪潮已然到来。</p><p>数据已在讲述这个故事：根据《2025年中国数字经济创业白皮书》，全国已有超过1200万创业者选择OPC模式，新注册OPC数量同比增长47%，创造的经济价值占新经济总量的23%。超级个体，正在成为创新经济最小而最高效的单元。</p><p>SE超级创业者不是传统意义上的“个体户”，也不是自由职业者的数字化翻版。它是“个人+AI=公司”的全新组织范式——一个拥有敏锐洞察力和核心专业能力的个体，借助大模型、智能体、低代码平台等AI工具链，独立完成从产品研发、市场推广到客户服务的全链路闭环，实现真正意义上的单人成军。</p><h3>技术平权与政策松绑：OPC 的历史性窗口期</h3><p>OPC模式具有五大核心特征，划定了它与过去所有商业形态的本质边界：极致精简（决策链路趋近于零）、AI赋能（智能体承担重复性跨学科任务）、全链路闭环（个人可独立完成全流程运营）、高弹性（试错成本低、方向调整快）、利基定位（深耕大企业无暇覆盖的细分市场）。</p><p>支撑这一切成为可能的，是技术门槛的历史性坍塌。大模型能力正在经历“普惠化”革命：推理成本持续下降，开源模型崛起，顶尖开源模型在部分公开测评上接近GPT‑4水平。智能体从辅助工具进化为“数字员工”，具备自主规划、工具调用、记忆与反思的能力。低代码/无代码平台则让非技术背景的创业者也能快速构建可交付产品。算力与数据基础设施正在“水电化”——像水和电一样触手可及、按需付费。</p><p>与技术革命同步发生的，是政策层面的主动布局。2024年新《公司法》实施，取消了“一个自然人只能设立一个一人公司”的限制，从法律层面为OPC的规模化发展扫清障碍。上海、苏州、深圳等地密集推出OPC专项政策，城市之间的竞争，已从“投资于物”（产业园区与硬件补贴）转向<strong>“投资于人”（吸引超级个体）。</strong></p><p>在这场竞争中，上海徐汇区以其独特的产业密度、政策力度与生态完整度，成为中国OPC实践最具代表性的样本。</p><h3>技术底座：大模型与智能体如何构成&quot;个人的组织能力&quot;</h3><p><strong>大模型普惠化：个人第一次拥有“组织级大脑”</strong></p><p>阶跃星辰Step&nbsp;3.5&nbsp;Flash、MiniMax&nbsp;M2.5、商汤SenseNova&nbsp;V6.5……这些诞生于上海滩的旗舰模型，不断刷新着AI能力的边界。以MiniMax&nbsp;M1为例，这一全球首个开源大规模MoE推理模型，支持高达100万token的上下文处理，让个人创业者能在秒级时间内消化数万页技术文档；其强化学习阶段仅花费53万美元，远低于行业动辄千万美元的投入——模型成本的下降，直接降低了每一位OPC创始人的运营成本。</p><p>多模态能力则让个人具备了“跨专业”的超能力：一名独立创作者借助AI，可以在同一天完成视频脚本创作、广告视觉生成、代码调试和市场分析报告撰写。这在三年前，需要一个完整的跨职能团队才能实现。</p><p><strong>智能体：让“一人即团队”成为现实，个人的组织能力被系统化复制</strong></p><p>与传统工具型AI不同，智能体具备自主规划、记忆、工具调用与反思的能力，能像“数字员工”一样独立承接任务、持续优化交付。阶跃AI桌面伙伴“小跃”、MiniMax&nbsp;Agent、Anthropic&nbsp;Claude等平台，正在为OPC提供多智能体协作系统——前端设计、算法研发、工程部署。<span style=\"text-align: center;\">&nbsp;</span><img src=\"https://static.leiphone.com/uploads/new/images/20260319/69bbf645631e0.png?imageView2/2/w/740\" style=\"text-align: center;\" /></p><p>随着OpenClaw的热潮席卷，MiniMax开发的MaxClaw以39元极具竞争力的价格，强势进入“小龙虾”市场，成为众多开发者的第一只小龙虾。每一个环节都可以由不同的Agent承接，个人创始人只需专注于最核心的判断与创意决策。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260319/69bbf6560763b.png?imageView2/2/w/740\" /></p><p><strong>AI Coding：研发能力的彻底平民化，从“不会写代码”到“能造产品”</strong></p><p>2026年，开发者已在日常工作中使用AI编程工具，非技术背景的创业者同样可以借助自然语言完成产品原型到上线的全流程开发。Stack&nbsp;Overflow&nbsp;2025年开发者调查显示，84%的开发者正在使用或计划使用AI工具。而由500名顶尖工程师参与的Pragmatic峰会给出的最新数据更夸张：93%的开发者已在使用AI工具，平均每周能节省4小时。Cursor、GitHub&nbsp;Copilot、通义灵码、腾讯CodeBuddy等AI原生IDE，使得一人开发、维护大规模系统成为可能。</p><h3>关键赛道：OPC在多领域的突破与典型案例</h3><p><strong>AI+视频：一人剧组的产业化，广告人用AI重写影视工业流程</strong></p><p>上海艾门韦思（Aimwise）网络科技有限公司，2023年4月在上海嘉定南翔创立，创始人黄楚杰是资深广告人，采用“上海为核心、多城联动”的轻量团队模式，主打“AI生成+人工精修”混合工作流，已是央视、腾讯、伊利等头部机构的AI内容供应商。2025年，公司担任央视网络春晚独家AI技术支持，承接多档节目AI制作。传统晚会宣传片周期至少2个月，艾门韦思用GPT-4生成分镜脚本、Stable&nbsp;Diffusion批量产出概念图、Runway生成动态预演，将传统2个月的前期创意周期压缩至3天。《AI我中华》全国文旅宣传片——与央视网合作，为34个省市自治区生成200多张地标图片、200多个视频片段，处理2000多个文</p><p>件，最终产出不到3分钟的"
   },
   {
-    "id": "2a6c219ac01e989af8a2f765e42492d3",
-    "title": "阿里财报电话会：3月季度消费复苏明显，实物电商成交和CMR增速都显著回升",
-    "url": "https://www.leiphone.com/category/industrynews/A4j0I080EcQzwqqO.html",
-    "source": "雷锋网",
-    "category": "商业",
-    "raw_summary": "<p>3月19日晚间，阿里巴巴电商事业群CEO蒋凡在财报分析师会议上表示，3月季度已看到消费复苏比较明显，在即时零售战略的共同拉动下，实物电商成交和CMR增速都有显著回升。<br /></p><p>&nbsp;<span style=\"color: #FFFFFF;\">雷峰网</span></p><p><span style=\"color: #FFFFFF;\">&nbsp;</span></p><p><br /></p>"
-  },
-  {
-    "id": "35f18cc7144c06ba2cea6487fbe28058",
-    "title": "阿里财报电话会：平头哥GPU芯片已累计规模化交付47万片",
-    "url": "https://www.leiphone.com/category/industrynews/FRBajqXxesyPKYbv.html",
-    "source": "雷锋网",
-    "category": "商业",
-    "raw_summary": "<p>3月19日，在2026财年Q3财报分析师电话会上，阿里巴巴表示，平头哥自研的GPU芯片已实现规模化量产，截至26年2月，已经累计规模化交付47万片。在阿里云的实际业务场景，60%以上的平头哥芯片服务于外部商业化客户，已完成规模化外部客户AI任务适配，支持了400多家企业客户的AI任务，涵盖包括互联网、金融服务、自动驾驶等多个行业。<br /></p><p><span style=\"color: #FFFFFF;\">雷峰网</span></p>"
-  },
-  {
-    "id": "6b269ceb7ef13121b571955bcde755c7",
-    "title": "Family of teen who died in meningitis outbreak says loss is 'immeasurable'",
-    "url": "https://www.bbc.com/news/articles/c2d8gjejrgpo?at_medium=RSS&at_campaign=rss",
+    "id": "146b2c8cb729094d7fdd82d63ef97590",
+    "title": "Sir John Curtice: Why Labour's Brexit focus has shifted from Leavers to Remainers",
+    "url": "https://www.bbc.com/news/articles/c4gjn1d74jlo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "category": "国际",
-    "raw_summary": "Juliette Kenny's father is urging the government to improve access to the MenB vaccine for young people at risk."
+    "raw_summary": "Will the pursuit of a closer relationship with the EU risk courting electoral disaster by alienating Brexit-backing voters?"
   },
   {
-    "id": "61ffacab090683e8a6cc689aec87e95d",
-    "title": "Taxpayers to fund clear-up of huge illegal waste dumps",
-    "url": "https://www.bbc.com/news/articles/cx2expk404vo?at_medium=RSS&at_campaign=rss",
+    "id": "f7b5e44d720c64ccc719c9c59759b29a",
+    "title": "Warning UK borrowing rise makes energy bill help harder",
+    "url": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "category": "国际",
-    "raw_summary": "The government says it will step in to clean up some of the biggest illegal rubbish tips in England."
+    "raw_summary": "Economists say UK government finances are in a worse position than before the government's last energy support package in 2022."
+  },
+  {
+    "id": "b0dcf28b14d9b5a836163b721abc191f",
+    "title": "The Salt Path author confirms she wrote secret first book - despite claiming to be debut writer",
+    "url": "https://www.bbc.com/news/articles/cj32vx61x6lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "category": "国际",
+    "raw_summary": "Raynor and Moth Winn published a book they hoped would help get them out of debt, the BBC confirms."
   },
   {
     "id": "3524e0a2f735b72a02fce8554cd22888",
@@ -816,6 +912,30 @@
     "raw_summary": "Entering a football match in England and Wales without a ticket will become a criminal offence under new laws."
   },
   {
+    "id": "a066a3e4e7950421b35dea5888ed80de",
+    "title": "Woman who lost five family members in pier tragedy wants surviving daughter to 'live life'",
+    "url": "https://www.bbc.com/news/articles/cqlgqq6qg26o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "category": "国际",
+    "raw_summary": "Rioghnach McGrotty was four months old when she was rescued from a car that slid off a pier after a day at the seaside."
+  },
+  {
+    "id": "84ed5ed9925288b5beb321142e6621da",
+    "title": "Natural History Museum takes top spot as UK's most popular attraction",
+    "url": "https://www.bbc.com/news/articles/c70n09pz4y1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "category": "国际",
+    "raw_summary": "The venue broke the record for the most visitors to any museum or gallery in a single year."
+  },
+  {
+    "id": "61ffacab090683e8a6cc689aec87e95d",
+    "title": "Taxpayers to fund clear-up of huge illegal waste dumps",
+    "url": "https://www.bbc.com/news/articles/cx2expk404vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "category": "国际",
+    "raw_summary": "The government says it will step in to clean up some of the biggest illegal rubbish tips in England."
+  },
+  {
     "id": "98e72526fc24a041f9d0d8d3c450f8f9",
     "title": "UK set for temperature rollercoaster as chilly nights follow warm days",
     "url": "https://www.bbc.com/weather/articles/c99500mplgeo?at_medium=RSS&at_campaign=rss",
@@ -824,52 +944,20 @@
     "raw_summary": "March is a fickle time for temperatures in the UK and can see some huge swings from day to night."
   },
   {
-    "id": "82c611901dcac7a350f7ca99b855e5af",
-    "title": "Nearly 100 ships pass the Hormuz Strait - who is getting through?",
-    "url": "https://www.bbc.com/news/articles/c4geg0eeyjeo?at_medium=RSS&at_campaign=rss",
+    "id": "2e402e63f3453446e1b884473bb0952c",
+    "title": "Nasa's Moon rocket Artemis rolls back to pad for possible April launch",
+    "url": "https://www.bbc.com/news/articles/ckgrw045pg7o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "category": "国际",
-    "raw_summary": "Just under 100 ships have passed thorough the Strait of Hormuz since the start of March, according to data analysed by BBC Verify."
+    "raw_summary": "Nasa is preparing a mission to send astronauts around the Moon for the first time in more than 50 years."
   },
   {
-    "id": "9f975c1cc1936520243bb227b584e914",
-    "title": "The global winners and losers of the war in Iran",
-    "url": "https://www.bbc.com/news/articles/c3wlwnn05zqo?at_medium=RSS&at_campaign=rss",
+    "id": "c5b8cff57da863aa4056c1196ed1583f",
+    "title": "Ros Atkins on... Trump's mixed messages on the war",
+    "url": "https://www.bbc.com/news/videos/c747lk0geldo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "category": "国际",
-    "raw_summary": "As the conflict triggers economic disruption some risk being hit hard, while others stand to benefit."
-  },
-  {
-    "id": "20368948ccb31d8d56c13a7e54db0df2",
-    "title": "Iranians prepare for Persian new year under shadow of war",
-    "url": "https://www.bbc.com/news/articles/cvgkg8p7zlko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "category": "国际",
-    "raw_summary": "Iranians speak to the BBC about preparing for the Nowruz new year festival during the war."
-  },
-  {
-    "id": "097b78abe78ca509ff38a40064dd08f1",
-    "title": "Watch: Missile lands next to presenter during live report from Lebanon",
-    "url": "https://www.bbc.com/news/videos/ce9mz0gl8z7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "category": "国际",
-    "raw_summary": "In footage from Russian state broadcaster RT, correspondent Steve Sweeney is seen diving off screen as a missile hits."
-  },
-  {
-    "id": "1ea398f09f1bc4fabd5a41d4631d1111",
-    "title": "BTS Arirang review: K-pop idols rekindle their fire",
-    "url": "https://www.bbc.com/news/articles/c070eg32dryo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "category": "国际",
-    "raw_summary": "The band's 10th album sees them return to the rebellious, rap-heavy sound of their early days."
-  },
-  {
-    "id": "65d1a02c58e9afc41f1c944f2dbf88f2",
-    "title": "The Papers: Iran unleashes 'world energy shock' and 'King of the coast'",
-    "url": "https://www.bbc.com/news/articles/c80me79xlvjo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "category": "国际",
-    "raw_summary": "Fears of a global energy crisis after attacks on major gas sites in the Middle East dominates Friday's papers."
+    "raw_summary": "The BBC’s Analysis Editor looks at President Trump’s mixed messages on the war with Iran."
   },
   {
     "id": "b732ab29103304abe29060270c848977",
@@ -878,6 +966,78 @@
     "source": "纽约时报中文网",
     "category": "国际",
     "raw_summary": "特朗普在自行发起战争的同时，宣布了自相矛盾的战争目标。这不应该是民主国家走向战争的方式。特朗普不是领导国家走向战场的合适人选。<p><img alt=\" George Douglas\" src=\"https://static01.nyt.com/images/2026/03/19/opinion/19french/19french-articleLarge.jpg\" /></p>                    <p style=\"text-align: right; color: gray; font-size: 11px!important; line-height: 10px;\">George Douglas</p>                    <p style=\"text-align: left; color: gray; font-size: 11px!important; line-height: 10px;\"></p>"
+  },
+  {
+    "id": "499d651d5ed440f164bc00d4091ce894",
+    "title": "Labubu走向大银幕，泡泡玛特与索尼联手打造电影",
+    "url": "https://cn.nytimes.com/film-tv/20260320/labubu-movie-paul-king/?utm_source=RSS",
+    "source": "纽约时报中文网",
+    "category": "国际",
+    "raw_summary": "泡泡玛特与索尼影业宣布，Labubu将成为好莱坞电影的主角。这部影片将成为继芭比、乐高和变形金刚等作之后，又一部将人气潮玩打造成商业大片主角的作品。<p><img alt=\"去年，一名扮演Labubu的表演者在北京“泡泡玛特城市乐园”主题公园向游客问好。 Kevin Frayer/Getty Images\" src=\"https://static01.nyt.com/images/2026/03/19/multimedia/19xp-labubu-wfzk/19xp-labubu-wfzk-articleLarge.jpg\" /></p>                    <p style=\"text-align: right; color: gray; font-size: 11px!important; line-height: 10px;\">Kevin Frayer/Getty Images</p>                    <p style=\"text-align: left; color: gray; font-size: 11px!important; line-height: 10px;\">去年，一名扮演Labubu的表演者在北京“泡泡玛特城市乐园”主题公园向游客问好。</p>"
+  },
+  {
+    "id": "a3832b00a4dfafa3bc1976dd723cc1ea",
+    "title": "特朗普不满以色列轰炸伊朗天然气田，美以分歧凸显",
+    "url": "https://cn.nytimes.com/usa/20260320/trump-netanyahu-iran-gas-field-attack/?utm_source=RSS",
+    "source": "纽约时报中文网",
+    "category": "国际",
+    "raw_summary": "特朗普表示，他已就此次轰炸向内塔尼亚胡表达不满。以色列希望摧毁伊朗主要收入来源，特朗普则担心这将导致油气价格进一步飙升，并有碍霍尔木兹海峡通航。<p><img alt=\"特朗普总统一直在试图保护伊朗的石油和天然气基础设施，以免该国对整个波斯湾地区的能源设施实施报复。 Doug Mills/The New York Times\" src=\"https://static01.nyt.com/images/2026/03/19/multimedia/19DC-PREXY-tzkl/19DC-PREXY-tzkl-videoLarge-v2.jpg\" /></p>                    <p style=\"text-align: right; color: gray; font-size: 11px!important; line-height: 10px;\">Doug Mills/The New York Times</p>                    <p style=\"text-align: left; color: gray; font-size: 11px!important; line-height: 10px;\">特朗普总统一直在试图保护伊朗的石油和天然气基础设施，以免该国对整个波斯湾地区的能源设施实施报复。</p>"
+  },
+  {
+    "id": "d2eb9d56cd3951e5118a347fa7e9ee80",
+    "title": "伊朗战争波及迪拜，奢侈品牌面临危机",
+    "url": "https://cn.nytimes.com/business/20260320/dubai-luxury-shopping-iran-war/?utm_source=RSS",
+    "source": "纽约时报中文网",
+    "category": "国际",
+    "raw_summary": "迪拜是中东地区零售业最强劲的增长引擎，许多奢侈品巨头多年来一直在迪拜深耕关系。但来自伊朗的袭击削弱了那里一直以来营造的安全光环，为奢侈品牌带来危机。<p><img alt=\"迪拜购物中心里的购物者，摄于本月。中东地区奢侈品销售总额的一半来自阿联酋。 Fatima Shbair/Associated Press\" src=\"https://static01.nyt.com/images/2026/03/18/multimedia/00biz-iran-dubai-luxury-qwpt/00biz-iran-dubai-luxury-qwpt-articleLarge.jpg\" /></p>                    <p style=\"text-align: right; color: gray; font-size: 11px!important; line-height: 10px;\">Fatima Shbair/Associated Press</p>                    <p style=\"text-align: left; color: gray; font-size: 11px!important; line-height: 10px;\">迪拜购物中心里的购物者，摄于本月。中东地区奢侈品销售总额的一半来自阿联酋。</p>"
+  },
+  {
+    "id": "93ebed5edddd8bb65e84e096195912ad",
+    "title": "特朗普用珍珠港事件开玩笑，高市早苗面露尴尬",
+    "url": "https://cn.nytimes.com/world/20260320/trump-japan-pearl-harbor-oval-office-takaichi/?utm_source=RSS",
+    "source": "纽约时报中文网",
+    "category": "国际",
+    "raw_summary": "特朗普在与高市早苗会面时提及珍珠港事件，称日本更懂得在战争中“出其不意”。高市早苗瞪大双眼，一言不发。美国历任总统一直避免对珍珠港事件发表严厉言论。<p><img alt=\" Doug Mills/The New York Times\" src=\"https://static01.nyt.com/images/2026/03/19/multimedia/1919israel-iran-pearl-harbor-topart-mljh/1919israel-iran-pearl-harbor-topart-mljh-articleLarge.jpg\" /></p>                    <p style=\"text-align: right; color: gray; font-size: 11px!important; line-height: 10px;\">Doug Mills/The New York Times</p>                    <p style=\"text-align: left; color: gray; font-size: 11px!important; line-height: 10px;\"></p>"
+  },
+  {
+    "id": "63365f052065e6162aff9c6e4f37052c",
+    "title": "谁来判断伊朗构成的威胁？美国情报总监“甩锅”特朗普",
+    "url": "https://cn.nytimes.com/usa/20260320/tulsi-gabbard-iran-trump/?utm_source=RSS",
+    "source": "纽约时报中文网",
+    "category": "国际",
+    "raw_summary": "在关于伊朗问题的听证会上，国家情报总监加巴德表示，只有特朗普总统才有权决定何为“迫在眉睫”的威胁。此前，她的亲信肯特因反对伊朗战争而辞去在反恐部门的职位。<p><img alt=\"国家情报总监图尔西·加巴德在周三的参议院全球威胁听证会上。她表示，只有总统才有权决定什么构成“迫在眉睫的威胁”。 Tierney L. Cross/The New York Times\" src=\"https://static01.nyt.com/images/2026/03/18/multimedia/18DC-THREATS-jfmc/18DC-THREATS-jfmc-videoLarge.jpg\" /></p>                    <p style=\"text-align: right; color: gray; font-size: 11px!important; line-height: 10px;\">Tierney L. Cross/The New York Times</p>                    <p style=\"text-align: left; color: gray; font-size: 11px!important; line-height: 10px;\">国家情报总监图尔西·加巴德在周三的参议院全球威胁听证会上。她表示，只有总统才有权决定什么构成“迫在眉睫的威胁”。</p>"
+  },
+  {
+    "id": "03485afe4404631a5e5ac834d21ec952",
+    "title": "在中国学会讲笑话：一个美国喜剧演员的跨文化之旅",
+    "url": "https://cn.nytimes.com/culture/20260319/jesse-appell-comedian-china/?utm_source=RSS",
+    "source": "纽约时报中文网",
+    "category": "国际",
+    "raw_summary": "艾杰西2012年来中国时还不会讲中文，十年后，他已成为中国脱口秀界的名人，在美式脱口秀与中国传统表演形式之间架起桥梁。他在新近出版的回忆录中讲述了这段经历。<p><img alt=\"艾杰西将自己对中国文化的痴迷变成了一段长达十年的喜剧表演生涯，并在新近出版的回忆录《这一切在中国更好笑：一位美国喜剧演员的跨文化之旅》中讲述了这段经历。 Alex Welsh for The New York Times\" src=\"https://static01.nyt.com/images/2026/02/23/multimedia/00xp-appell-top-plmg/00xp-appell-top-plmg-videoLarge.jpg\" /></p>                    <p style=\"text-align: right; color: gray; font-size: 11px!important; line-height: 10px;\">Alex Welsh for The New York Times</p>                    <p style=\"text-align: left; color: gray; font-size: 11px!important; line-height: 10px;\">艾杰西将自己对中国文化的痴迷变成了一段长达十年的喜剧表演生涯，并在新近出版的回忆录《这一切在中国更好笑：一位美国喜剧演员的跨文化之旅》中讲述了这段经历。</p>"
+  },
+  {
+    "id": "35305990adf10bb34d34b7015bea6907",
+    "title": "约旦河西岸暴行：巴勒斯坦男子遭定居者殴打、羞辱与性侵",
+    "url": "https://cn.nytimes.com/world/20260319/west-bank-sexual-assault-israel-settlers/?utm_source=RSS",
+    "source": "纽约时报中文网",
+    "category": "国际",
+    "raw_summary": "这名男子表示，多名以色列定居者对其实施了性侵、殴打，他们将他全身剥光，捆绑手脚，还用扎带勒住他的生殖器。袭击者在施暴过程中还对女性和儿童拳打脚踢。<p><img alt=\"苏海布·阿布阿尔卡巴什在以色列占领的约旦河西岸的希贝特·哈姆萨，他的眼睛周围有淤青。他表示自己遭到了以色列定居者的袭击。 Afif Amireh for The New York Times\" src=\"https://static01.nyt.com/images/2026/03/18/multimedia/18int-israel-westbank-assault-01-kpfv/18int-israel-westbank-assault-01-kpfv-articleLarge.jpg\" /></p>                    <p style=\"text-align: right; color: gray; font-size: 11px!important; line-height: 10px;\">Afif Amireh for The New York Times</p>                    <p style=\"text-align: left; color: gray; font-size: 11px!important; line-height: 10px;\">苏海布·阿布阿尔卡巴什在以色列占领的约旦河西岸的希贝特·哈姆萨，他的眼睛周围有淤青。他表示自己遭到了以色列定居者的袭击。</p>"
+  },
+  {
+    "id": "0c36ac7e15a8325bf965a98e0c0b8c63",
+    "title": "TikTok热梗与西方年轻人的“中式生活”幻想",
+    "url": "https://cn.nytimes.com/style/20260319/chinese-sinophilia-chinamaxxing-tiktok/?utm_source=RSS",
+    "source": "纽约时报中文网",
+    "category": "国际",
+    "raw_summary": "在目睹自己国家衰落的同时，美国的TikTok用户开始幻想“成为中国人”。这一话题受到追捧，但也有不少中国人提出反对，认为他们的文化被西方受众过度简化，甚至被物化。<p><img alt=\" Photo illustration by Joan Wong\" src=\"https://static01.nyt.com/images/2026/03/22/magazine/22mag-screenland-1/22mag-screenland-1-articleLarge.jpg\" /></p>                    <p style=\"text-align: right; color: gray; font-size: 11px!important; line-height: 10px;\">Photo illustration by Joan Wong</p>                    <p style=\"text-align: left; color: gray; font-size: 11px!important; line-height: 10px;\"></p>"
+  },
+  {
+    "id": "e831de90cce7da80dcfd3254779d8be7",
+    "title": "美国民权运动领袖塞萨尔·查韦斯被指控曾性侵多名女性",
+    "url": "https://cn.nytimes.com/usa/20260319/cesar-chavez-sexual-assault-allegations-takeaways/?utm_source=RSS",
+    "source": "纽约时报中文网",
+    "category": "国际",
+    "raw_summary": "查韦斯是美国最具影响力的劳工运动领袖，曾为几代农场工人争取到了更高的工资和医疗保健。但《纽约时报》一项调查发现，他多年来性侵了多名女性，其中包括未成年女孩。<p><img alt=\"2021年在加利福尼亚州圣费尔南多的塞萨尔·查韦斯日庆祝活动中，一座塞萨尔·查韦斯的雕像。 Patrick T. Fallon/Agence France-Presse — Getty Images\" src=\"https://static01.nyt.com/images/2026/03/18/multimedia/18nat-chavez-takeaways-fvkm/18nat-chavez-takeaways-fvkm-articleLarge.jpg\" /></p>                    <p style=\"text-align: right; color: gray; font-size: 11px!important; line-height: 10px;\">Patrick T. Fallon/Agence France-Presse — Getty Images</p>                    <p style=\"text-align: left; color: gray; font-size: 11px!important; line-height: 10px;\">2021年在加利福尼亚州圣费尔南多的塞萨尔·查韦斯日庆祝活动中，一座塞萨尔·查韦斯的雕像。</p>"
   },
   {
     "id": "b86e660750e36b170f9cf0d0096898ea",
@@ -944,8 +1104,56 @@
     "raw_summary": "Prime Minister Sanae Takaichi got her start in politics as an intern for a trailblazing Colorado lawmaker. She returns to Washington this week to meet with President Trump."
   },
   {
+    "id": "a703d24192465ec47fe31c4f21c37d87",
+    "title": "Can Jonah Peretti Save BuzzFeed From Extinction?",
+    "url": "https://www.nytimes.com/2026/03/20/business/media/buzzfeed-jonah-peretti-ai-future.html",
+    "source": "NYT Business",
+    "category": "商业",
+    "raw_summary": "Facing financial straits, the founder is betting on a skunkworks for A.I. experiments."
+  },
+  {
+    "id": "630a7982c3c0817fa971382930bc51b8",
+    "title": "Record Number of Student Loan Borrowers Are in Delinquency and Default",
+    "url": "https://www.nytimes.com/2026/03/20/business/student-loan-deliquency-default.html",
+    "source": "NYT Business",
+    "category": "商业",
+    "raw_summary": "Recently released data from the Education Department showed that by the end of last year, 7.7 million borrowers had defaulted on $181 billion in federal student loans."
+  },
+  {
+    "id": "eea22da0637ee13baaf16777fce2071d",
+    "title": "How New Mexico Became an Obamacare Success Story",
+    "url": "https://www.nytimes.com/2026/03/20/health/obamacare-new-mexico-subsidies-states.html",
+    "source": "NYT Business",
+    "category": "商业",
+    "raw_summary": "Affordable Care Act enrollment has dropped across the United States since the enhanced federal subsidies expired. But New Mexico has record numbers of people signing up."
+  },
+  {
+    "id": "590a24dd7c49f222fac9ec88680b60ee",
+    "title": "BTS Is Back With ‘Arirang,’ but the K-Pop Landscape Has Changed",
+    "url": "https://www.nytimes.com/2026/03/20/arts/music/bts-k-pop-industry-demon-hunters.html",
+    "source": "NYT Business",
+    "category": "商业",
+    "raw_summary": "The superstar boy band returns after a four-year hiatus on Friday. The genre it helped turn into a global juggernaut has endured some shifts, and minted new stars."
+  },
+  {
+    "id": "d519374ed23e515e5a10dfd9a7051d4f",
+    "title": "Blood Plasma Centers Move Into More Middle-Class Neighborhoods",
+    "url": "https://www.nytimes.com/2026/03/20/business/middle-class-sell-their-plasma.html",
+    "source": "NYT Business",
+    "category": "商业",
+    "raw_summary": "Across the United States, plasma centers are opening in wealthier areas as more people struggle with the high cost of housing, groceries and health care."
+  },
+  {
+    "id": "5cb06da229a31e46086e9f3ab186a5d4",
+    "title": "How Geopolitics Threaten K-Pop’s Ambitions in China",
+    "url": "https://www.nytimes.com/2026/03/20/world/asia/k-pop-china-japan-south-korea.html",
+    "source": "NYT Business",
+    "category": "商业",
+    "raw_summary": "Japanese members of some K-pop bands have been absent from recent concerts in China. Experts say that’s linked to tension between Tokyo and Beijing."
+  },
+  {
     "id": "046f1be98a5a2042e59227785ffa5d9d",
-    "title": "Oil Falls and Stocks in Asia Hold Steady",
+    "title": "Oil Continues to Ease and Stocks in Asia Mostly Decline",
     "url": "https://www.nytimes.com/2026/03/20/business/oil-stocks-gas-iran.html",
     "source": "NYT Business",
     "category": "商业",
@@ -958,54 +1166,6 @@
     "source": "NYT Business",
     "category": "商业",
     "raw_summary": "One of the few paths left between the two continents threads through Azerbaijan, Georgia and Turkey, as global conflicts complicate aviation logistics."
-  },
-  {
-    "id": "3a9f122f7ba44926105acda4ec5ab1da",
-    "title": "Scramble for Jet Fuel Shows How Energy Shortages Are Rippling Across Asia",
-    "url": "https://www.nytimes.com/2026/03/20/business/oil-jetfuel-asia.html",
-    "source": "NYT Business",
-    "category": "商业",
-    "raw_summary": "As China and other major suppliers of refined oil in the region restrict exports, import-dependent countries are desperate to secure fuel supplies."
-  },
-  {
-    "id": "f3555ad39ca4d2150688ba1c2d759661",
-    "title": "F.C.C. Approves Nexstar’s Acquisition of a Local TV Rival",
-    "url": "https://www.nytimes.com/2026/03/19/business/fcc-nexstar-tegna-deal-approved.html",
-    "source": "NYT Business",
-    "category": "商业",
-    "raw_summary": "The $6.2 billion deal consolidates 265 stations in 44 states and Washington."
-  },
-  {
-    "id": "21863c4baa8d0b41edd868df94988a40",
-    "title": "Democrats Demand Answers on Jared Kushner’s Mideast Business Dealings",
-    "url": "https://www.nytimes.com/2026/03/19/business/jared-kushner-mideast-private-equity.html",
-    "source": "NYT Business",
-    "category": "商业",
-    "raw_summary": "Two prominent lawmakers wrote to the White House and Mr. Kushner after The New York Times revealed private fund-raising efforts by President Trump’s envoy in the region."
-  },
-  {
-    "id": "a258c60790cdf2e528e53217d5858a70",
-    "title": "Pop Mart and Sony Announce Labubu Movie Directed by Paul King",
-    "url": "https://www.nytimes.com/2026/03/19/movies/labubu-movie-paul-king.html",
-    "source": "NYT Business",
-    "category": "商业",
-    "raw_summary": "Pop Mart and Sony announced on Thursday that they were developing a feature film about the fuzzy trinkets. “It’s completely ruthless marketing,” one expert said."
-  },
-  {
-    "id": "a25aea9a8677c85800c686ecaefbd007",
-    "title": "U.S. Encourages Flow of Iranian Oil While It Battles Iran",
-    "url": "https://www.nytimes.com/2026/03/19/us/politics/iran-oil-sanctions.html",
-    "source": "NYT Business",
-    "category": "商业",
-    "raw_summary": "Treasury Secretary Scott Bessent said removing sanctions on Iranian oil would lower global prices."
-  },
-  {
-    "id": "b487fb26e55a88374fda36c9bb6b8b94",
-    "title": "Boston Scientific Knew of Pacemaker Battery Problems for Years",
-    "url": "https://www.nytimes.com/2026/03/19/business/pacemakers-batteries-recall-boston-scientific.html",
-    "source": "NYT Business",
-    "category": "商业",
-    "raw_summary": "Boston Scientific announced multiple recalls but has said its battery issues were limited. One internal test in 2025 found batteries with an “extremely high failure rate.”"
   },
   {
     "id": "fe628b4c33ef9861e86ee1cc60d32205",
@@ -1072,6 +1232,30 @@
     "raw_summary": "<p>The <a class=\"link\" href=\"https://store.steampowered.com\" target=\"_blank\">Steam Spring Sale</a> is underway and as usual, there's plenty of good stuff to add to your library. The seasonal discounts will run through Thursday, March 26 at 1PM ET. If there's anything you've been waiting to buy, it's worth checking to see if it's on sale now, because huge chunks of the Steam catalog are at least a little bit off.&nbsp;</p><p>Recent releases don't usually receive big price cuts during Steam sales, but you can save at least a couple bucks on several 2025 hits this time. The excellent <em>Arc Raiders</em> is $32, <em>Doom: The Dark Ages</em> is about $23 and <em>Battlefield 6</em> is $42. <em>Silent Hill f</em> is half off at $35 for the horror fans, and indie appreciators can snag <em>Hades 2</em> for less than $23.</p><p><em>No Man's Sky</em> is $24 for endless space adventures. Check out <em>Ghost of Tsushima</em> on PC for $36 or be the meanest cowboy in the west in <em>Red Dead Redemption 2</em> for $15.&nbsp;</p><p>We usually spy some indie excellence on the sale list and this year is no different. <em>Is This Seat Taken?</em> is a few bucks off, as is <em>Megabonk</em>. Explore the islands of <em>Tchia</em> for 75 percent off. <em>No Rest for the Wicked</em>, a newer title from the team behind <em>Ori and the Blind Forest</em>, is $28. Perennial Steam Sale fave <em>Stardew Valley</em> is half off for the five of you who don't already own it.</p><p>This spring, the <a class=\"link\" href=\"https://store.steampowered.com/sale/special_deals\" target=\"_blank\">steep discount</a> section has a few especially notable titles. <em>Teenage Mutant Ninja Turtles: Splintered Fate</em>, <em>Fallout New Vegas</em> and <em>Totally Accurate Battle Simulator</em> are among the games that are 90 percent off.&nbsp;&nbsp;</p><p>Now you'll just need to play everything you buy before the Summer Sale.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/the-steam-spring-sale-is-here-with-discounts-on-arc-raiders-hades-2-and-much-more-184000691.html?src=rss"
   },
   {
+    "id": "3607662a311ed04b3107783a16fd1a47",
+    "title": "You're being tracked online - 9 easy ways to stop the surveillance",
+    "url": "https://www.zdnet.com/article/how-to-stop-the-internet-from-tracking-you/",
+    "source": "ZDNet",
+    "category": "Tech",
+    "raw_summary": "Stop feeding online businesses your data and prevent both surveillance and tracking with our updated step-by-step guide."
+  },
+  {
+    "id": "937011d5e84a601f2caf8662c94a156c",
+    "title": "6 WFH gadgets that leveled up my home office (and all of them are on sale)",
+    "url": "https://www.zdnet.com/article/wfh-gadgets-amazon-spring-sale-2026/",
+    "source": "ZDNet",
+    "category": "Tech",
+    "raw_summary": "As a remote worker, I'd recommend these gadgets that improved my home office, even if they weren't discounted ahead of Amazon's Big Spring Sale."
+  },
+  {
+    "id": "d9fb80c4af48872c2795574d66bcc74c",
+    "title": "The best WordPress hosting services of 2026: Expert tested and reviewed",
+    "url": "https://www.zdnet.com/article/best-wordpress-hosting/",
+    "source": "ZDNet",
+    "category": "Tech",
+    "raw_summary": "WordPress makes website management a breeze, and you don't need any coding experience. Set up a WordPress-based website with our recommended hosting providers of 2026."
+  },
+  {
     "id": "ace5a147b79f3c6ad0bb1006645f9920",
     "title": "I used Omega Linux to revitalize a junk PC, and it's noticeably better than Ubuntu",
     "url": "https://www.zdnet.com/article/i-tested-omega-linux-revive-old-pc/",
@@ -1110,30 +1294,6 @@
     "source": "ZDNet",
     "category": "Tech",
     "raw_summary": "The Twelve South AirFly Pro 2 improves audio quality, streamlines connectivity, and makes in-flight entertainment much easier to enjoy."
-  },
-  {
-    "id": "fb618bdfcba9e4c38317343dc790e3ca",
-    "title": "Why your biggest tech upgrade this year is a splash of color",
-    "url": "https://www.zdnet.com/article/why-so-many-colors-in-the-latest-mobile-tech/",
-    "source": "ZDNet",
-    "category": "Tech",
-    "raw_summary": "For phones, laptops, and other mobile accessories, any color besides black is the new black."
-  },
-  {
-    "id": "8b90f8d71d88c9d186b96ac4a2aea57a",
-    "title": "How to turn your Pixel phone into a PC - with the new Android Desktop Mode",
-    "url": "https://www.zdnet.com/article/how-to-use-android-desktop-mode/",
-    "source": "ZDNet",
-    "category": "Tech",
-    "raw_summary": "I test drove the new Android Desktop Mode with my Pixel, and it genuinely wowed me."
-  },
-  {
-    "id": "0c21c7ba8a1ef20fb83889cf47fddf13",
-    "title": "Save big on gaming laptops, Switch 2 consoles, and more during Best Buy's Tech Fest sale",
-    "url": "https://www.zdnet.com/article/best-buy-tech-fest-sale-gaming-deals/",
-    "source": "ZDNet",
-    "category": "Tech",
-    "raw_summary": "Can't wait until Amazon's Big Spring Sale to upgrade your gaming setup? Now at Best Buy, you can save hundreds on gaming laptops, consoles, and more."
   },
   {
     "id": "8ab254e2d782a37ccf5f37b6c0c976c2",
