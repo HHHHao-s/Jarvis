@@ -26,6 +26,9 @@ if [ -f "$ENV_FILE" ]; then
   set +a
 fi
 
+log "Step 0: Syncing git repository..."
+git -C "$REPO_DIR" pull --rebase 2>&1 | tee -a "$LOG_FILE"
+
 log "Step 1: Fetching RSS feeds..."
 if ! python3 "$REPO_DIR/scripts/fetch_rss.py" 2>&1 | tee -a "$LOG_FILE"; then
   send_error "fetch_rss.py 执行失败"
