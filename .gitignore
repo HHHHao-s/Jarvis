@@ -1,6 +1,8 @@
 .env
 logs/
 data/temp/
+data/articles.json
+data/seen.json
 
 # Bundler cache
 .bundle

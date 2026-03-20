@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 import argparse
-import json
 import re
 import sys
 from datetime import datetime, timezone, timedelta
@@ -37,10 +36,10 @@ def normalize_category(cat: str) -> str:
 
 
 def parse_args():
-    p = argparse.ArgumentParser(description='Generate/update daily digest markdown from JSON')
+    p = argparse.ArgumentParser(description='Generate/update daily digest markdown from YAML')
     g = p.add_mutually_exclusive_group()
-    g.add_argument('--input', '-i', help='Input JSON file path')
-    g.add_argument('--stdin', action='store_true', help='Read JSON from stdin')
+    g.add_argument('--input', '-i', help='Input YAML file path')
+    g.add_argument('--stdin', action='store_true', help='Read YAML from stdin')
     p.add_argument('--output-dir', '-o', help='Output directory (default: docs/_posts)')
     p.add_argument('--date', help='Override date YYYY-MM-DD')
     p.add_argument('--dry-run', action='store_true', help='Print output without writing')
@@ -49,10 +48,10 @@ def parse_args():
 
 def load_data(args) -> dict:
     if args.stdin:
-        return json.load(sys.stdin)
+        return yaml.safe_load(sys.stdin)
     if args.input:
         with open(args.input, encoding='utf-8') as f:
-            return json.load(f)
+            return yaml.safe_load(f)
     raise ValueError('Specify --input FILE or --stdin')
 
 
@@ -97,7 +96,6 @@ def format_article(article: dict) -> str:
 
 
 def build_new_content(date: str, articles: list) -> str:
-    tz8 = timezone(timedelta(hours=8))
     all_tags = []
     seen_tags = set()
     for a in articles:
@@ -192,7 +190,7 @@ def main():
 
     try:
         data = load_data(args)
-    except (ValueError, json.JSONDecodeError, FileNotFoundError) as e:
+    except (ValueError, yaml.YAMLError, FileNotFoundError) as e:
         print(f'ERROR: {e}', file=sys.stderr)
         sys.exit(1)
 
