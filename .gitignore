@@ -1,6 +1,6 @@
 .env
 logs/
-data/pending.json
+data/temp/
 _site/
 .jekyll-cache/
 docs/.jekyll-cache/

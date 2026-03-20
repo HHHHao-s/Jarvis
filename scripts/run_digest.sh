@@ -40,10 +40,10 @@ fi
 
 log "Step 2: Running AI summarization via flickcli ($ARTICLE_COUNT articles)..."
 cd "$REPO_DIR"
-flickcli -q --approval-mode yolo "生成今天的日报" 2>&1 | tee -a "$LOG_FILE"
+flickcli --approval-mode yolo "生成今天的日报" 2>&1 | tee -a "$LOG_FILE"
 
 log "Step 3: Committing and pushing..."
-git -C "$REPO_DIR" add docs/_posts/ data/seen.json
+git -C "$REPO_DIR" add docs/_posts/ data/seen.json data/pending.json
 
 # 用 git status 检测是否有变更（含新增文件），无变更则跳过
 if git -C "$REPO_DIR" diff --cached --quiet; then

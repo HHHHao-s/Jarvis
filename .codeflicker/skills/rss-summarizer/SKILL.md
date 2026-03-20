@@ -1,6 +1,6 @@
 ---
 name: RSS Daily Digest
-description: 读取 data/pending.json 中的原始 RSS 文章列表，对每篇文章生成中文摘要、标签和分类，然后将所有内容汇总并写入当天的 Jekyll Chirpy 日报 Markdown 文件（docs/_posts/YYYY-MM-DD-daily-digest.md）。当用户说"生成今天的日报"或"处理待总结文章"时使用此 Skill。
+description: 读取 data/pending.json 中的原始 RSS 文章列表，对每篇文章生成中文摘要、标签和分类，然后将所有内容汇总并写入 data/temp/digest_batch.json，最后调用 Python 脚本生成 Jekyll Chirpy 日报 Markdown 文件（docs/_posts/YYYY-MM-DD-daily-digest.md）。当用户说"生成今天的日报"或"处理待总结文章"时使用此 Skill。
 ---
 
 # RSS Daily Digest Skill
@@ -31,49 +31,49 @@ description: 读取 data/pending.json 中的原始 RSS 文章列表，对每篇�
 3. **判断分类**：根据文章实际内容自由判断，例如：
    - `Tech` / `AI` / `商业` / `国际` / `社会` / `科学` / `文化` / `体育` / `政治` / `经济` / `环境` / `健康` / `Other`
 
-### 第三步：生成或更新日报 Markdown 文件
+### 第三步：将处理结果写入 digest_batch.json
+将所有文章的处理结果（**不是直接写 Markdown**）汇总写入 `data/temp/digest_batch.json`，格式如下：
 
-文件路径：`docs/_posts/YYYY-MM-DD-daily-digest.md`
-- 文件名中日期为当天日期，格式 `YYYY-MM-DD`，只能包含小写字母和连字符
-
-**情况一：文件不存在**，创建新文件，完整格式如下：
-
-```markdown
----
-title: "全球日报 YYYY-MM-DD"
-date: YYYY-MM-DD 00:00:00 +0800
-categories: [Daily Digest]
-tags: ["标签1", "标签2", "标签3"]
----
-
-## 国际
-
-### [文章标题](原文链接)
-**来源**: 源名称 &nbsp;|&nbsp; **标签**: `标签1` `标签2` `标签3`
-> 2-3句中文摘要
-
----
-
-## Tech
-
-### [文章标题](原文链接)
-**来源**: 源名称 &nbsp;|&nbsp; **标签**: `标签1` `标签2`
-> 2-3句中文摘要
-
----
+```json
+{
+  "date": "YYYY-MM-DD",
+  "articles": [
+    {
+      "id": "从 pending.json 中原样保留",
+      "title": "文章标题",
+      "url": "原文链接",
+      "source": "RSS源名称",
+      "category": "Tech",
+      "tags": ["标签1", "标签2", "标签3"],
+      "summary": "2-3句中文摘要"
+    }
+  ]
+}
 ```
 
-**情况二：文件已存在**，需要：
-1. 读取已有文件，解析 front matter 中现有的 `tags`
-2. 将新文章的标签与现有标签合并去重，取前15个，更新 front matter 的 `tags`
-3. 将新文章内容按分类追加到文件末尾（不重复已有的分类标题，若该分类已存在则直接在该分类下追加条目）
+- `date` 为当天日期，格式 `YYYY-MM-DD`
+- `id` 必须原样保留（来自 pending.json），不要修改
+- `category` 使用你在第二步判断的分类
+- `tags` 为数组，3-5个标签
+- `summary` 为 2-3 句中文摘要
 
-### 第四步：清空 pending
-**确认文件写入成功后**，将 `data/pending.json` 清空为 `[]`。
-若写入过程中发生任何错误，不清空 pending，保留数据以便重试。
+### 第四步：调用 Python 脚本生成 Markdown
+使用 bash 工具执行以下命令：
+```bash
+python3 scripts/generate_post.py --input data/temp/digest_batch.json
+```
+
+**重要**：
+- 必须等待脚本执行成功（输出包含 `SUCCESS:`）后再继续
+- 如果脚本报错（输出包含 `ERROR:`），停止流程并报告错误，**不清空 pending**
+
+### 第五步：清空 pending
+**确认第四步脚本执行成功后**，将 `data/pending.json` 清空为 `[]`。
+若第四步失败，保留 pending 数据以便重试。
 
 ## 注意事项
-- `date` 字段格式必须为 `YYYY-MM-DD HH:MM:SS +0800`，Chirpy 用此字段排序文章
-- `tags` 字段为 JSON 数组格式，如 `["AI", "开源", "前端"]`
-- 每篇文章之间用 `---` 分隔
-- 分类名称保持英文或中文统一，不要同一分类出现两种写法（如 `Tech` 和 `tech`）
+- **AI 不直接写 Markdown 文件**，所有 Markdown 格式化由 `scripts/generate_post.py` 负责
+- `digest_batch.json` 只是中间临时文件，不需要手动维护
+- `generate_post.py` 脚本具备幂等性：同一篇文章（相同 id）多次运行不会重复写入
+- 支持一天多次生成：新文章会增量追加到当天已有日报中
+- `date` 字段格式必须为 `YYYY-MM-DD`
