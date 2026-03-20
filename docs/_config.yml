@@ -5,23 +5,106 @@ timezone: Asia/Shanghai
 
 title: 全球日报
 tagline: 每日全球资讯精选 + AI 摘要
-description: 自动聚合全球各领域资讯，AI 生成中文摘要和标签
+description: >-
+  自动聚合全球各领域资讯，AI 生成中文摘要和标签
 
 url: "https://HHHHao-s.github.io"
 baseurl: "/Jarvis"
 
 github:
-  username: ""
+  username: HHHHao-s
+
 
 social:
   name: Jarvis
+  email: 2755942193@qq.com
   links: []
+
+webmaster_verifications:
+  google:
+  bing:
+  alexa:
+  yandex:
+  baidu:
+  facebook:
+
+analytics:
+  google:
+    id:
+  goatcounter:
+    id:
+  umami:
+    id:
+    domain:
+  matomo:
+    id:
+    domain:
+  cloudflare:
+    id:
+  fathom:
+    id:
+
+pageviews:
+  provider:
+
+theme_mode:
+
+cdn:
 
 avatar: "https://avatars.githubusercontent.com/u/62682084"
 
+social_preview_image:
+
+toc: true
+
+comments:
+  provider:
+  disqus:
+    shortname:
+  utterances:
+    repo:
+    issue_term:
+  giscus:
+    repo:
+    repo_id:
+    category:
+    category_id:
+    mapping:
+    strict:
+    input_position:
+    lang:
+    reactions_enabled:
+
+assets:
+  self_host:
+    enabled:
+    env:
+
+pwa:
+  enabled: true
+  cache:
+    enabled: true
+    deny_paths:
+
 paginate: 10
 
-permalink: /posts/:year-:month-:day-:title/
+permalink: /posts/:title/
+
+kramdown:
+  footnote_backlink: "&#8617;&#xfe0e;"
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+
+collections:
+  tabs:
+    output: true
+    sort_by: order
 
 defaults:
   - scope:
@@ -31,10 +114,49 @@ defaults:
       layout: post
       comments: false
       toc: true
+      permalink: /posts/:title/
+  - scope:
+      path: _drafts
+    values:
+      comments: false
+  - scope:
+      path: ""
+      type: tabs
+    values:
+      layout: page
+      permalink: /:title/
+
+sass:
+  style: compressed
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  profile: false
+  blanklines: false
+  ignore:
+    envs: [development]
 
 exclude:
   - "*.gem"
   - "*.gemspec"
+  - docs
+  - tools
+  - README.md
+  - LICENSE
+  - purgecss.js
+  - "*.config.js"
+  - "package*.json"
   - Gemfile
   - Gemfile.lock
   - vendor
+
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/
