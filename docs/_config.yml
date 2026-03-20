@@ -88,7 +88,7 @@ pwa:
 
 paginate: 10
 
-permalink: /posts/:title/
+permalink: /posts/:year-:month-:day-:title/
 
 kramdown:
   footnote_backlink: "&#8617;&#xfe0e;"
@@ -114,7 +114,7 @@ defaults:
       layout: post
       comments: false
       toc: true
-      permalink: /posts/:title/
+      permalink: /posts/:year-:month-:day-:title/
   - scope:
       path: _drafts
     values:
