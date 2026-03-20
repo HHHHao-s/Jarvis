@@ -1,6 +1,6 @@
 <script>
   document.addEventListener('DOMContentLoaded', function () {
-    document.querySelectorAll('.post-content a[href^="http"]').forEach(function (a) {
+    document.querySelectorAll('#post-content a[href^="http"], .content a[href^="http"]').forEach(function (a) {
       if (a.hostname !== window.location.hostname) {
         a.setAttribute('target', '_blank');
         a.setAttribute('rel', 'noopener noreferrer');
