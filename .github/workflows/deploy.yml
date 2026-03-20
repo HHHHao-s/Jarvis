@@ -29,10 +29,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v5
-
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -41,7 +37,7 @@ jobs:
           working-directory: docs
 
       - name: Build site
-        run: bundle exec jekyll b -d "../_site${{ steps.pages.outputs.base_path }}"
+        run: bundle exec jekyll b -d "../_site"
         working-directory: docs
         env:
           JEKYLL_ENV: "production"
@@ -57,7 +53,7 @@ jobs:
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: "_site${{ steps.pages.outputs.base_path }}"
+          path: "_site"
 
   deploy:
     environment:
