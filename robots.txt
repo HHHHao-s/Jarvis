@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: /sitemap.xml
+Sitemap: https://hhhhao-s.github.io/Jarvis/sitemap.xml
