@@ -21,7 +21,7 @@ avatar: ""
 
 paginate: 10
 
-permalink: /posts/:title/
+permalink: /posts/:year-:month-:day-:title/
 
 defaults:
   - scope:
