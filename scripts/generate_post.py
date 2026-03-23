@@ -84,7 +84,11 @@ def format_article(article: dict) -> str:
         tz8 = timezone(timedelta(hours=8))
         time_str = datetime.now(tz8).strftime('%H:%M')
 
-    meta = f'**来源**: {article["source"]} &nbsp;|&nbsp; **标签**: {tags_str} &nbsp;|&nbsp; **时间**: {time_str}'
+    rating = article.get('rating', 0)
+    stars = '⭐' * int(rating) if rating else ''
+    rating_str = f' &nbsp;|&nbsp; **评分**: {stars}' if stars else ''
+
+    meta = f'**来源**: {article["source"]} &nbsp;|&nbsp; **标签**: {tags_str} &nbsp;|&nbsp; **时间**: {time_str}{rating_str}'
     return (
         f'<!-- article-id: {article["id"]} -->\n'
         f'### [{article["title"]}]({article["url"]})\n'
