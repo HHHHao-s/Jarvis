@@ -102,19 +102,19 @@ rss_feeds:
   - name: "彭博社"
     url: "https://feeds.bloomberg.com/markets/news.rss"
     category: "商业"
-    max_articles: 100
+    max_articles: 20
   - name: "Reuters"
     url: "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en"
     category: "国际"
-    max_articles: 100
+    max_articles: 20
   - name: "AP News"
     url: "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en"
     category: "国际"
-    max_articles: 100
+    max_articles: 20
   - name: "Al Jazeera"
     url: "https://www.aljazeera.com/xml/rss/all.xml"
     category: "国际"
-    max_articles: 80
+    max_articles: 20
 
 ai:
   summary_language: "zh"
