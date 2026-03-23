@@ -1,6 +1,6 @@
 ---
 name: RSS Daily Digest
-description: 读取 data/pending.yaml 中的原始 RSS 文章列表，对每篇文章抓取正文、评估可读性星级、生成中文摘要，然后将所有内容汇总并写入 data/temp/digest_batch.yaml，最后调用 Python 脚本生成 Jekyll Chirpy 日报 Markdown 文件（docs/_posts/YYYY-MM-DD-daily-digest.md）。当用户说"生成今天的日报"或"处理待总结文章"时使用此 Skill。
+description: 读取 data/pending.yaml 中的原始 RSS 文章列表，对每篇文章生成中文摘要、标签和分类，然后将所有内容汇总并写入 data/temp/digest_batch.json，最后调用 Python 脚本生成 Jekyll Chirpy 日报 Markdown 文件（docs/_posts/YYYY-MM-DD-daily-digest.md）。当用户说"生成今天的日报"或"处理待总结文章"时使用此 Skill。
 ---
 
 # RSS Daily Digest Skill
@@ -23,11 +23,9 @@ description: 读取 data/pending.yaml 中的原始 RSS 文章列表，对每篇�
 若文件为空列表或不存在，输出提示后结束，不创建任何文件。
 
 ### 第二步：逐篇处理
-对每篇文章：
+对每篇文章，**仅基于 `title` 和 `raw_summary` 字段**，不抓取原文：
 
-1. **抓取原文**：使用 fetch 工具访问 `url`，获取正文内容。若抓取失败，使用 `raw_summary` 作为降级内容。
-
-2. **评估可读性星级**：综合以下维度，给出 1-5 星评分：
+1. **评估可读性星级**：综合以下维度，给出 1-5 星评分：
    - **重要性**：是否涉及重大事件、突破性进展、影响广泛的决策
    - **信息密度**：内容是否有实质性信息，而非标题党或广告
    - **独特性**：是否提供新视角或独家内容，而非重复报道

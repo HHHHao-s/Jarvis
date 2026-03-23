@@ -97,6 +97,55 @@ toc: true
 ---
 
 
+<!-- article-id: add8b53be95b2e64da55643b3d721e14 -->
+### [年轻职场人如何让自己"防AI"](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284)
+**来源**: Hacker News &nbsp;|&nbsp; **标签**: `AI就业` `职业规划` `年轻人` `职场趋势` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 华尔街日报报道了年轻职场人为应对AI冲击所采取的策略，包括选择AI难以替代的职业方向、提升软技能和创造力等。这一话题反映了AI时代劳动力市场的深层变化。
+
+---
+
+<!-- article-id: a9b8590b5ed6900c2145eb6972c31de5 -->
+### [出版商撤回恐怖小说，多项指控称其使用AI写作](https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/)
+**来源**: Ars Technica &nbsp;|&nbsp; **标签**: `AI写作` `出版业` `版权争议` `文学` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> Hachette出版集团因多项AI使用指控撤回了恐怖小说《Shy Girl》，尽管作者否认使用AI。这是此类争议中首批引发广泛关注的案例之一，标志着出版业对AI生成内容的态度日趋严格。
+
+---
+
+<!-- article-id: 6c67aba1f7025dce0411fc01963e3694 -->
+### [是时候给AI一套配得上这个时代的中文了](https://www.ifanr.com/1659325)
+**来源**: 爱范儿 &nbsp;|&nbsp; **标签**: `AI中文化` `词元` `语言模型` `中文NLP` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 爱范儿探讨了为AI构建更好的中文表达体系的必要性，涉及词元（token）和文令等概念，呼吁业界重视AI时代中文语言的适配和发展。
+
+---
+
+<!-- article-id: a6193e2606ac23fded51c836f76ff9c3 -->
+### [AI问了8万人"你到底想要什么"，答案不是效率也不是赚钱](https://www.ifanr.com/1659135)
+**来源**: 爱范儿 &nbsp;|&nbsp; **标签**: `AI社会调查` `人类需求` `价值观` `自主性` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 一项AI驱动的大规模调查询问了8万人的核心需求，结果显示人们最渴望的不是效率或财富，而是自主性和不依赖技术的能力。这一发现引发了关于AI与人类关系的深层思考。
+
+---
+
+<!-- article-id: 3c65a2b239d3428c4aecb38ae8cace52 -->
+### [会边走边做家务的机器人出现了，一镜到底收拾客厅刷屏海外](https://www.ifanr.com/1658666)
+**来源**: 爱范儿 &nbsp;|&nbsp; **标签**: `具身智能` `家务机器人` `通用AI` `机器人技术` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 一款能够一边移动一边完成家务任务的机器人视频在海外刷屏，展示了单一通用AI架构结合更多数据实现更多家务技能的可能性，标志着具身智能在家庭场景的重要突破。
+
+---
+
+<!-- article-id: ac02688b286aeba011e3ef15b4e312b9 -->
+### [说清退就清退，89%的AI代替员工不过是一场豪赌](https://www.ifanr.com/1659159)
+**来源**: 爱范儿 &nbsp;|&nbsp; **标签**: `AI替代就业` `企业管理` `裁员` `劳动力市场` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 文章分析了企业用AI替代员工的趋势，指出89%的AI替代人力实际上是一场风险极高的豪赌，快速裁员可能带来严重的业务和管理问题。
+
+---
+
+<!-- article-id: c2355d1ae7d7ac49245b3882f420f25d -->
+### [OpenAI计划将员工规模翻倍至8000人](https://www.engadget.com/ai/openai-reportedly-plans-to-double-its-workforce-to-8000-employees-161028377.html)
+**来源**: Engadget &nbsp;|&nbsp; **标签**: `OpenAI` `招聘扩张` `Anthropic` `AI竞争` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 据金融时报报道，OpenAI计划到2026年底将员工从4500人扩张至8000人，涵盖产品开发、工程、研究和销售部门。此举旨在应对Anthropic的竞争，后者在企业客户首次采购中领先70%。
+
+---
+
 ## 政治
 
 <!-- article-id: abb5913f42f6e0fbacac357474dd8203 -->
@@ -157,6 +206,125 @@ toc: true
 ---
 
 
+<!-- article-id: 7f2684e7177d790557fd047aeab7c9b0 -->
+### [陪审团裁定马斯克需为部分Twitter投资者损失负责](https://www.nytimes.com/2026/03/20/technology/elon-musk-twitter-shareholders-verdict.html)
+**来源**: NYT Technology &nbsp;|&nbsp; **标签**: `马斯克` `Twitter` `诉讼` `投资者权益` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 陪审团裁定马斯克需为部分Twitter股东损失承担责任，投资者指控他试图压低股价以重新谈判440亿美元的收购要约。这是马斯克罕见的法律败诉。
+
+---
+
+<!-- article-id: 3f6004b4d02530db12e0c88a75169d4f -->
+### [前五源投资人联手港大教授，想做一款AGI投资机器](https://36kr.com/p/3734918559842560)
+**来源**: 36氪 &nbsp;|&nbsp; **标签**: `AI投资` `AGI` `金融科技` `创业融资` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> AI投资公司Grace Investment Machine完成数千万元天使轮融资，致力于打造AGI时代的智能投资平台，通过多智能体架构重构资产管理流程。
+
+---
+
+<!-- article-id: febdd1b536ebf42624de479dcc7f32e8 -->
+### [月薪3000的职校生，正在"干掉"北影导演](https://36kr.com/p/3734101643706371)
+**来源**: 36氪 &nbsp;|&nbsp; **标签**: `AI漫剧` `短剧行业` `AIGC` `劳动密集型` `内容创业` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> 36氪深度报道AI漫剧产业爆发：红果漫剧平台DAU突破1000万，酱油动漫半年扩张至1200人，Seedance2.0等AI工具大幅降低制作成本。然而讽刺的是，这个AI催生的行业却被做成了劳动密集型产业，月薪3000的职校生正在取代专业导演。
+
+---
+
+<!-- article-id: 485043cf008d7277a2dce0483f990cef -->
+### [Delve被指控以"虚假合规"误导客户](https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/)
+**来源**: TechCrunch &nbsp;|&nbsp; **标签**: `合规科技` `创业公司` `隐私安全` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 一篇匿名Substack文章指控合规初创公司Delve"虚假"地让数百家客户相信他们已符合隐私和安全法规，引发对合规科技行业信誉的质疑。
+
+---
+
+<!-- article-id: b2654bfc5cc382cb2cc46ac9f9dec1f9 -->
+### [Fintech周报：金融法要来了；险企抢滩低空保险](https://www.tmtpost.com/7925407.html)
+**来源**: 钛媒体 &nbsp;|&nbsp; **标签**: `金融科技` `银行业` `保险` `监管` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 钛媒体Fintech周报汇总：金融法立法推进，险企布局低空保险，华通银行股权流拍，平安银行2025年分红百亿，众安在线净利润增198.3%。
+
+---
+
+<!-- article-id: d611255669172d597e6411c01e481d0b -->
+### [跑鞋卖出2600万双的李宁，手握200亿现金](https://www.tmtpost.com/7924089.html)
+**来源**: 钛媒体 &nbsp;|&nbsp; **标签**: `李宁` `运动品牌` `财报` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 李宁在跑步和羽毛球两大品类上持续发力，跑鞋年销售达2600万双，公司手握200亿元现金储备，展现了强劲的增长态势。
+
+---
+
+<!-- article-id: 7ca1da792249e44502b670bc5dbd9012 -->
+### [大疆起诉影石专利侵权，涉及多项关键技术](https://www.tmtpost.com/7925057.html)
+**来源**: 钛媒体 &nbsp;|&nbsp; **标签**: `大疆` `影石` `专利纠纷` `竞争升级` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 大疆对影石（Insta360）发起专利侵权诉讼，涉及多项关键技术领域，多名前核心研发人员或涉案。钛媒体分析认为此次诉讼是市场竞争升级的必然结果。
+
+---
+
+<!-- article-id: 7af1ebf50c16000bcd33cc1f8efb12f9 -->
+### [力推新IP，泡泡玛特也吃劲儿](https://www.tmtpost.com/7925087.html)
+**来源**: 钛媒体 &nbsp;|&nbsp; **标签**: `泡泡玛特` `IP运营` `潮玩` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 泡泡玛特在新IP孵化上面临挑战，IP打造没有100%的成功率，文章分析了潮玩公司在IP创新方面的困境与策略。
+
+---
+
+<!-- article-id: b1f6beff412f71ed2d07396f2c637549 -->
+### [华为具身智能"1号员工"周顺波离职创业](https://www.leiphone.com/category/industrynews/rFeuvZCYsc6GOqfn.html)
+**来源**: 雷锋网 &nbsp;|&nbsp; **标签**: `华为` `具身智能` `创业` `机器人` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 华为云物理智能创新Lab负责人周顺波离职创业，创立"欧拉万象"公司切入消费级具身智能赛道。他是华为具身智能领域的首位员工，曾从0到1搭建华为最大的具身智能团队。
+
+---
+
+<!-- article-id: 19bb11bf5148aad3e3985948d45b5b51 -->
+### [山姆鲜猪肉被曝为数月前屠宰；马斯克宣布进军2nm芯片；OpenAI扩招至8000人](https://www.leiphone.com/category/zaobao/Nf63Jxdl5BO3461P.html)
+**来源**: 雷锋网 &nbsp;|&nbsp; **标签**: `山姆` `马斯克` `OpenAI` `食品安全` `芯片制造` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 雷锋网早报要闻：山姆回应鲜猪肉实为数月前屠宰引争议；马斯克宣布进军2nm芯片制造挑战台积电三星；OpenAI计划扩招至8000人；Cursor被质疑套壳Kimi；雷军承认"60加60等于120"说法有误。
+
+---
+
+<!-- article-id: 630676a794b11ea4837f3b25576b14c2 -->
+### [油价上涨，股市大跌](https://www.nytimes.com/2026/03/23/business/oil-stocks-gas-prices-iran.html)
+**来源**: NYT Business &nbsp;|&nbsp; **标签**: `油价` `股市` `中东冲突` `市场波动` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 中东战争引发的市场动荡进入第四周，投资者面对油价飙升和股市暴跌，全球市场经历剧烈波动。
+
+---
+
+<!-- article-id: 640d8a21e6b9f9775037f48171c75b27 -->
+### [黄金白银暴跌，中东战争加剧通胀担忧](https://www.bloomberg.com/news/articles/2026-03-22/gold-wavers-after-worst-week-in-four-decades-as-war-risks-mount)
+**来源**: 彭博社 &nbsp;|&nbsp; **标签**: `黄金暴跌` `白银` `中东战争` `通胀` `利率` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> 黄金经历四十年来最差一周后继续暴跌，连跌九天抹去今年全部涨幅。白银一度暴跌超10%。中东战争推高能源成本，引发通胀和加息预期，传统避险资产反而遭到抛售。
+
+---
+
+<!-- article-id: e8fd98dbf937a843da4d4acde066ae53 -->
+### [伯克希尔·哈撒韦将投资18亿美元入股东京海上](https://www.bloomberg.com/news/articles/2026-03-23/berkshire-hathaway-to-stake-1-8-billion-in-insurer-tokio-marine)
+**来源**: 彭博社 &nbsp;|&nbsp; **标签**: `伯克希尔` `巴菲特` `日本保险` `投资` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 伯克希尔·哈撒韦将投资2874亿日元（18亿美元）入股日本保险巨头东京海上，显著加大对日本市场的敞口。
+
+---
+
+<!-- article-id: 797510362b28dd79721bb89bd9a22db4 -->
+### [特朗普霍尔木兹海峡最后通牒倒计时，油价继续攀升](https://www.bloomberg.com/news/articles/2026-03-22/latest-oil-market-news-and-analysis-for-march-23)
+**来源**: 彭博社 &nbsp;|&nbsp; **标签**: `油价` `霍尔木兹海峡` `特朗普` `伊朗` `能源危机` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> 油价自2022年中以来最高收盘后继续上涨，投资者评估特朗普对伊朗重开霍尔木兹海峡的两天最后通牒以及德黑兰的报复威胁。
+
+---
+
+<!-- article-id: e56252161a1673b885bee3451ea2fe6b -->
+### [美伊紧张升级，股债齐跌](https://www.bloomberg.com/news/articles/2026-03-22/markets-set-for-turbulent-open-as-war-rages-on-markets-wrap)
+**来源**: 彭博社 &nbsp;|&nbsp; **标签**: `全球市场` `股市暴跌` `债券` `中东战争` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 美伊冲突进入第四周，双方强硬言论和潜在升级信号加剧市场恐慌，股票、黄金和债券同步遭到抛售。
+
+---
+
+<!-- article-id: b75f4b6d53bf98ae2e19bd81ec47f76c -->
+### [日本东证指数跌入技术性修正区间](https://www.bloomberg.com/news/articles/2026-03-23/japanese-stocks-slide-as-hormuz-fears-amplify-risk-off-mood)
+**来源**: 彭博社 &nbsp;|&nbsp; **标签**: `日本股市` `东证指数` `霍尔木兹海峡` `风险规避` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 日本股市大幅下跌，东证指数跌入技术性修正区间，特朗普对霍尔木兹海峡的威胁压制风险偏好，油价持续攀升加剧避险情绪。
+
+---
+
+<!-- article-id: 4752d456dc2c81d14b2c28515a463b0d -->
+### [伊朗战争颠覆利率预期，全球债券收益率攀升](https://www.bloomberg.com/news/articles/2026-03-22/-pandemonium-fuels-surge-in-yields-as-fed-rate-hike-bets-emerge)
+**来源**: 彭博社 &nbsp;|&nbsp; **标签**: `债券收益率` `加息预期` `中东战争` `能源成本` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> 全球债券收益率升至2024年5月以来最高水平，中东冲突导致能源成本飙升，交易员开始为央行加息做准备，市场预期发生根本性转变。
+
+---
+
 ## Tech
 
 <!-- article-id: 2870196ee6ba1e49cb9bd484e0ea220c -->
@@ -195,6 +363,160 @@ Nothing 累计营收已突破 10 亿美元，2024 年同比增长 150%，被视�
 
 ---
 
+
+<!-- article-id: c2fccef961577ae38c0d46bb4c8155ba -->
+### [只用一个打火机就能获取root权限？](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html)
+**来源**: Hacker News &nbsp;|&nbsp; **标签**: `硬件安全` `DRAM攻击` `电磁故障注入` `逆向工程` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 一篇关于使用电磁故障注入（EMFI）技术攻击DRAM的文章，作者展示了如何利用简单的电子设备（如点烟器中的压电元件）对内存进行物理攻击，从而实现权限提升。这一研究揭示了硬件安全领域中一个有趣且令人担忧的攻击面。
+
+---
+
+<!-- article-id: c97b9e4811b33885d9c8803d7c8f918b -->
+### [Tin Can：专为儿童设计的"座机电话"](https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9)
+**来源**: Hacker News &nbsp;|&nbsp; **标签**: `儿童科技` `智能手机替代` `育儿` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 一款名为Tin Can的产品为家长提供了智能手机的替代方案，专为儿童设计的类似座机的通讯设备，旨在减少儿童对智能手机的依赖。
+
+---
+
+<!-- article-id: 32f3b2aa8388154bed5acae650f88b28 -->
+### [Postgres CLI中CTRL-C取消查询的实现方式令人惊讶](https://neon.com/blog/ctrl-c-in-psql-gives-me-the-heebie-jeebies)
+**来源**: Hacker News &nbsp;|&nbsp; **标签**: `PostgreSQL` `数据库` `系统编程` `信号处理` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 文章深入分析了PostgreSQL命令行工具psql中CTRL-C取消查询的内部实现机制。作者发现这一看似简单的功能背后有着非常hack-y的实现方式，涉及信号处理和网络通信的复杂交互。
+
+---
+
+<!-- article-id: 462e8719e0e6b74369d09799307dc158 -->
+### [MAUI即将登陆Linux](https://avaloniaui.net/blog/maui-avalonia-preview-1)
+**来源**: Hacker News &nbsp;|&nbsp; **标签**: `.NET` `跨平台开发` `Linux` `UI框架` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> Avalonia UI宣布MAUI（.NET多平台应用UI框架）将通过Avalonia支持Linux平台，这对.NET跨平台开发者来说是一个重要进展，使得MAUI应用可以真正覆盖所有主要桌面平台。
+
+---
+
+<!-- article-id: a422ead3aa2d574b4ccb3af858c1c206 -->
+### [美国运通支付网络的两次迁移](https://americanexpress.io/migrating-the-payments-network-twice/)
+**来源**: Hacker News &nbsp;|&nbsp; **标签**: `支付系统` `系统迁移` `基础设施` `工程实践` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 美国运通分享了其支付网络两次大规模迁移的技术实践。文章详细描述了如何在不中断服务的情况下完成关键金融基础设施的迁移，对大型系统架构和工程管理有重要参考价值。
+
+---
+
+<!-- article-id: 545ab34ac0e62b354c4d77f5f2f92e1f -->
+### [用现代RTL工具构建FPGA版3dfx Voodoo显卡](https://noquiche.fyi/voodoo)
+**来源**: Hacker News &nbsp;|&nbsp; **标签**: `FPGA` `复古硬件` `3D图形` `硬件开发` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 一个令人兴奋的项目，使用现代RTL工具在FPGA上重建经典的3dfx Voodoo显卡。这不仅是对经典图形硬件的致敬，也展示了现代FPGA开发工具链的强大能力。
+
+---
+
+<!-- article-id: 21ef0d0dc969fee14b032609447305d1 -->
+### [换一个手机键盘，给你的手机一次免费大升级](https://www.wired.com/story/switch-your-phone-to-another-keyboard-ios-android/)
+**来源**: Wired &nbsp;|&nbsp; **标签**: `手机键盘` `iOS` `Android` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐
+> Wired推荐用户在Android和iOS上更换默认键盘以获得更好的输入体验，介绍了第三方键盘的优势。
+
+---
+
+<!-- article-id: bd511a5f7c2c24d15f75c713e3bb67a4 -->
+### [墨西哥城"Xoli"聊天机器人将帮助世界杯游客导航城市](https://www.wired.com/story/mexico-city-xoli-chatbot-world-cup-tourists/)
+**来源**: Wired &nbsp;|&nbsp; **标签**: `世界杯` `聊天机器人` `智慧城市` `墨西哥` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 墨西哥城推出名为"Xoli"的AI聊天机器人，旨在帮助2026年世界杯期间的游客导航城市。这是墨西哥联邦政府利用技术推动世界杯成为全国发展引擎的举措之一。
+
+---
+
+<!-- article-id: 85ee2391c2141fdedf5f5120e25436d5 -->
+### [ULA再次无法满足美军卫星发射需求](https://arstechnica.com/space/2026/03/spacex-swipes-yet-another-military-contract-from-united-launch-alliance/)
+**来源**: Ars Technica &nbsp;|&nbsp; **标签**: `航天` `SpaceX` `ULA` `军事卫星` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 由于Vulcan火箭固体助推器异常导致停飞，ULA再次无法按时执行美军卫星发射任务，SpaceX因此获得又一份军事合同。
+
+---
+
+<!-- article-id: d37247f86763dfa868e4c7f44c773e4a -->
+### [微软反复强调其对Windows 11质量的深度承诺](https://arstechnica.com/gadgets/2026/03/microsoft-keeps-insisting-that-its-deeply-committed-to-the-quality-of-windows-11/)
+**来源**: Ars Technica &nbsp;|&nbsp; **标签**: `微软` `Windows 11` `Copilot` `用户体验` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 微软再次声明其对Windows 11质量的重视，其中"减少不必要的Copilot入口"是其行动项之一，反映出用户对AI功能过度推广的不满。
+
+---
+
+<!-- article-id: ddc4f9e0a68a01695ffab213a5209b61 -->
+### [广泛使用的Trivy扫描器在供应链攻击中被入侵](https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/)
+**来源**: Ars Technica &nbsp;|&nbsp; **标签**: `供应链安全` `Trivy` `容器安全` `安全事件` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> 广泛使用的容器安全扫描工具Trivy遭到供应链攻击入侵，管理员需紧急轮换密钥。这一事件影响范围广泛，再次凸显了软件供应链安全的脆弱性。
+
+---
+
+<!-- article-id: 15a2538f5c7232b9b9755cf286c5f28d -->
+### [一台造梦一台赚钱，苹果50周年还藏了两台新iPhone](https://www.ifanr.com/1659114)
+**来源**: 爱范儿 &nbsp;|&nbsp; **标签**: `苹果` `iPhone` `产品爆料` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 爱范儿报道苹果50周年之际将推出两款新iPhone，一款主打创新（造梦），一款主打销量（赚钱），灵动岛设计可能有变化，酒红色配色回归，售价预计不变。
+
+---
+
+<!-- article-id: 6f303d07f56d39a3252ac91c8b9af062 -->
+### [Mac选购指南2026春季版](https://sspai.com/post/85735)
+**来源**: 少数派 &nbsp;|&nbsp; **标签**: `Mac` `选购指南` `macOS` `MacBook` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 少数派发布2026年春季Mac选购指南，分析了MacBook Neo等新产品的定位，帮助用户根据需求选择合适的Mac机型。
+
+---
+
+<!-- article-id: 3fe3de16cc2f7f8f679d8ef346926d99 -->
+### [基于Tasker的节假日补班闹钟怎么做？](https://sspai.com/post/106993)
+**来源**: 少数派 &nbsp;|&nbsp; **标签**: `Tasker` `Android` `自动化` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐
+> 少数派介绍了如何使用Tasker在Android手机上设置根据中国节假日和补班日自动调整的闹钟，适合持有非国行Android手机的用户。
+
+---
+
+<!-- article-id: 92c542248afb3b3bd799299db0ac9ff9 -->
+### [腾讯自研虾WorkBuddy接入微信龙虾插件](https://36kr.com/newsflashes/3735199713673224)
+**来源**: 36氪 &nbsp;|&nbsp; **标签**: `腾讯` `AI助手` `微信` `远程办公` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 腾讯自研AI助手WorkBuddy已接入微信ClawBot插件，用户可通过微信远程操控电脑执行办公任务，支持语音指令和文件传输。
+
+---
+
+<!-- article-id: 0302c850432f9f52aa1f5787944cf5a3 -->
+### [独家参观亚马逊Trainium芯片实验室](https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/)
+**来源**: TechCrunch &nbsp;|&nbsp; **标签**: `亚马逊` `AI芯片` `Trainium` `OpenAI` `Anthropic` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> 亚马逊宣布500亿美元投资OpenAI后，TechCrunch独家参观了其Trainium芯片实验室。这款自研AI芯片已赢得Anthropic、OpenAI甚至苹果的青睐，显示亚马逊在AI基础设施领域的雄心。
+
+---
+
+<!-- article-id: bf069dd49edbb5de13204548d9ecdef9 -->
+### [AI Token是新型签约奖金还是仅仅是业务成本？](https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/)
+**来源**: TechCrunch &nbsp;|&nbsp; **标签**: `AI Token` `工程师薪酬` `科技公司` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> AI Token可能成为工程师薪酬的第四大支柱（基础工资、奖金、股权之外），但工程师们应谨慎评估这一趋势是否真正有利。
+
+---
+
+<!-- article-id: 9f69b493dcf2729d0e6a55cb3562e716 -->
+### [第一条推文已经20年了](https://techcrunch.com/2026/03/21/its-been-20-years-since-the-first-tweet/)
+**来源**: TechCrunch &nbsp;|&nbsp; **标签**: `Twitter` `社交媒体` `互联网历史` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 2006年3月21日，Jack Dorsey发布了第一条推文"just setting up my twittr"。20年后的今天，这个平台已经历了翻天覆地的变化。
+
+---
+
+<!-- article-id: 5eb7a49ccf201eba76d98f23b2f9be4a -->
+### [龙虾是一次"能力泄露"](https://www.tmtpost.com/7925197.html)
+**来源**: 钛媒体 &nbsp;|&nbsp; **标签**: `AI助手` `龙虾` `能力泄露` `AI应用` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 钛媒体分析了"龙虾"（AI Agent）现象，指出龙虾并未让AI变强，它只是将AI原本就存在的能力以一种新形式释放出来，本质上是一次"能力泄露"。
+
+---
+
+<!-- article-id: 1e3ddf107cc97303294034d74695293a -->
+### [阶跃星辰发布Step Plan包月订阅，主打OpenClaw场景](https://www.leiphone.com/category/industrynews/69TcSsm0DfnOiBxY.html)
+**来源**: 雷锋网 &nbsp;|&nbsp; **标签**: `阶跃星辰` `AI编程` `Token订阅` `OpenClaw` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 阶跃星辰推出Step Plan月度Token订阅方案，起步价49元/月，针对OpenClaw和AI Coding场景深度定制，全档位统一提供高速推理。
+
+---
+
+<!-- article-id: 0157847b934e4ded4a689a6ad9882d98 -->
+### [Minecraft主题公园将于2027年在伦敦开放](https://www.engadget.com/gaming/a-minecraft-theme-park-will-open-in-london-in-2027-173000917.html)
+**来源**: Engadget &nbsp;|&nbsp; **标签**: `Minecraft` `主题公园` `游戏` `伦敦` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 全球销量最高的游戏Minecraft宣布将在伦敦Chessington World of Adventures建立永久性主题公园，计划2027年开放，包含过山车和互动体验。
+
+---
+
+<!-- article-id: 1ff01eda16aa6b8dc30fb4cfb5338b6f -->
+### [Twitter 20岁了，但我毫无感触](https://www.engadget.com/social-media/twitter-turned-20-and-i-feel-nothing-140000602.html)
+**来源**: Engadget &nbsp;|&nbsp; **标签**: `Twitter` `社交媒体` `X平台` `马斯克` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> Engadget编辑回顾了Twitter 20年来的变迁，从曾经的文化现象到被马斯克收购后的衰落，感叹这个平台已今非昔比，Grok算法推荐充斥着AI垃圾内容。
+
+---
 
 ## 国际
 
@@ -235,6 +557,111 @@ Nothing 累计营收已突破 10 亿美元，2024 年同比增长 150%，被视�
 ---
 
 
+<!-- article-id: 89cff6d988fed0c3a2d355b9e1e74f9c -->
+### [飞机与地面车辆在纽约拉瓜迪亚机场相撞，航班停飞](https://www.bbc.com/news/articles/cy01g522ww4o)
+**来源**: BBC News &nbsp;|&nbsp; **标签**: `航空事故` `纽约` `拉瓜迪亚机场` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 一架加拿大航空快运班机在纽约拉瓜迪亚机场降落时与地面车辆发生碰撞，飞机受损严重，机场航班全部停飞。
+
+---
+
+<!-- article-id: 0e1f8a3f11c634ea2a2fe708a667d8a1 -->
+### [美国和伊朗威胁升级战争，亚洲股市暴跌](https://www.bbc.com/news/articles/czex56kwxxzo)
+**来源**: BBC News &nbsp;|&nbsp; **标签**: `中东冲突` `伊朗战争` `亚洲股市` `能源危机` `霍尔木兹海峡` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> 美伊冲突持续升级，国际能源署署长警告这可能导致数十年来最严重的全球能源危机。亚洲股市大幅下挫，油价飙升，全球金融市场剧烈动荡。
+
+---
+
+<!-- article-id: 3fb558f0d55c58dffcbb52de9d9bc12b -->
+### [美国和以色列为何攻击伊朗？战争可能持续多久？](https://www.bbc.com/news/articles/cx2dyz6p3weo)
+**来源**: BBC News &nbsp;|&nbsp; **标签**: `美伊冲突` `以色列` `中东局势` `战争分析` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> BBC分析了美国和以色列自2月28日对伊朗发动打击以来中东冲突的扩散态势，探讨了战争的起因、当前局势和可能的持续时间。
+
+---
+
+<!-- article-id: 7999c4b42c179ed9597f9e1a63557094 -->
+### [以色列将扩大对黎巴嫩真主党的地面和空中攻击](https://www.bbc.com/news/articles/c30rl05evd8o)
+**来源**: BBC News &nbsp;|&nbsp; **标签**: `以色列` `黎巴嫩` `真主党` `军事行动` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 以色列宣布将扩大对黎巴嫩真主党的地面和空中攻击，黎巴嫩方面担忧以色列正在准备大规模地面入侵。
+
+---
+
+<!-- article-id: 75c6bedcdf6cf2f9a1eda8e7c32453b0 -->
+### [德国劳动力短缺，转向印度寻求帮助](https://www.bbc.com/news/articles/c3wlww83yv4o)
+**来源**: BBC News &nbsp;|&nbsp; **标签**: `德国` `印度` `劳动力短缺` `移民政策` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 面对严重的技术工人短缺，德国正在向印度年轻人提供就业机会，以填补劳动力缺口。
+
+---
+
+<!-- article-id: 510611d5624cfbc6de866e251a68faf6 -->
+### [苏丹一家医院遭袭击，世卫组织称数十人死亡](https://www.nytimes.com/2026/03/22/world/africa/sudan-hospital-darfur-attack.html)
+**来源**: NYT World &nbsp;|&nbsp; **标签**: `苏丹` `内战` `人道主义危机` `医疗设施` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 世卫组织总干事称苏丹达尔富尔地区一家医院遭袭击，13名儿童在内的数十人死亡，他谴责内战中对医疗设施的攻击行为。
+
+---
+
+<!-- article-id: ff6df57c966fdb2288e695b56591d107 -->
+### [IEA署长警告"非常严重"的全球能源危机](https://www.aljazeera.com/video/newsfeed/2026/3/23/iea-chief-warns-of-very-severe-global-energy-crisis)
+**来源**: Al Jazeera &nbsp;|&nbsp; **标签**: `能源危机` `IEA` `伊朗战争` `石油供应` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> 国际能源署署长法提赫·比罗尔警告伊朗战争可能引发"非常严重"的全球能源危机，IEA可能释放更多战略石油储备以应对供应冲击。
+
+---
+
+<!-- article-id: bd1dff017da1524b023bfea91516cf1a -->
+### [IEA负责人称全球正经历比1970年代石油危机更严重的能源危机](https://www.aljazeera.com/economy/2026/3/23/world-in-energy-crisis-worse-than-1970s-oil-shocks-combined-iea-head-says)
+**来源**: Al Jazeera &nbsp;|&nbsp; **标签**: `能源危机` `IEA` `1970年代石油危机` `全球经济` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> IEA负责人表示，伊朗战争引发的能源危机比1970年代的石油危机更为严重，对全球经济构成"重大威胁"。
+
+---
+
+<!-- article-id: 52fb23e99d7462635b6a957a355a73b3 -->
+### [特朗普对伊朗发出最后通牒，亚洲股市暴跌](https://www.aljazeera.com/economy/2026/3/23/asian-stock-markets-plunge-amid-trumps-ultimatum-on-iran)
+**来源**: Al Jazeera &nbsp;|&nbsp; **标签**: `亚洲股市` `特朗普` `伊朗` `市场暴跌` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 日本、韩国和香港关键股指大幅暴跌，伊朗威胁攻击整个地区的能源基础设施，市场恐慌加剧。
+
+---
+
+<!-- article-id: e69c45453484131b39301fb370f717ec -->
+### [伊朗战争实时：德黑兰誓言若发电厂被炸将"完全关闭"霍尔木兹海峡](https://www.aljazeera.com/news/liveblog/2026/3/23/iran-war-live-tehran-vows-to-completely-close-hormuz-if-power-plants-hit)
+**来源**: Al Jazeera &nbsp;|&nbsp; **标签**: `伊朗战争` `霍尔木兹海峡` `以色列` `黎巴嫩` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> 美以对伊朗的攻击持续，德黑兰誓言若发电厂被攻击将完全封锁霍尔木兹海峡。以色列军队在黎巴嫩南部炸毁卡西米亚大桥，冲突继续扩大。
+
+---
+
+<!-- article-id: 4a1fd14c2ef6ed440535da1420580008 -->
+### [社会党候选人格雷戈尔赢得巴黎市长选举](https://www.aljazeera.com/news/2026/3/22/socialist-emmanuel-gregoire-wins-paris-mayoral-race)
+**来源**: Al Jazeera &nbsp;|&nbsp; **标签**: `法国政治` `巴黎` `市长选举` `左翼联盟` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 社会党候选人Emmanuel Gregoire领导传统左翼、绿党和共产党联合名单赢得巴黎市长选举。
+
+---
+
+<!-- article-id: 3af8e85235337a7eb6150b7108915208 -->
+### [美国政府停摆混乱加深，特朗普派移民执法人员进驻机场](https://www.aljazeera.com/news/2026/3/22/trump-sends-us-immigration-agents-to-airports-as-shutdown-chaos-deepens)
+**来源**: Al Jazeera &nbsp;|&nbsp; **标签**: `美国政府停摆` `特朗普` `机场安检` `移民执法` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 美国政府停摆导致机场安检人员无薪工作、排队混乱，特朗普被迫派遣移民执法人员进驻机场维持秩序。
+
+---
+
+<!-- article-id: cc22aff1ffe60e53f9586d5fabeb2074 -->
+### [古巴从最新停电中恢复，宣称已准备好应对任何美国攻击](https://www.aljazeera.com/news/2026/3/22/emerging-from-latest-blackout-cuba-says-ready-for-any-potential-us-attack)
+**来源**: Al Jazeera &nbsp;|&nbsp; **标签**: `古巴` `停电` `美国威胁` `委内瑞拉` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 在特朗普切断古巴石油供应并威胁接管该国后，古巴从最新一次大停电中恢复，声称已做好应对任何美国攻击的准备。
+
+---
+
+<!-- article-id: 6b486c1d0e23d2d890d2dac13eb44c41 -->
+### [金正恩再次被任命为朝鲜国务委员长](https://www.aljazeera.com/video/newsfeed/2026/3/23/kim-jong-un-reappointed-as-president-of-north-korea)
+**来源**: Al Jazeera &nbsp;|&nbsp; **标签**: `朝鲜` `金正恩` `政治` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐
+> 朝鲜官方媒体报道金正恩再次被任命为国务委员长。
+
+---
+
+<!-- article-id: 249a3e08f8dee5008ee2ab2270f7932d -->
+### [斯洛文尼亚议会选举自由派与保守派势均力敌](https://www.aljazeera.com/news/2026/3/22/slovenias-freedom-movement-party-takes-narrow-election-lead-exit-poll)
+**来源**: Al Jazeera &nbsp;|&nbsp; **标签**: `斯洛文尼亚` `议会选举` `欧洲政治` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 斯洛文尼亚议会选举结果接近，中左翼和右翼民粹主义政党得票率几乎相同，下届政府将取决于谁能与小党组成联盟。
+
+---
+
 ## 健康
 
 <!-- article-id: 4df72b149fb3a287f8efce48c55739a6 -->
@@ -246,6 +673,13 @@ Nothing 累计营收已突破 10 亿美元，2024 年同比增长 150%，被视�
 
 ---
 
+
+<!-- article-id: 86698299dbc5f0d3b5d1731fad3893fc -->
+### [你可能已经感染了一种从未听说过的"噬脑"病毒](https://arstechnica.com/health/2026/03/youre-likely-already-infected-with-a-brain-eating-virus-youve-never-heard-of/)
+**来源**: Ars Technica &nbsp;|&nbsp; **标签**: `病毒学` `脑部感染` `公共卫生` `医学研究` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> Ars Technica报道了一种此前被认为仅在严重免疫抑制人群中导致致命脑部感染的病毒，新研究表明它的感染范围可能远比预想的广泛。这一发现改变了科学界对该病毒的认知。
+
+---
 
 ## 科学
 
@@ -282,6 +716,95 @@ Nothing 累计营收已突破 10 亿美元，2024 年同比增长 150%，被视�
 > Firefly Aerospace 的 Blue Ghost 月球着陆器传回首批科学数据，结果挑战了月球表面岩石分布的传统认知。
 数据表明 NASA 不断扩展的商业月球计划确实能够产出有价值的科学成果。
 这是私人航天器在月球科学探索上的重要里程碑，为商业月球计划的科学价值提供了有力证明。
+
+---
+
+
+<!-- article-id: 1359bb635ba66a63966bc72265ddacb5 -->
+### [联合国警告：地球正被"推向极限"，能量失衡达历史最高](https://www.bbc.com/news/articles/c203rdxkezwo)
+**来源**: BBC News &nbsp;|&nbsp; **标签**: `气候变化` `联合国` `全球变暖` `能量失衡` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 联合国气象机构发布报告称地球气候失衡程度达到有记录以来最高水平，地球正被推向极限，海洋热量和二氧化碳浓度也创历史新高。
+
+---
+
+<!-- article-id: 6a0273047027229b45ede2f7ed7fae67 -->
+### [小行星龙宫上发现DNA构成单元](https://www.engadget.com/science/dna-building-blocks-on-asteroid-ryugu-bacteria-that-eat-plastic-waste-and-more-science-news-150000975.html)
+**来源**: Engadget &nbsp;|&nbsp; **标签**: `小行星` `DNA` `生命起源` `太空探索` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 日本研究人员在小行星龙宫样本中发现了DNA和RNA的全部五种核碱基，这一发现支持了碳质小行星将生命基本成分运送到地球的假说，为理解生命起源提供了重要线索。
+
+---
+
+<!-- article-id: cd9862afac18f85a6378453cff3872f2 -->
+### [地球刚刚经历了有记录以来最热的11年](https://www.nature.com/articles/d41586-026-00946-6)
+**来源**: Nature &nbsp;|&nbsp; **标签**: `气候变化` `全球变暖` `世界气象组织` `海洋热量` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 世界气象组织报告显示，全球刚经历了有记录以来最热的连续11年，海洋热量和二氧化碳浓度也达到历史最高水平。
+
+---
+
+## 社会
+
+<!-- article-id: 802a28fda9fa4b1aac4d5b078fd8eae5 -->
+### [你不等于你的工作](https://jry.io/writing/you-are-not-your-job/)
+**来源**: Hacker News &nbsp;|&nbsp; **标签**: `职业认同` `心理健康` `工作生活平衡` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 一篇关于职业身份认同的反思文章，探讨了现代人过度将自我价值与工作绑定的问题，提倡在职业之外建立更完整的自我认知。
+
+---
+
+
+## 文化
+
+<!-- article-id: 049e3698087df27cb976445639213acc -->
+### [世界杯奖杯失窃案：黑帮、间谍与找到它的那条狗](https://www.bloomberg.com/news/articles/2026-03-20/the-1966-world-cup-trophy-theft-gangsters-spies-and-the-dog-that-found-it)
+**来源**: Hacker News &nbsp;|&nbsp; **标签**: `世界杯` `历史事件` `犯罪故事` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 彭博社回顾了1966年世界杯奖杯被盗的传奇故事，涉及黑帮、间谍以及最终由一条名叫Pickles的狗在灌木丛中找到奖杯的戏剧性经过。
+
+---
+
+<!-- article-id: b0a3dd7cfcd3dc99e1f08f3b4a097091 -->
+### [亚马逊MGM凭《火星救援计划》获得急需的票房成功](https://www.nytimes.com/2026/03/21/business/media/amazon-mgm-project-hail-mary-ryan-gosling.html)
+**来源**: NYT Business &nbsp;|&nbsp; **标签**: `亚马逊` `电影` `Ryan Gosling` `票房` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 由Ryan Gosling主演的《Project Hail Mary》有望成为亚马逊MGM国内票房最高的电影，为该公司带来了急需的商业成功。
+
+---
+
+
+## 经济
+
+<!-- article-id: 8f45e425416e608003760d551cb49586 -->
+### [日本大型工会数据显示企业同意加薪5.26%](https://36kr.com/newsflashes/3735214886994180)
+**来源**: 36氪 &nbsp;|&nbsp; **标签**: `日本经济` `薪资增长` `劳资谈判` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 日本年度劳资谈判初步结果显示，企业连续第三年同意加薪超过5%，达到5.26%，政策制定者视持续加薪为推动经济稳健增长的关键。
+
+---
+
+<!-- article-id: d91d3bf8ff09518f8e5c2762c99a62f6 -->
+### [现货白银跌幅扩大至超10%](https://36kr.com/newsflashes/3735195357511939)
+**来源**: 36氪 &nbsp;|&nbsp; **标签**: `白银` `贵金属` `大宗商品` `市场暴跌` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 现货白银暴跌超10%至61美元/盎司，本月累计跌幅达35%，中东战争引发的通胀预期和加息担忧重创贵金属市场。
+
+---
+
+<!-- article-id: e6c1274c29180ebe478800aa369e763e -->
+### [现货黄金日内跌幅扩大至8%](https://36kr.com/newsflashes/3735195109179649)
+**来源**: 36氪 &nbsp;|&nbsp; **标签**: `黄金` `贵金属` `市场暴跌` `中东冲突` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> 现货黄金单日暴跌8%至4129美元/盎司，中东战争升级导致通胀预期飙升，投资者预期央行加息，传统避险资产黄金遭到抛售，完全抹去今年涨幅。
+
+---
+
+
+## 体育
+
+<!-- article-id: acdeb9adc1a00128203faefd3671ca8d -->
+### [梅西进球，迈阿密国际逆转纽约城FC](https://www.aljazeera.com/sports/2026/3/23/lionel-messi-scores-as-inter-miami-rally-past-nycfc-in-mls)
+**来源**: Al Jazeera &nbsp;|&nbsp; **标签**: `梅西` `MLS` `迈阿密国际` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐
+> 梅西在MLS比赛中打入个人职业生涯第901球，帮助迈阿密国际在洋基体育场逆转击败纽约城FC。
+
+---
+
+<!-- article-id: dfb897ae66632def9e3e3d6a55fc0f41 -->
+### [维尼修斯梅开二度，皇马3-2险胜马竞](https://www.aljazeera.com/sports/2026/3/22/vinicius-strikes-twice-as-real-madrid-edge-atletico-3-2-in-pulsating-derby)
+**来源**: Al Jazeera &nbsp;|&nbsp; **标签**: `皇马` `马竞` `西甲` `德比` &nbsp;|&nbsp; **时间**: 16:28 &nbsp;|&nbsp; **评分**: ⭐⭐
+> 维尼修斯梅开二度帮助皇马在激烈的马德里德比中3-2险胜马竞，皇马与领头羊巴萨差距保持在4分。
 
 ---
 
