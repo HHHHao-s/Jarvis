@@ -1,5 +1,5 @@
 ---
-name: Email Notifier
+name: email-notifier
 description: 通过 QQ 邮箱 SMTP 发送邮件通知。支持两种场景：日报生成成功后发送摘要通知，以及流程出错时发送错误日志。当用户说"发送日报通知邮件"或"发送错误通知"时使用此 Skill。
 ---
 

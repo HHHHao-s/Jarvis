@@ -1,5 +1,5 @@
 ---
-name: RSS Daily Digest
+name: rss-summarizer
 description: 读取 data/pending.yaml 中的原始 RSS 文章列表，对每篇文章生成中文摘要、标签和分类，然后将所有内容汇总并写入 data/temp/digest_batch.json，最后调用 Python 脚本生成 Jekyll Chirpy 日报 Markdown 文件（docs/_posts/YYYY-MM-DD-daily-digest.md）。当用户说"生成今天的日报"或"处理待总结文章"时使用此 Skill。
 ---
 
@@ -85,13 +85,13 @@ python3 scripts/generate_post.py --input data/temp/digest_batch.yaml
 - 必须等待脚本执行成功（输出包含 `SUCCESS:`）后再继续
 - 如果脚本报错（输出包含 `ERROR:`），停止流程并报告错误，**不清空 pending**
 
-### 第五步：清空 pending
-**确认第四步脚本执行成功后**，将 `data/pending.yaml` 内容清空为 `[]\n`。
+### 第五步：清空 pending.yaml 和 digest_batch.yaml
+**确认第四步脚本执行成功后**，将 `data/pending.yaml` 和 `data/temp/digest_batch.yaml` 内容清空为 `[]\n`。
 若第四步失败，保留 pending 数据以便重试。
 
 ## 注意事项
 - **AI 不直接写 Markdown 文件**，所有 Markdown 格式化由 `scripts/generate_post.py` 负责
-- `digest_batch.yaml` 只是中间临时文件，不需要手动维护
+- `digest_batch.yaml` 只是中间临时文件，不需要手动维护，在处理pending之前不用管，不要试图阅读它
 - `generate_post.py` 脚本具备幂等性：同一篇文章（相同 id）多次运行不会重复写入
 - 支持一天多次生成：新文章会增量追加到当天已有日报中
 - `date` 字段格式必须为 `YYYY-MM-DD`
