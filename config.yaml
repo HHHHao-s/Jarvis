@@ -34,19 +34,19 @@ rss_feeds:
   - name: "少数派"
     url: "https://sspai.com/feed"
     category: "Tech"
-    max_articles: 5
+    max_articles: 20
   - name: "36氪"
     url: "https://36kr.com/feed"
     category: "商业"
-    max_articles: 10
+    max_articles: 20
   - name: "TechCrunch"
     url: "https://techcrunch.com/feed/"
     category: "商业"
-    max_articles: 5
+    max_articles: 20
   - name: "VentureBeat"
     url: "https://venturebeat.com/feed/"
     category: "商业"
-    max_articles: 5
+    max_articles: 20
   - name: "钛媒体"
     url: "https://www.tmtpost.com/rss"
     category: "商业"
@@ -66,39 +66,39 @@ rss_feeds:
   - name: "NYT World"
     url: "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
     category: "国际"
-    max_articles: 5
+    max_articles: 20
   - name: "NYT Business"
     url: "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml"
     category: "商业"
-    max_articles: 5
+    max_articles: 20
   - name: "WSJ World News"
     url: "https://feeds.a.dj.com/rss/RSSWorldNews.xml"
     category: "国际"
-    max_articles: 5
+    max_articles: 20
   - name: "The Guardian World"
     url: "https://www.theguardian.com/world/rss"
     category: "国际"
-    max_articles: 5
+    max_articles: 20
   - name: "The Guardian Tech"
     url: "https://www.theguardian.com/technology/rss"
     category: "Tech"
-    max_articles: 5
+    max_articles: 20
   - name: "Engadget"
     url: "https://www.engadget.com/rss.xml"
     category: "Tech"
-    max_articles: 5
+    max_articles: 20
   - name: "ZDNet"
     url: "https://www.zdnet.com/news/rss.xml"
     category: "Tech"
-    max_articles: 5
+    max_articles: 20
   - name: "Nature"
     url: "https://www.nature.com/nature.rss"
     category: "科学"
-    max_articles: 5
+    max_articles: 20
   - name: "Science"
     url: "https://www.science.org/rss/news_current.xml"
     category: "科学"
-    max_articles: 5
+    max_articles: 20
   - name: "彭博社"
     url: "https://feeds.bloomberg.com/markets/news.rss"
     category: "商业"
