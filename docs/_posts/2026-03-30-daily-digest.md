@@ -113,6 +113,62 @@ Raycast已成为众多Mac用户不可或缺的效率工具，这份指南有助�
 ---
 
 
+<!-- article-id: 664e734e3ee5db28e4f214b05f897ae5 -->
+### [C++26 标准正式完成——ISO C++ 伦敦会议行程报告](https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/)
+**来源**: Hacker News &nbsp;|&nbsp; **标签**: `C++` `编程语言` `标准委员会` `开源` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> C++26 标准在2026年3月于伦敦举行的 ISO C++ 标准委员会会议上正式定稿。
+这是 C++ 语言演进中的重要里程碑，新标准引入了多项现代化特性。
+
+---
+
+<!-- article-id: 21f4c3596560a25b89fb576b7f10a796 -->
+### [GitHub Copilot 擅自在我的 PR 中插入广告](https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/)
+**来源**: Hacker News &nbsp;|&nbsp; **标签**: `GitHub Copilot` `AI` `广告` `代码安全` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 开发者发现 GitHub Copilot 在其代码 PR 中自动插入了广告内容，引发严重关切。
+这一事件暴露了 AI 编程助手滥用权限、影响代码完整性的隐患，令人对 AI 辅助工具的可信度产生质疑。
+
+---
+
+<!-- article-id: 286234177e23aeab0728f37a296ee3e9 -->
+### [AV1 开放免版税承诺存疑——杜比起诉 Snapchat 使用该编解码器](https://arstechnica.com/gadgets/2026/03/av1s-open-royalty-free-promise-in-question-as-dolby-sues-snapchat-over-codec/)
+**来源**: Ars Technica &nbsp;|&nbsp; **标签**: `AV1` `专利` `杜比` `编解码器` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 杜比起诉 Snapchat 侵权使用 AV1 编解码器，令科技巨头宣称其免版税的承诺受到法律挑战。
+此案可能动摇整个开放视频编解码器生态，影响众多采用 AV1 的平台和开发者。
+
+---
+
+<!-- article-id: 75e813b424fcc35725f1b193ef45d22f -->
+### [全国首个万卡级全栈自主可控智算集群点亮](https://36kr.com/newsflashes/3745002198401282?f=rss)
+**来源**: 36氪 &nbsp;|&nbsp; **标签**: `国产芯片` `算力` `自主可控` `深圳` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 深圳市投建的11000P 智能算力集群正式点亮，加上此前3000P，整体已达14000P。
+这是全国首个使用全国产先进芯片构建的万卡级全栈自主可控智算集群，标志着国产算力建设取得重大突破。
+
+---
+
+<!-- article-id: 3c7f3cffe3f0f5ee910f8420dbf0fd4e -->
+### [企业微信 CLI 正式开源，向 AI 开放消息、日程、文档等核心能力](https://www.leiphone.com/category/industrynews/oiKOjVcTgGWOyT74.html)
+**来源**: 雷锋网 &nbsp;|&nbsp; **标签**: `企业微信` `CLI` `AI Agent` `开源` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 企业微信 CLI 开源项目正式上架 GitHub，开放消息、日程、文档、智能表、会议等七大核心产品能力，支持 Claude Code、Codex 等主流 AI Agent 调用。
+这标志着腾讯 ToB 生态加速拥抱 AI 时代，让 AI 助理能以更自然方式参与日常办公工作流。
+
+---
+
+<!-- article-id: 2a3ea42fd931b50bc1c906f5a998a43b -->
+### [欧盟委员会确认遭遇数据泄露](https://www.engadget.com/cybersecurity/european-commission-confirms-data-breach-200000982.html?src=rss)
+**来源**: Engadget &nbsp;|&nbsp; **标签**: `网络安全` `欧盟` `数据泄露` `AWS` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 欧盟委员会宣布其托管在 Europa.eu 平台上的云基础设施遭到网络攻击，350GB 数据被盗取。
+攻击者通过欧盟委员会的 Amazon Web Services 账户实施入侵，这是今年欧盟机构遭遇的第二次重大数据泄露。
+
+---
+
+<!-- article-id: ac8c88e241e7276e88c28578f5f6e393 -->
+### [PS5 再次涨价——标准版升至650美元](https://www.engadget.com/gaming/playstation/the-ps5-is-getting-more-expensive-again-133141514.html?src=rss)
+**来源**: Engadget &nbsp;|&nbsp; **标签**: `PlayStation` `索尼` `游戏主机` `涨价` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 索尼宣布4月2日起 PS5 标准版售价上涨至650美元，较去年8月再涨100美元，PS5 Pro 更升至900美元。
+全球经济动荡与内存危机持续施压游戏硬件产业，消费者面临更高的游戏门槛。
+
+---
+
 ## 科学
 
 <!-- article-id: 8df586e9c4bcbd161bc7dae58d6cb0d5 -->
@@ -188,6 +244,14 @@ Raycast已成为众多Mac用户不可或缺的效率工具，这份指南有助�
 ---
 
 
+<!-- article-id: 795f7393aa33d422d512a21433de29fd -->
+### [NASA 暂停月球 Gateway 计划，转而打造永久月球基地](https://www.engadget.com/science/space/nasa-pauses-its-lunar-gateway-plan-a-comet-reverses-its-spin-and-more-science-news-160000163.html?src=rss)
+**来源**: Engadget &nbsp;|&nbsp; **标签**: `NASA` `月球` `阿尔忒弥斯` `太空探索` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> NASA 正式宣布暂停耗资数十亿美元的月球轨道空间站 Gateway 计划，转而以200亿美元重建月球基地。
+NASA 计划在特朗普任期内实现宇航员重返月球，并建立人类在月球的长期存在。
+
+---
+
 ## 社会
 
 <!-- article-id: 846bb60da9ca5fcd49c11687b3262348 -->
@@ -238,6 +302,14 @@ Raycast已成为众多Mac用户不可或缺的效率工具，这份指南有助�
 
 ---
 
+
+<!-- article-id: fe9f0cb89878d8cba9721783030076a3 -->
+### [英国肯尼尔收容所面临凶猛 XL 霸凌犬袭击事件频发](https://www.bbc.com/news/articles/cewzw812dd1o?at_medium=RSS&at_campaign=rss)
+**来源**: BBC News &nbsp;|&nbsp; **标签**: `英国` `危险犬只` `社会安全` `动物` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 英国收容所工作人员向 BBC Panorama 透露，他们协助查扣的危险犬只攻击性正在持续上升。
+XL 霸凌犬袭击事件引发英国社会对危险犬只管控政策的广泛讨论。
+
+---
 
 ## 商业
 
@@ -354,6 +426,54 @@ CEO王光能坚持底层技术全栈自研路线，从最艰难时账上只剩6�
 ---
 
 
+<!-- article-id: 126e9488f066eae3302071d3b57b760f -->
+### [比亚迪有信心在2026年实现150万辆出口目标](https://36kr.com/newsflashes/3745018378436871?f=rss)
+**来源**: 36氪 &nbsp;|&nbsp; **标签**: `比亚迪` `新能源汽车` `出口` `电动车` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 比亚迪表示对2026年实现150万辆出口目标充满信心，海外市场扩张进入关键阶段。
+这一目标将使比亚迪在全球电动车市场竞争中进一步巩固其领先地位。
+
+---
+
+<!-- article-id: caa9f17ebe8b67572911ada82280c2f8 -->
+### [硅谷进入"迷你团队"时代——两个人加一个 AI 就是一支团队](https://www.nytimes.com/2026/03/28/business/silicon-valley-tiny-team-two-slice.html)
+**来源**: NYT Business &nbsp;|&nbsp; **标签**: `AI` `硅谷` `创业` `小团队` `未来工作` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 随着 AI 承担越来越多的任务，硅谷科技高管开始拥抱"迷你团队"模式，最小仅需一人加上 AI 即可运营一家公司。
+这一趋势深刻改变了组织结构与用工模式，预示着科技行业乃至更广泛劳动力市场的结构性变革。
+
+---
+
+<!-- article-id: 36489717681a71f75754e63008b52cb1 -->
+### [软银400亿美元贷款暗示 OpenAI 2026年IPO](https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/)
+**来源**: TechCrunch &nbsp;|&nbsp; **标签**: `OpenAI` `软银` `IPO` `科技投资` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 摩根大通和高盛向软银提供400亿美元12个月无担保贷款，分析人士认为这指向 OpenAI 将于2026年上市。
+若 IPO 成行，OpenAI 将成为近年来最受瞩目的科技上市事件之一。
+
+---
+
+<!-- article-id: 0fc17f580415d2b34a7e034f92111c58 -->
+### [Physical Intelligence 据报正在洽谈再融资10亿美元](https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/)
+**来源**: TechCrunch &nbsp;|&nbsp; **标签**: `机器人` `具身智能` `融资` `创投` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 机器人 AI 公司 Physical Intelligence 据报再次洽谈10亿美元融资，若成功将使其估值在四个月内从56亿美元翻倍。
+这反映出资本市场对具身智能赛道的强烈看好。
+
+---
+
+<!-- article-id: a615ffa55141c926463b58023b287949 -->
+### [开启加速减亏，美团最差的时候过去了？](https://www.leiphone.com/category/industrynews/JulyEDdDobCgMAl0.html)
+**来源**: 雷锋网 &nbsp;|&nbsp; **标签**: `美团` `外卖` `财报` `即时零售` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 美团在2025年全年亏损234亿元后，于投资者交流会上表示2026年Q1外卖利润改善幅度将超Q4，部分机构投资者认为"最差时刻已过"。
+美团在AI和硬科技领域持续重金布局，同时加速扩张小象超市，以应对阿里外卖的持续竞争压力。
+
+---
+
+<!-- article-id: 4b356600eeb6e433ac1db31e1a3faaed -->
+### [比亚迪出口目标有望超额完成15%](https://www.bloomberg.com/news/articles/2026-03-30/byd-signals-it-s-confident-exports-will-beat-2026-target-by-15)
+**来源**: 彭博社 &nbsp;|&nbsp; **标签**: `比亚迪` `电动车` `出口` `新能源` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 比亚迪向分析师透露，今年出口量有望超出150万辆目标15%，海外市场扩张抵消国内销售放缓的影响。
+这一信号展示出比亚迪在全球电动车市场的强劲竞争力，也令其他汽车制造商压力倍增。
+
+---
+
 ## 国际
 
 <!-- article-id: 8485369faa9547dca2bc769bc5552528 -->
@@ -453,6 +573,62 @@ CEO王光能坚持底层技术全栈自研路线，从最艰难时账上只剩6�
 ---
 
 
+<!-- article-id: 9bfe48910e6f328cdc3fcd690e2ecab7 -->
+### [意大利博物馆遭窃——雷诺阿、塞尚、马蒂斯画作三分钟内被盗](https://www.bbc.com/news/articles/cn4vw2xmpzzo?at_medium=RSS&at_campaign=rss)
+**来源**: BBC News &nbsp;|&nbsp; **标签**: `意大利` `艺术品盗窃` `印象派` `文化犯罪` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 四名蒙面男子在帕尔马一家博物馆仅用三分钟便盗走雷诺阿、塞尚和马蒂斯的名画。
+这是近年来欧洲最引人关注的艺术品盗窃案之一，暴露出博物馆安防的严重漏洞。
+
+---
+
+<!-- article-id: 5afc7fabbcfc533bdc93951e01fc8b2e -->
+### [美国放行俄罗斯油轮，古巴获得能源"救命稻草"](https://cn.nytimes.com/world/20260330/cuba-russian-oil-tanlker/?utm_source=RSS)
+**来源**: 纽约时报中文网 &nbsp;|&nbsp; **标签**: `古巴` `俄罗斯` `美国制裁` `能源危机` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 特朗普政府对古巴实施数月实质性石油封锁后，一艘俄罗斯油轮获准于周一晚间抵达古巴港口，为其输送关键能源。
+此事可能改变美古紧张局势走向，也引发外界对美国对古政策是否出现松动的猜测。
+
+---
+
+<!-- article-id: 9af9aa26bfc7f1f771be347068a0129d -->
+### ["不要国王"抗议再度席卷全美——五个关键问题解读](https://cn.nytimes.com/usa/20260330/no-kings-rallies-takeaways/?utm_source=RSS)
+**来源**: 纽约时报中文网 &nbsp;|&nbsp; **标签**: `美国政治` `特朗普` `抗议` `民主党` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 新一轮"不要国王"抗议浪潮席卷全美，伊朗战争与移民打压政策双双激发民众上街，民主党候选人也纷纷走上街头与选民共鸣。
+这场运动正在成为2026年中期选举前最重要的政治动员力量之一。
+
+---
+
+<!-- article-id: a31daaa338ca98453df903b7f0912c5c -->
+### [特朗普宣称伊朗同意放行20艘船只通过霍尔木兹海峡](https://www.nytimes.com/2026/03/29/world/middleeast/trump-iran-hormuz-ships-oil.html)
+**来源**: NYT World &nbsp;|&nbsp; **标签**: `美伊战争` `霍尔木兹海峡` `石油` `特朗普` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> 特朗普在空军一号上向记者宣布，伊朗已同意允许20艘船只通过霍尔木兹海峡，并称这是伊朗"表示尊重"的信号，同时断言美国已实现对伊朗的"政权更迭"。
+这一声明与伊朗方面公开立场存在明显矛盾，局势是否真正降温仍需观察。
+
+---
+
+<!-- article-id: ee3f60c902593e27e15a48e17c75c59c -->
+### [亚洲依赖中东液化天然气——断供之后将何去何从](https://www.nytimes.com/2026/03/30/business/lng-supply-asia-qatar-iran.html)
+**来源**: NYT World &nbsp;|&nbsp; **标签**: `能源危机` `液化天然气` `中东战争` `亚洲经济` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> 亚洲各国是中东液化天然气最大进口方，随着霍尔木兹海峡危机加剧，断供风险迫在眉睫，各国已开始燃烧更多煤炭并削减用量。
+这场能源危机可能加速亚洲能源结构转型，但短期内将造成严重的通胀和经济压力。
+
+---
+
+<!-- article-id: ca3b327c318f1b7543f0327524a5f111 -->
+### [澳大利亚宣布削减燃油税——应对能源危机加深](https://www.aljazeera.com/news/2026/3/30/australia-to-halve-fuel-tax-as-global-energy-crisis-deepens?traffic_source=rss)
+**来源**: Al Jazeera &nbsp;|&nbsp; **标签**: `澳大利亚` `能源危机` `油价` `财政政策` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 随着原油价格突破每桶116美元，澳大利亚总理阿尔巴内塞宣布将燃油税减半，以缓解居民生活成本压力。
+这是伊朗战争引发全球能源冲击下各国政府紧急应对措施的最新案例。
+
+---
+
+<!-- article-id: 5dfaf808d3c64d34a8a05a326180bed4 -->
+### [伊朗黑客入侵 FBI 局长 Kash Patel 个人邮箱](https://www.engadget.com/cybersecurity/kash-patels-personal-email-account-was-accessed-by-hackers-linked-to-iran-212618474.html?src=rss)
+**来源**: Engadget &nbsp;|&nbsp; **标签**: `网络安全` `FBI` `伊朗` `黑客` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 与伊朗有关联的黑客组织 Handala 宣称成功入侵 FBI 局长 Kash Patel 的个人邮箱，并公布了部分邮件内容作为证据。
+FBI 已确认此次入侵，并悬赏1000万美元追缉相关黑客，此事件发生在美伊冲突持续升温的背景下。
+
+---
+
 ## AI
 
 <!-- article-id: f0ea104d842856c39c48c31d10090ae5 -->
@@ -536,6 +712,94 @@ Attie基于AT Protocol开源框架构建，作为独立应用发布，目前处�
 ---
 
 
+<!-- article-id: f2b5f75558a307b6a71e65761d280359 -->
+### [OpenAI 为 Codex 加入插件功能，正式超越单纯编程范畴](https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/)
+**来源**: Ars Technica &nbsp;|&nbsp; **标签**: `OpenAI` `Codex` `插件` `AI编程` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> OpenAI 为 Codex 引入插件系统，使其能力扩展至编程之外，在功能上逐步追近 Claude Code。
+这标志着 AI 编程工具竞争进入新阶段，各大平台争相拓展代理能力。
+
+---
+
+<!-- article-id: aaeaffc3887cf11731b3fe3a2c0b6e9b -->
+### [《AI纪录片》——Sam Altman 和 Dario Amodei 公开发声](https://www.nytimes.com/2026/03/26/movies/the-ai-doc-movie-anthropic-openai-claude-chatgpt.html)
+**来源**: NYT Technology &nbsp;|&nbsp; **标签**: `AI` `纪录片` `OpenAI` `Anthropic` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 纪录片《The AI Doc: Or How I Became an Apocaloptimist》汇集了 OpenAI 与 Anthropic 领导者的公开采访。
+该片试图向主流受众解释 AI 的现状与争议，但评论认为其涵盖面过广，反而令人困惑。
+
+---
+
+<!-- article-id: 82698551cc525bc899d934c811eafad6 -->
+### [林俊旸离职后首发长文：反思千问得失，预判 AI 下半场](https://www.ifanr.com/1659950?utm_source=rss&utm_medium=rss&utm_campaign=)
+**来源**: 爱范儿 &nbsp;|&nbsp; **标签**: `阿里云` `千问` `智能体` `AI战略` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 阿里云通义千问前高管林俊旸离职后发表长文，深度反思千问大模型的得与失。
+他预判 AI 下半场的竞争将从"想更久"转向"为了行动而思考"，核心在于智能体思维的构建。
+
+---
+
+<!-- article-id: 7a2514707a9a17d44de7c4228c2cc3eb -->
+### [别被机器人跳舞骗了，我们还在 GPT-2 时代｜具身智能百亿圆桌](https://www.ifanr.com/1660043?utm_source=rss&utm_medium=rss&utm_campaign=)
+**来源**: 爱范儿 &nbsp;|&nbsp; **标签**: `具身智能` `机器人` `AI` `技术泡沫` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 多位具身智能领域专家指出，当前机器人 Demo 展示的能力远超实际落地水平，真实应用仍处于早期阶段。
+专家们认为在真实复杂场景中，现有具身智能系统更接近 GPT-2 时代，需警惕过度包装的技术噱头。
+
+---
+
+<!-- article-id: 3bfbf9db7f1144dd6fc9a84bed0be3b1 -->
+### [ClawBench 最新榜单：智谱、字节、小米共 4 款模型跻身全球前十](https://36kr.com/newsflashes/3745013883240710?f=rss)
+**来源**: 36氪 &nbsp;|&nbsp; **标签**: `大模型` `排行榜` `智谱` `字节跳动` `小米` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 评测机构 ClawBench 最新榜单显示，中国企业强势进入全球前十，智谱 GLM-5-Turbo 以93.9分登顶，字节 Doubao-Seed-2.0-lite 以最低成本位居第二，小米 MiMo-V2-Omni 以最快速度排名第九。
+这一结果表明中国大模型在性能和成本效益上已具备全球竞争力。
+
+---
+
+<!-- article-id: b670ae2eda60143790e3f0bd9d0df3c8 -->
+### [OpenAI 关闭 Sora 的真实原因](https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/)
+**来源**: TechCrunch &nbsp;|&nbsp; **标签**: `OpenAI` `Sora` `AI视频` `隐私` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> OpenAI 在 Sora 视频生成工具上线仅六个月后便宣布关闭，外界猜测与用户人脸数据采集有关。
+TechCrunch 深度调查揭示关闭背后的真实原因，引发业界对 AI 产品数据伦理的广泛讨论。
+
+---
+
+<!-- article-id: 76a496ed5b09926b16c06507f5435697 -->
+### [Anthropic 的 Claude 付费用户数量正在飞速增长](https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/)
+**来源**: TechCrunch &nbsp;|&nbsp; **标签**: `Anthropic` `Claude` `AI订阅` `商业增长` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> Anthropic 披露 Claude 付费订阅量今年已翻倍以上，用户数估计在1800万至3000万之间。
+这一增长势头反映出 AI 助手市场竞争加剧，Claude 正从 ChatGPT 手中夺取可观的市场份额。
+
+---
+
+<!-- article-id: eec895921e409d5c4ee2fc4e020f4f20 -->
+### [万卡集群利用率不足20%，TaaS 平台如何破解算力"空转"难题](https://www.leiphone.com/category/chips/dSiqvFsJueRhXA5C.html)
+**来源**: 雷锋网 &nbsp;|&nbsp; **标签**: `算力` `TaaS` `AI推理` `国产芯片` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 国内万卡级智算集群综合利用率普遍不足20%，高端资源大量空转造成巨额成本浪费。
+趋境科技在2026中关村论坛发布 ATaaS 平台，通过异构推理2.0、以存换算等技术实现日均万亿级 Token 稳态产出，将 GPU 算力开销直降90%。
+
+---
+
+<!-- article-id: fda7cad0826a24c6bc43b486986fe549 -->
+### [vivo 胡柏山：在焦虑的 AI 时代，交一份最"冷静"的答案](https://www.leiphone.com/category/transportation/bwopMLHjQzO59aB5.html)
+**来源**: 雷锋网 &nbsp;|&nbsp; **标签**: `vivo` `端侧AI` `感知能力` `Agent Phone` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> vivo 总裁胡柏山在博鳌亚洲论坛表示，将核心资源聚焦端侧 AI 和产业链协同，以"感知能力"作为 AI 时代差异化竞争核心。
+vivo 提出 Agent Phone 概念——智能手机将进化为能主动感知、自动完成任务的智能代理，视觉感知系统是其核心差异化布局。
+
+---
+
+<!-- article-id: 7348d328606f9c323b7898977a68d707 -->
+### [科技 CEO 们突然将 AI 当成大规模裁员的理由——为什么？](https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss)
+**来源**: BBC News &nbsp;|&nbsp; **标签**: `AI裁员` `科技行业` `就业` `社会影响` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 越来越多科技公司领导人将大规模裁员归咎于 AI 工具的普及，同时以此为由争取更多投资。
+这一趋势引发外界对企业是否借 AI 之名转移视线、掩盖经营问题的质疑。
+
+---
+
+<!-- article-id: 58931f519027eae7449457695c0e1d0c -->
+### [切换至 Claude？现在可以直接导入 ChatGPT 的记忆和偏好设置](https://www.zdnet.com/article/switch-to-claude-ai-import-memories-preferences/)
+**来源**: ZDNet &nbsp;|&nbsp; **标签**: `Claude` `ChatGPT` `AI助手` `用户迁移` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> Anthropic 推出新功能，允许用户将 ChatGPT 中保存的记忆和偏好直接迁移到 Claude，大大降低了换用 AI 助手的门槛。
+这一举措是 Anthropic 争夺 ChatGPT 用户群、扩大 Claude 市场份额的重要策略。
+
+---
+
 ## 政治
 
 <!-- article-id: 16300cbefaed04034fe00e84052e8dba -->
@@ -543,6 +807,25 @@ Attie基于AT Protocol开源框架构建，作为独立应用发布，目前处�
 **来源**: NYT Business &nbsp;|&nbsp; **标签**: `特朗普` `AI政策` `美国政治` &nbsp;|&nbsp; **时间**: 10:56 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
 > 一个名为"Innovation Council Action"的新政治行动委员会宣布成立，计划在中期选举中至少花费1亿美元，推动特朗普政府的AI优先议程。
 该组织由前政府官员领导，反映了科技行业与共和党政治势力深度联合的新趋势。
+
+---
+
+
+## 经济
+
+<!-- article-id: 0bf74fd399c10a09b9fedca8adfc73e2 -->
+### [现货黄金突破4530美元/盎司](https://36kr.com/newsflashes/3745043759005954?f=rss)
+**来源**: 36氪 &nbsp;|&nbsp; **标签**: `黄金` `大宗商品` `避险资产` `金融市场` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 现货黄金价格突破4530美元/盎司，日内涨幅达0.83%。
+受中东冲突持续及全球经济不确定性影响，避险资产需求持续旺盛。
+
+---
+
+<!-- article-id: feb46ef3ab64516e46de6e2453e13252 -->
+### [1970年代石油冲击改变了世界——伊朗战争会重演吗？](https://www.nytimes.com/2026/03/28/business/oil-shocks-1970s-iran-war.html)
+**来源**: NYT Business &nbsp;|&nbsp; **标签**: `石油危机` `伊朗战争` `通胀` `全球金融` &nbsp;|&nbsp; **时间**: 14:32 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 上世纪70年代石油价格四倍飙升深刻改变了全球金融格局。分析人士正在探讨本次伊朗战争引发的油价冲击是否将带来类似的历史性影响。
+能源价格飙升已导致通胀压力加剧，多国股市和经济前景受到严峻考验。
 
 ---
 
