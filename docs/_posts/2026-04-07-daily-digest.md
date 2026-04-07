@@ -351,6 +351,70 @@ REvil 曾发起多次高影响力攻击，此次曝光对勒索软件生态有�
 ---
 
 
+<!-- article-id: 78f176ac3a5c0da416941b57cbd2467c -->
+### [部分 iPhone 应用收到来自"苹果"的神秘更新](https://www.macrumors.com/2026/04/06/iphone-apps-from-apple-update/)
+**来源**: Hacker News &nbsp;|&nbsp; **标签**: `iPhone` `苹果` `应用更新` `iOS` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 多款 iPhone 应用收到了标注来源为"苹果"的神秘更新，但苹果官方尚未对此作出说明。
+用户和开发者对此感到困惑，猜测这可能是苹果推送的系统级静默更新。
+
+---
+
+<!-- article-id: c5954c3fdaa96be71ce67bb5b39a02a3 -->
+### [300台合成器、3个硬件项目与一款应用](https://midi.guide/blog/three-hunded-synths-one-app/)
+**来源**: Hacker News &nbsp;|&nbsp; **标签**: `合成器` `音乐科技` `MIDI` `硬件` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 作者分享了自己在研究和测试了300台合成器后，将经验凝练为一款 MIDI 应用的历程。
+文章记录了3个硬件项目的设计心得，展现了对音乐技术的深度热情。
+
+---
+
+<!-- article-id: 323ddf8bd61a690339792ae589531f94 -->
+### [Sky：受 Elm 启发、编译到 Go 的新语言](https://github.com/anzellai/sky)
+**来源**: Hacker News &nbsp;|&nbsp; **标签**: `编程语言` `Go` `Elm` `开源` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> Sky 是一门受 Elm 语言设计哲学启发的新型编程语言，最终编译为 Go 代码运行。
+项目目前已开源，面向希望兼顾函数式编程风格与 Go 生态的开发者。
+
+---
+
+<!-- article-id: 1fa0a6b04ff5b6263ed737b1084f433e -->
+### [为智能眼镜构建 Web 应用](https://hub.evenrealities.com/docs/getting-started/overview)
+**来源**: Hacker News &nbsp;|&nbsp; **标签**: `智能眼镜` `AR` `Web开发` `可穿戴设备` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> Even Realities 发布了面向其智能眼镜的 Web 应用开发文档，允许开发者使用 Web 技术构建眼镜端应用。
+这一开放平台降低了 AR 可穿戴设备的应用开发门槛。
+
+---
+
+<!-- article-id: 18f8137e72d802c4170ef6dff6b9afd0 -->
+### [拆解未发布的 LG 可卷曲手机，揭示卷轴手机难以量产的原因](https://arstechnica.com/gadgets/2026/04/teardown-of-unreleased-lg-rollable-shows-why-rollable-phones-arent-a-thing/)
+**来源**: Ars Technica &nbsp;|&nbsp; **标签**: `LG` `可卷曲手机` `手机拆解` `硬件设计` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 一台从未公开发售的 LG 可卷曲手机被拆解，内部复杂的机械结构揭示了卷轴形态手机难以量产的深层原因。
+LG 在2021年关闭手机业务前几乎准备发布这款设备，此次拆解展现了其大胆但充满工程挑战的设计。
+
+---
+
+<!-- article-id: 02826b39ecf5445d305c1014f4f70faa -->
+### [专访 XREAL 徐驰：我有手机、电脑，为什么要用 AI 眼镜去替代它？](https://www.ifanr.com/1661181)
+**来源**: 爱范儿 &nbsp;|&nbsp; **标签**: `XREAL` `AI眼镜` `智能眼镜` `创业` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 爱范儿对 XREAL CEO 徐驰进行了深度专访，探讨 AI 眼镜的产品定位与市场逻辑。
+徐驰认为 AI 眼镜不应是手机或电脑的替代品，而应找到其独特的使用场景，并透露了 XREAL 冲刺港股 IPO 的战略规划。
+
+---
+
+<!-- article-id: 92bd078068706e4edd4b23a49c0a07da -->
+### [人类重返月球第一张自拍，来自 iPhone](https://www.ifanr.com/1661107)
+**来源**: 爱范儿 &nbsp;|&nbsp; **标签**: `iPhone` `阿尔忒弥斯II` `太空摄影` `苹果` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 阿尔忒弥斯 II 任务中，宇航员用 iPhone 拍摄了人类时隔50余年重返月球任务的第一张"太空自拍"。
+这一"Shot on iPhone"时刻引发广泛关注，也展现了消费级设备在极端环境下的性能。
+
+---
+
+<!-- article-id: be5c863cbd052f43302d51188ab621e8 -->
+### [苹果可折叠 iPhone 因工程问题可能延期发布](https://www.engadget.com/mobile/smartphones/report-apples-foldable-iphone-may-be-delayed-due-to-engineering-snags-073813819.html)
+**来源**: Engadget &nbsp;|&nbsp; **标签**: `苹果` `可折叠手机` `iPhone` `硬件工程` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 据日经新闻消息，苹果首款可折叠 iPhone 在早期测试生产阶段遭遇多个工程难题，出货时间可能推迟数月。
+苹果原计划于2026年秋季发布这款设备，但目前供应链已收到延期通知，量产时间表面临风险，发布或推迟至2027年。
+
+---
+
 ## AI
 
 <!-- article-id: a2e06d582adbf383bfc9ec390624770c -->
@@ -598,6 +662,38 @@ AI 正在降低中小商家进入新产品类目的门槛。
 ---
 
 
+<!-- article-id: aaff5f136b88f285558f535405a915c2 -->
+### [AI 歌手霸占 iTunes 榜单11席](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive)
+**来源**: Hacker News &nbsp;|&nbsp; **标签**: `AI音乐` `数字娱乐` `虚拟歌手` `版权` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 一位名为 Eddie Dalton 的 AI 歌手在 iTunes 单曲榜上同时占据了11个席位，尽管其并非真实存在的人类。
+此事引发了关于 AI 生成内容对音乐产业冲击的广泛讨论，以及平台如何应对 AI 创作者的政策问题。
+
+---
+
+<!-- article-id: 765cbd076c3c74e042127dc5954f66f2 -->
+### [Anthropic 扩大与谷歌和博通的合作，布局下一代算力](https://www.anthropic.com/news/google-broadcom-partnership-compute)
+**来源**: Hacker News &nbsp;|&nbsp; **标签**: `Anthropic` `谷歌` `算力` `AI基础设施` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> Anthropic 宣布扩大与谷歌和博通的战略合作，聚焦下一代 AI 计算基础设施建设。
+这一合作旨在为 Claude 等模型提供更强算力支撑，进一步提升 Anthropic 在 AI 竞争中的资源优势。
+
+---
+
+<!-- article-id: 55a0d6e6984a25225b2b135bc2479724 -->
+### [Hippo：受生物启发的 AI 智能体记忆系统](https://github.com/kitfunso/hippo-memory)
+**来源**: Hacker News &nbsp;|&nbsp; **标签**: `AI智能体` `记忆机制` `开源` `神经科学` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> Hippo 是一个受海马体记忆机制启发的 AI 智能体记忆系统，旨在让智能体拥有更接近人类的记忆管理能力。
+项目已开源，适用于需要长期记忆的对话和任务型 AI 场景。
+
+---
+
+<!-- article-id: d4ab6579a8924fe13bcb8cb358328804 -->
+### [Anthropic 终止通过第三方工具免费使用 Claude 的政策](https://www.engadget.com/ai/its-no-longer-free-to-use-claude-through-third-party-tools-like-openclaw-160912082.html)
+**来源**: Engadget &nbsp;|&nbsp; **标签**: `Anthropic` `Claude` `AI政策` `订阅模式` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> Anthropic 宣布自4月4日起，Claude 订阅将不再覆盖通过 OpenClaw 等第三方工具的使用，用户需额外购买使用包或提供 API 密钥。
+官方解释这一变化源于容量管理考量，优先保障自有产品和 API 客户的服务质量。
+
+---
+
 ## 科学
 
 <!-- article-id: e8b165625671d6fd994f63b02cc5a4d7 -->
@@ -708,6 +804,62 @@ Artemis II 是半个多世纪以来人类飞行距地球最远的载人任务。
 
 ---
 
+
+<!-- article-id: 776da604f20bc6613298336c47e9ca80 -->
+### [宇航员刷新距离纪录，月球成为可探索的真实目的地](https://arstechnica.com/space/2026/04/astronauts-set-distance-record-revealing-the-moon-as-a-place-to-be-explored/)
+**来源**: Ars Technica &nbsp;|&nbsp; **标签**: `阿尔忒弥斯II` `NASA` `登月` `太空探索` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> 阿尔忒弥斯 II 任务的宇航员们刷新了人类离地球最远距离的记录，完成了50多年来首次载人绕月飞行。
+宇航员描述了亲眼目睹月球的震撼体验，此次任务标志着人类重返月球表面进入关键准备阶段。
+
+---
+
+<!-- article-id: 73fad738eba8f243eb2de433925871b5 -->
+### [NASA 的登月飞船和火箭表现出色，但月面着陆器进展如何？](https://arstechnica.com/space/2026/04/nasas-moon-ship-and-rocket-seem-to-be-working-well-so-what-about-the-landers/)
+**来源**: Ars Technica &nbsp;|&nbsp; **标签**: `NASA` `登月着陆器` `SpaceX` `蓝色起源` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 阿尔忒弥斯 II 任务中，猎户座飞船和 SLS 火箭表现良好，但月面着陆器的进展仍是关键变量。
+SpaceX 与蓝色起源都承诺全力推进着陆器研发，NASA 官员对双方的承诺表示审慎乐观。
+
+---
+
+<!-- article-id: 5bccf1763910e997ef1688d3fa11dab2 -->
+### [为何今天的绕月飞行只能回传低分辨率视频？](https://arstechnica.com/space/2026/04/video-from-artemis-ii-flyby-of-the-moon-will-not-initially-look-spectacular/)
+**来源**: Ars Technica &nbsp;|&nbsp; **标签**: `阿尔忒弥斯II` `太空摄影` `深空通信` `NASA` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 阿尔忒弥斯 II 任务从月球回传的视频分辨率较低，原因在于深空通信带宽的限制。
+NASA 解释了技术约束，并预告后续将公布更高质量的影像资料。
+
+---
+
+<!-- article-id: 4092db3cbd3a1e96e21cd459d461cd88 -->
+### [阿尔忒弥斯 II 绕月飞行后宇航员重新与地球建立通信](https://www.bbc.com/news/articles/cx23p6j5gxgo)
+**来源**: BBC News &nbsp;|&nbsp; **标签**: `阿尔忒弥斯II` `NASA` `登月` `太空探索` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> 阿尔忒弥斯 II 任务宇航员完成绕月飞行，穿越月球背面通信中断期后成功恢复与地球的联系。
+这是 NASA 50余年来首次载人月球任务，宇航员们比历史上任何人类都飞得更远，创下新的人类飞行距离纪录。
+
+---
+
+<!-- article-id: 5928317cc66867ad2afdd9109d2e9b7e -->
+### [感人时刻：指挥官以已故妻子之名命名月球陨石坑](https://www.bbc.com/news/videos/c5ylvz3rzyxo)
+**来源**: BBC News &nbsp;|&nbsp; **标签**: `阿尔忒弥斯II` `人文故事` `月球探索` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 阿尔忒弥斯 II 指挥官 Reid Wiseman 在绕月飞行中将一处月球陨石坑以2020年因癌症去世的妻子名字命名。
+这一充满情感的时刻感动了众多观看直播的地球人，展现了太空探索背后的人文温度。
+
+---
+
+<!-- article-id: 5f2ef8ee7e98a44bd03e440d9fa71253 -->
+### [月球背面有什么？](https://www.bbc.com/news/videos/c7vq1y048p5o)
+**来源**: BBC News &nbsp;|&nbsp; **标签**: `月球背面` `太空探索` `阿尔忒弥斯II` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> BBC 介绍了阿尔忒弥斯 II 任务绕月飞行路线，宇航员得以观察到从地球上永远无法看到的月球背面。
+月球背面地形更为崎岖，充满陨石坑，此次飞行为科学家提供了珍贵的近距离观测机会。
+
+---
+
+<!-- article-id: 2675bc9d9e8b5622d430ecde5454b3aa -->
+### [阿尔忒弥斯 II 登月任务最新进展及本周科学故事精选](https://www.engadget.com/science/space/the-latest-on-the-artemis-ii-mission-to-the-moon-and-more-science-stories-160000539.html)
+**来源**: Engadget &nbsp;|&nbsp; **标签**: `阿尔忒弥斯II` `NASA` `太空探索` `科学新闻` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> Engadget 汇总了阿尔忒弥斯 II 任务的最新进展：宇航员已超过半程，飞船将于4月6日抵达月球附近。
+任务过程中也出现了一些小插曲，包括 Microsoft Outlook 故障和马桶损坏，宇航员幽默应对成为话题。
+
+---
 
 ## 政治
 
@@ -1308,6 +1460,110 @@ Artemis II 是半个多世纪以来人类飞行距地球最远的载人任务。
 ---
 
 
+<!-- article-id: 1c0e64aa214f41e2f9c211d6e38a04b7 -->
+### [二手电动车销量随油价上涨而激增](https://arstechnica.com/cars/2026/04/used-ev-sales-spike-alongside-gas-prices/)
+**来源**: Ars Technica &nbsp;|&nbsp; **标签**: `电动车` `油价` `二手车市场` `汽车行业` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 受中东战争推高油价影响，美国二手电动车市场销量大幅飙升，消费者将目光转向更经济的出行选择。
+新车市场整体疲软，但二手电动车的相对价格优势正吸引越来越多的购车者。
+
+---
+
+<!-- article-id: 826200eced91c18ea86fe1e7cb03135a -->
+### [福特因雨刮器问题在美召回超42万辆汽车](https://36kr.com/newsflashes/3756468308247046)
+**来源**: 36氪 &nbsp;|&nbsp; **标签**: `福特` `汽车召回` `质量问题` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 美国NHTSA宣布福特将在美召回422613辆汽车，原因是雨刮器存在故障隐患。
+此次召回规模较大，涉及多款车型，福特需承担相应的维修成本。
+
+---
+
+<!-- article-id: 2ca45fda4d03dd829a98180000b7b611 -->
+### [特斯拉前员工出任小米汽车欧洲交付与物流负责人](https://36kr.com/newsflashes/3756459460493825)
+**来源**: 36氪 &nbsp;|&nbsp; **标签**: `小米汽车` `特斯拉` `欧洲市场` `人事变动` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 曾在特斯拉负责中欧交付运营的迪特·洛伦茨宣布加入小米汽车，出任欧洲交付与物流负责人。
+此举显示小米汽车正积极招募有欧洲经验的汽车行业人才，加快推进其欧洲市场布局。
+
+---
+
+<!-- article-id: 792161e24fbd679aad84e493a52e8bec -->
+### [高盛策略师：当前科技股估值带来投资机会](https://36kr.com/newsflashes/3756441365348864)
+**来源**: 36氪 &nbsp;|&nbsp; **标签**: `高盛` `科技股` `股票估值` `投资` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 高盛策略师表示，超大规模数据中心资本支出担忧导致科技股估值低于历史峰值，但其增长前景依然强劲。
+团队认为科技板块并非泡沫，当前估值相对吸引力较高，伊朗战争背景下科技股的低经济敏感性进一步提升其投资价值。
+
+---
+
+<!-- article-id: 94003e36e8b44123e046e10b2df43598 -->
+### [卖"千元神器"，浙大学霸年入5亿，正冲刺上市](https://www.tmtpost.com/7943500.html)
+**来源**: 钛媒体 &nbsp;|&nbsp; **标签**: `XREAL` `智能眼镜` `IPO` `创业` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> XREAL 创始人徐驰毕业于浙大，公司凭借千元价位的 AR 眼镜产品实现年收入约5亿元，正积极冲刺港交所上市。
+XREAL 有望成为"智能眼镜第一股"，其差异化定价策略在竞争激烈的 AR 市场中脱颖而出。
+
+---
+
+<!-- article-id: bad35f1edaf681539ef28daaa6fa9bfc -->
+### [石油是新的黄金，买入这9只股票](https://www.tmtpost.com/7943785.html)
+**来源**: 钛媒体 &nbsp;|&nbsp; **标签**: `石油` `伊朗战争` `投资` `能源股` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> Jefferies 认为伊朗战争将持续推高油价，将石油定位为新的避险资产。
+该机构推荐了9只受益于油价上涨的能源股，供投资者参考布局。
+
+---
+
+<!-- article-id: ec630f6c695e13a72133e1f9d87426c1 -->
+### [特朗普削减科研经费，美国面临代价高昂的人才流失风险](https://www.nytimes.com/2026/04/04/business/dealbook/trump-brain-drain-academia.html)
+**来源**: NYT Business &nbsp;|&nbsp; **标签**: `特朗普` `科研经费` `人才流失` `学术自由` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> 特朗普政府对学术界的攻击和研究经费的大幅削减，为其他国家挖角顶尖美国科学家创造了机会。
+多位受影响的科学家已收到来自欧洲和亚洲大学的橄榄枝，美国的科技竞争力可能因此受到长远损害。
+
+---
+
+<!-- article-id: e7da4ed56b0aef23cfccf8c70a03c1ee -->
+### [特朗普预算对美国财政困境几乎毫无改善](https://www.nytimes.com/2026/04/04/business/trump-budget-federal-deficit.html)
+**来源**: NYT Business &nbsp;|&nbsp; **标签**: `特朗普` `联邦赤字` `财政政策` `美国经济` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 尽管当前联邦赤字在特朗普执政期间有所收窄，但其预算计划可能使长期财政状况进一步恶化。
+分析人士指出，特朗普的减税和支出计划将在长期内显著扩大国债规模。
+
+---
+
+<!-- article-id: e8117cc52da7e411c092c5ade9920f99 -->
+### [部分借款人选择移居海外、放弃偿还学生贷款](https://www.nytimes.com/2026/04/04/business/student-loans-abroad-default.html)
+**来源**: NYT Business &nbsp;|&nbsp; **标签**: `学生贷款` `美国经济` `移民` `债务危机` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 美国学生贷款拖欠和违约人数创历史新高，一些借款人选择移居海外并放弃偿还贷款作为极端应对手段。
+此现象折射出美国高等教育债务危机的严峻程度，以及部分年轻人对未来的绝望情绪。
+
+---
+
+<!-- article-id: 294d0241f3cc74fd2f667874a34bcb53 -->
+### [阿克曼的潘兴广场提议与环球音乐集团合并](https://www.bloomberg.com/news/videos/2026-04-07/ackman-s-pershing-square-proposes-universal-music-merger-video)
+**来源**: 彭博社 &nbsp;|&nbsp; **标签**: `比尔·阿克曼` `环球音乐` `并购` `娱乐产业` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 对冲基金潘兴广场提议将环球音乐集团并入美国上市收购载体，估值较最新收盘价溢价78%。
+这一收购提议将把世界最大音乐公司迁移至美国市场上市，引发资本市场广泛关注。
+
+---
+
+<!-- article-id: 32e8380bf91d73b1730e5efd462e8bea -->
+### [欧央行官员借能源价格飙升之机，力推绿色转型](https://www.bloomberg.com/news/articles/2026-04-07/ecb-s-elderson-presses-green-transition-pitch-after-energy-surge)
+**来源**: 彭博社 &nbsp;|&nbsp; **标签**: `欧央行` `绿色转型` `能源危机` `化石燃料` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 中东战争推高能源价格后，欧洲央行官员埃尔德森借机在《金融时报》撰文，呼吁欧洲加速摆脱化石燃料依赖。
+文章认为此次能源冲击再次证明了加快推进绿色转型的紧迫性和必要性。
+
+---
+
+<!-- article-id: eba8604207a902d962642aa94e603124 -->
+### [LG 新能源一季度亏损扩大，电动车支持减弱拖累业绩](https://www.bloomberg.com/news/articles/2026-04-07/lg-energy-posts-wider-loss-as-ev-support-fades)
+**来源**: 彭博社 &nbsp;|&nbsp; **标签**: `LG新能源` `电动车` `电池产业` `财报` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> LG 新能源公布初步一季度业绩，亏损超出分析师预期，美国等主要市场电动车支持政策减弱是主要拖累。
+尽管储能系统需求强劲，但难以完全抵消电动车市场疲软带来的冲击。
+
+---
+
+<!-- article-id: 3217d4b796399a8061c2cc7845953b14 -->
+### [伊朗战争若持续，澳大利亚面临严峻衰退风险](https://www.bloomberg.com/news/videos/2026-04-07/australia-risks-sharp-recession-in-prolonged-iran-war-video)
+**来源**: 彭博社 &nbsp;|&nbsp; **标签**: `伊朗战争` `澳大利亚经济` `全球供应链` `衰退风险` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 牛津经济研究院分析指出，若伊朗战争持续并进一步扰乱供应链，澳大利亚可能面临1990年代初以来、疫情外最严重的经济衰退。
+澳大利亚对大宗商品出口的高度依赖使其对中东局势格外敏感。
+
+---
+
 ## 国际
 
 <!-- article-id: 61 -->
@@ -1639,6 +1895,206 @@ AI 基础设施正成为地缘政治博弈的新战场。
 ---
 
 
+<!-- article-id: 87346560691dd826b03052b1e0520f8f -->
+### [单次打击无法摧毁海湾的海水淡化系统](https://www.wired.com/story/a-single-strike-wont-shut-off-the-gulfs-desalination-system/)
+**来源**: Wired &nbsp;|&nbsp; **标签**: `中东战争` `海水淡化` `基础设施` `水资源` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 海湾地区的供水系统依靠多层备份机制维持运转，但其高度依赖持续运营这一特点也带来了脆弱性。
+分析指出，单次精准打击难以使系统瘫痪，但长期冲突对该地区淡水供应构成潜在威胁。
+
+---
+
+<!-- article-id: 123619177feda5cfd4a36ad5bc4583d9 -->
+### [特朗普截止日期临近，但亚洲各国早已与伊朗签有协议](https://www.bbc.com/news/articles/c79jqx1xdy9o)
+**来源**: BBC News &nbsp;|&nbsp; **标签**: `伊朗战争` `特朗普` `霍尔木兹海峡` `亚洲外交` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 特朗普要求伊朗开放霍尔木兹海峡的最后期限临近，但亚洲多国早已与伊朗达成能源协议，局势更加复杂。
+由于亚洲经济体高度依赖中东能源，这些国家在美伊对峙中寻求维护自身能源利益的外交平衡。
+
+---
+
+<!-- article-id: c1dc24dad062fc138e22e71d850adc61 -->
+### [特朗普伊朗协议截止日前油价上涨](https://www.bbc.com/news/articles/c20qv0w1j1do)
+**来源**: BBC News &nbsp;|&nbsp; **标签**: `油价` `伊朗` `霍尔木兹海峡` `特朗普` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 随着特朗普对伊朗开放霍尔木兹海峡的最后期限临近，国际油价持续上涨。
+特朗普威胁称若伊朗不从，将在"一夜之间"对其实施打击，市场对供应中断的担忧推高了能源价格。
+
+---
+
+<!-- article-id: a67ea5a650cb18b57b21598e0ce5cd97 -->
+### ["我们越陷越深"：特朗普最后期限临近，伊朗人备战基础设施打击](https://www.bbc.com/news/articles/cvgl0ng8z0do)
+**来源**: BBC News &nbsp;|&nbsp; **标签**: `伊朗战争` `平民视角` `基础设施打击` `特朗普` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> BBC 采访了伊朗普通民众，记录了他们面对美国威胁摧毁发电站和桥梁时的恐惧与无奈。
+无论是政府支持者还是反对派活动人士，都对针对平民基础设施的打击威胁表达了强烈谴责。
+
+---
+
+<!-- article-id: 8e8819d07c3019df05086debf2396f90 -->
+### [美军在伊朗境内营救飞行员的行动始末](https://www.bbc.com/news/articles/cx2vpz1kwreo)
+**来源**: BBC News &nbsp;|&nbsp; **标签**: `伊朗战争` `美军` `特种作战` `营救行动` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> BBC 详述了美国如何从被击落飞机的飞行员在伊朗境内藏匿处将其营救的复杂行动全过程。
+此次行动涉及多个美国政府机构，CIA 执行了欺骗性行动以引开伊朗军队，最终成功将飞行员带回安全地带。
+
+---
+
+<!-- article-id: 6980eacdd0ca4bfc3751f320bc656e2f -->
+### [BBC 深入探访被泰国军方控制的诈骗园区，揭露假冒澳中巴警察局内幕](https://www.bbc.com/news/articles/cjenpy8gx71o)
+**来源**: BBC News &nbsp;|&nbsp; **标签**: `诈骗园区` `泰国` `人口拐卖` `跨国犯罪` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> BBC 记者独家进入泰国军方去年12月接管的皇家山赌场，发现其内设有仿冒澳大利亚、中国和巴西警察局的诈骗设施。
+该园区此前鲜为人知，实为强迫受害者进行电信诈骗的犯罪据点，规模和组织程度令人震惊。
+
+---
+
+<!-- article-id: 075a3e8298b56d2266d0e34667175b88 -->
+### [中东冲突规模地图全览](https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/mapping-the-scale-of-the-conflict)
+**来源**: NYT World &nbsp;|&nbsp; **标签**: `伊朗战争` `以色列` `中东局势` `地图可视化` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 纽约时报以地图可视化形式，全面呈现了当前美国-以色列-伊朗冲突的打击范围与烈度分布。
+地图数据直观展示了战线延伸至伊朗、以色列、黎巴嫩及部分海湾国家的复杂态势。
+
+---
+
+<!-- article-id: 51b12341551ed649f308e3df06c48e7f -->
+### [伊朗顶尖大学遭袭，民众一致谴责](https://www.nytimes.com/2026/04/06/world/middleeast/iranians-condemn-university-strike.html)
+**来源**: NYT World &nbsp;|&nbsp; **标签**: `伊朗战争` `教育设施` `平民伤亡` `国际法` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> 美以联军对德黑兰沙里夫科技大学的打击引发伊朗国内罕见的跨政治立场谴责，政府官员和反政府活动人士均表示愤慨。
+沙里夫大学是伊朗顶尖理工院校，此次打击被广泛视为对民用教育设施的不当攻击。
+
+---
+
+<!-- article-id: e4286cfb725da601154b95c445683863 -->
+### [特朗普推迟伊朗开放霍尔木兹海峡的最后期限](https://www.nytimes.com/2026/04/06/world/middleeast/trump-threat-strait-peace.html)
+**来源**: NYT World &nbsp;|&nbsp; **标签**: `霍尔木兹海峡` `特朗普` `伊朗` `外交博弈` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 特朗普再次推迟了要求伊朗开放霍尔木兹海峡的最后期限，此前该期限已多次更改。
+随着美伊双方相互升级语言威胁，局势持续紧张，新期限的设定被外界视为谈判筹码而非真正的军事红线。
+
+---
+
+<!-- article-id: 8b638b327c4f4f4d5335ae84c2038898 -->
+### [游轮在《荒岛求生》取景地附近搁浅，30名乘客获救](https://www.nytimes.com/2026/04/06/world/australia/castaway-cruise-shipwreck-fiji.html)
+**来源**: NYT World &nbsp;|&nbsp; **标签**: `斐济` `游轮事故` `趣闻` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 一艘游轮在斐济附近搁浅，恰好是2000年电影《荒岛求生》的取景岛屿，30名乘客被迅速营救。
+与电影中汤姆·汉克斯被困四年不同，此次乘客获救过程相当顺利。
+
+---
+
+<!-- article-id: 198b54ae2aa91b46ecbaafcee039a508 -->
+### [以色列官员称伊朗打击海法致至少4人遇难](https://www.nytimes.com/2026/04/06/world/middleeast/israel-haifa-strike-iran.html)
+**来源**: NYT World &nbsp;|&nbsp; **标签**: `伊朗战争` `以色列` `海法` `平民伤亡` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> 以色列北部港口城市海法遭伊朗导弹袭击，防空系统未能拦截，一栋居民楼被摧毁，造成至少4人遇难。
+这是伊朗对以色列本土造成平民伤亡的最新打击，进一步加剧双边紧张态势。
+
+---
+
+<!-- article-id: dc63f66325deeeccc299685c0d5fff7a -->
+### [伊朗领导层遭受的最新打击](https://www.nytimes.com/2026/04/06/world/middleeast/killings-iran-leadership.html)
+**来源**: NYT World &nbsp;|&nbsp; **标签**: `伊朗` `定点清除` `伊斯兰革命卫队` `以色列` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 伊朗多名高层官员在近期冲突中相继遇难，其中多人任职时间不足数月即告阵亡。
+以色列持续对伊朗指挥链实施定点打击，使伊朗领导层面临严重的人员更替压力。
+
+---
+
+<!-- article-id: c8ff02beb31fbb846f7b895ffd705fd8 -->
+### [伊朗革命卫队情报首长赛义德·马吉德·哈德米在夜间袭击中身亡](https://www.nytimes.com/2026/04/06/world/middleeast/iran-khademi-intelligence-israel.html)
+**来源**: NYT World &nbsp;|&nbsp; **标签**: `伊朗战争` `伊斯兰革命卫队` `定点清除` `以色列情报` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> 以色列宣布对伊斯兰革命卫队情报局长赛义德·马吉德·哈德米少将的死亡负责，这是迄今最高级别的被定点清除官员之一。
+哈德米在任时间极短，其死亡标志着以色列对伊朗情报体系的系统性斩首行动在持续深入。
+
+---
+
+<!-- article-id: acf2cbb986017bac6161df7be331747e -->
+### [周日中东战争最新动态汇总](https://www.nytimes.com/2026/04/05/world/middleeast/iran-israel-us-war-middle-east.html)
+**来源**: NYT World &nbsp;|&nbsp; **标签**: `伊朗战争` `以色列` `特朗普` `中东局势` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 周日，特朗普在社交媒体上持续对伊朗发出嘲讽，同时打击行动遍及伊朗、以色列、黎巴嫩和部分海湾国家。
+多地同时爆发冲突使局势愈发复杂，外界对战争规模进一步扩大的担忧持续上升。
+
+---
+
+<!-- article-id: dfe73ffb962bbb290d2c5f395aeb8a46 -->
+### [最后期限临近：重新开放霍尔木兹海峡有哪些选项？](https://www.nytimes.com/2026/04/05/world/iran-hormuz-rescue-trump-ultimatum.html)
+**来源**: NYT World &nbsp;|&nbsp; **标签**: `霍尔木兹海峡` `伊朗` `特朗普` `能源安全` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 纽约时报梳理了各方认为可能重新开放霍尔木兹海峡的外交与军事选项，以及各方的利益盘算。
+随着特朗普不断升级威胁，开放海峡的谈判空间日趋收窄，各方都在为最坏情况做准备。
+
+---
+
+<!-- article-id: 261af0bde9706d232d4622838211eca0 -->
+### [特朗普关于霍尔木兹海峡最后期限的完整时间线](https://www.nytimes.com/2026/04/05/world/middleeast/trump-strait-of-hormuz-deadline-iran-war.html)
+**来源**: NYT World &nbsp;|&nbsp; **标签**: `霍尔木兹海峡` `特朗普` `伊朗` `时间线` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 纽约时报梳理了自3月21日以来特朗普对伊朗发出的一系列最后期限，期限已被多次重置。
+时间线显示特朗普在对伊战略上的摇摆性，这种不确定性本身也成为影响国际局势的重要变量。
+
+---
+
+<!-- article-id: adf0b3f164b000da132d976ac76a57dd -->
+### [特朗普公开扬言犯下战争罪行，威胁将伊朗炸回"石器时代"](https://www.nytimes.com/2026/04/05/us/politics/trump-iran-war-crimes-truth-social.html)
+**来源**: NYT World &nbsp;|&nbsp; **标签**: `特朗普` `战争罪` `伊朗` `国际法` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> 特朗普在社交媒体上公开扬言要将伊朗炸回"石器时代"，此类表态若付诸实施将构成战争罪。
+纽约时报指出，此前历届美国政府都刻意强调遵守国际法，而特朗普政府的这种公开威胁在美国政治史上极为罕见。
+
+---
+
+<!-- article-id: 0e5efffcebb66a33af5d7183e646781f -->
+### [CIA 如何帮助定位伊朗击落美军战机后的失踪飞行员](https://www.nytimes.com/2026/04/05/world/middleeast/cia-us-airman-rescue-iran.html)
+**来源**: NYT World &nbsp;|&nbsp; **标签**: `CIA` `营救行动` `伊朗战争` `美军` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> 纽约时报详细披露了 CIA 如何在伊朗境内定位失踪飞行员，并实施欺骗性行动引开伊朗军队的完整过程。
+这次行动被认为是近年来最复杂的美国情报与特种作战协同案例之一，展现了美国跨机构协同的高度能力。
+
+---
+
+<!-- article-id: cc06fc9b3ae1bdf8ff39818bcec56c4c -->
+### [教皇利奥十四世在首届复活节弥撒上呼吁和平](https://www.nytimes.com/2026/04/05/world/europe/pope-leo-easter.html)
+**来源**: NYT World &nbsp;|&nbsp; **标签**: `教皇` `复活节` `和平` `宗教` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 新任教皇利奥十四世在其首届复活节弥撒上发表演讲，呼吁全球停止战争，寻求和平。
+此前他在棕枝主日讲道中已表示上帝拒绝"发动战争者"的祈祷，此次再次重申反战立场。
+
+---
+
+<!-- article-id: 11f829cdbe2d1fdf2ea38c5592ae0995 -->
+### [拦截导弹救人无数，但库存告急](https://www.nytimes.com/2026/04/05/world/middleeast/iran-war-interceptor-missiles.html)
+**来源**: NYT World &nbsp;|&nbsp; **标签**: `防空系统` `伊朗战争` `武器供应` `军事技术` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 防空拦截导弹在当前中东冲突中发挥了关键作用，但持续高强度使用已导致多国库存日益告急。
+武器生产速度远滞后于消耗速度，这一瓶颈正成为影响以色列和其他国家防御能力的战略隐患。
+
+---
+
+<!-- article-id: 955ddcdcc59bd139436568ff92aa3ad3 -->
+### [特朗普截止日前，以色列威胁打击伊朗铁路基础设施](https://www.aljazeera.com/news/2026/4/7/israel-warns-iranians-to-avoid-trains-as-trump-deadline-approaches)
+**来源**: Al Jazeera &nbsp;|&nbsp; **标签**: `以色列` `伊朗战争` `基础设施打击` `霍尔木兹海峡` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 特朗普最后期限临近之际，以色列发出警告，要求伊朗民众避免乘坐火车，暗示将打击铁路基础设施。
+与此同时，连接沙特阿拉伯和巴林的跨海大桥已关闭，地区紧张态势持续升级。
+
+---
+
+<!-- article-id: 440e06d171289825bb3277f5361766ba -->
+### [救援人员在伊朗被袭民宅废墟中搜寻幸存者](https://www.aljazeera.com/video/newsfeed/2026/4/6/rescuers-search-for-survivors-after-strikes-hit-homes-in-iran)
+**来源**: Al Jazeera &nbsp;|&nbsp; **标签**: `伊朗战争` `平民伤亡` `人道主义危机` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 伊朗红新月会发布影像，记录了救援人员在美以联军袭击后的民宅废墟中搜寻幸存者的画面。
+这批视频直观呈现了平民居住区遭受打击的破坏程度，引发国际社会对人道主义状况的严重关切。
+
+---
+
+<!-- article-id: 05e493e401c6e897f84101b9c2966364 -->
+### [朝鲜对伊朗保持距离，首尔报告称平壤寻求与美国重启外交](https://www.aljazeera.com/news/2026/4/6/north-korea-keeping-iran-at-arms-length-reports-seoul)
+**来源**: Al Jazeera &nbsp;|&nbsp; **标签**: `朝鲜` `伊朗` `美朝关系` `外交` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 韩国情报显示，朝鲜在伊朗战争中刻意保持距离，背后动机是寻求与特朗普政府恢复外交对话。
+此举显示平壤将自身利益置于意识形态盟友关系之上，外交灵活性高于外界预期。
+
+---
+
+<!-- article-id: baac3f375f266ae7a8f03d65be5185a5 -->
+### [赫格塞斯称霍尔木兹截止日临近之际对伊打击力度将创战争以来最高](https://www.aljazeera.com/video/newsfeed/2026/4/6/hegseth-says-strikes-on-iran-increasing-as-hormuz-deadline-looms)
+**来源**: Al Jazeera &nbsp;|&nbsp; **标签**: `伊朗战争` `美国国防部` `霍尔木兹海峡` `军事升级` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 美国国防部长赫格塞斯表示，随着霍尔木兹海峡最后期限临近，周一对伊朗的打击将是战争开始以来规模最大的一次。
+这一表态进一步加剧了市场恐慌，国际油价随即应声上涨。
+
+---
+
+<!-- article-id: 98032f4854e12e013002aa82d8620aa6 -->
+### [美以联军袭击伊朗顶尖大学，视频记录研究楼损毁情况](https://www.aljazeera.com/video/newsfeed/2026/4/6/video-irans-top-university-hit-in-us-israeli-strikes)
+**来源**: Al Jazeera &nbsp;|&nbsp; **标签**: `伊朗战争` `沙里夫大学` `教育设施` `战争影像` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 影像显示德黑兰沙里夫科技大学多栋研究楼在美以联军袭击后严重受损。
+沙里夫大学是伊朗顶尖科研机构，这次打击被国际社会广泛关注和批评。
+
+---
+
 ## 文化
 
 <!-- article-id: 108 -->
@@ -1694,6 +2150,30 @@ AI 基础设施正成为地缘政治博弈的新战场。
 ### [厄休拉·勒古恩的博客被制作成播客](https://www.engadget.com/)
 **来源**: Engadget &nbsp;|&nbsp; **标签**: `厄休拉·勒古恩` `科幻文学` `播客` &nbsp;|&nbsp; **时间**: 15:46 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
 > 科幻文学大师厄休拉·勒古恩生前的个人博客内容被整理制作成播客节目，让更多人得以聆听她的思想。
+
+---
+
+<!-- article-id: 08a75abd2cd9d135851915c918a325ef -->
+### [被骗之后我学到了什么](https://belief.horse/notes/what-being-ripped-off-taught-me/)
+**来源**: Hacker News &nbsp;|&nbsp; **标签**: `个人成长` `诚信` `反思` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 作者分享了一次被骗的经历，以及由此带来的人生感悟。
+通过这次遭遇，作者重新审视了信任与判断力的关系，并提炼出实用的教训。
+
+---
+
+<!-- article-id: 44c5b3229bab02d198734416eff823cf -->
+### [书评：《没有反记忆学部门》](https://www.stephendiehl.com/posts/no_antimimetics/)
+**来源**: Hacker News &nbsp;|&nbsp; **标签**: `书评` `科幻小说` `SCP` `认知科学` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> 本文是对科幻小说《没有反记忆学部门》的书评，该书源自 SCP 基金会创作宇宙。
+作者探讨了书中关于"无法被记忆的事物"这一独特概念，以及其对认知与叙事的哲学意义。
+
+---
+
+<!-- article-id: 79ace0f298d95a50aadd2048f7674b80 -->
+### [最后的宁静之物](https://www.terrygodier.com/the-last-quiet-thing)
+**来源**: Hacker News &nbsp;|&nbsp; **标签**: `随笔` `生活感悟` &nbsp;|&nbsp; **时间**: 16:05 &nbsp;|&nbsp; **评分**: ⭐⭐
+> 一篇关于在喧嚣世界中寻找宁静的个人随笔。
+作者反思了现代生活中噪音与内心平静之间的张力。
 
 ---
 
