@@ -51,7 +51,7 @@ fi
 
 log "Step 2: Running AI summarization via flickcli ($ARTICLE_COUNT articles)..."
 cd "$REPO_DIR"
-if ! flickcli -m claude-4.6-sonnet -q --approval-mode yolo "生成今天的日报" 2>&1 | tee -a "$LOG_FILE"; then
+if ! flickcli -m glm-5 -q --approval-mode yolo "生成今天的日报" 2>&1 | tee -a "$LOG_FILE"; then
   send_error "AI 摘要生成失败"
   exit 1
 fi
