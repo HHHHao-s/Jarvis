@@ -27,14 +27,22 @@
 - 识别"稀疏"分类（占比 < 5%，连续多天缺失）
 - 建议需要加强的信息源方向
 
-### 第四步：分析文章质量
+### 第四步：分析 Token 成本
+从 `data/state.json` 的 `pipeline.run_history[].tokens` 读取每次运行的 token 消耗：
+
+1. **趋势**：近 7 天每次运行的 total tokens 变化（上涨/下降/平稳）
+2. **缓存效率**：cache_read / total_input 比率，判断搜索策略是否有效利用缓存
+3. **单篇文章成本**：total / articles_added，识别是否有信息源文章少但成本高
+4. **异常检测**：token 量突然翻倍或接近 0 的异常运行，结合 error 字段排查
+
+### 第五步：分析文章质量
 抽样最近文章的质量指标：
 - 摘要长度是否在 80-150 字范围
 - 标题是否有足够的多样性
 - 是否存在重复或高度相似的标题
 - 评分分布是否合理（避免全 3 星）
 
-### 第五步：生成改进方案
+### 第六步：生成改进方案
 基于以上分析，生成具体的改进方案：
 
 **信息源调整**（更新 `data/sources.json`）：
@@ -54,7 +62,7 @@
 - 记录需要避免的摘要模式
 - 更新分类分配的经验规则
 
-### 第六步：写入进化记录
+### 第七步：写入进化记录
 更新 `data/state.json`：
 - evolution.last_run 设置为当前时间
 - evolution.total_runs +1
@@ -62,7 +70,7 @@
 - evolution.run_history 追加本次进化记录
 - learnings 更新改进发现
 
-### 第七步：发送进化摘要邮件
+### 第八步：发送进化摘要邮件
 ```bash
 uv run python scripts/send_email.py notify \
   --subject "Jarvis 自进化报告 Gen-{generation}" \
@@ -77,7 +85,7 @@ uv run python scripts/send_email.py notify \
 - 关键改进发现
 - 下次进化建议关注点
 
-### 第八步：提交并推送
+### 第九步：提交并推送
 ```bash
 git add data/ docs/_posts/ && git commit -m "Evolution: gen-{generation} - {简短描述}" && git push
 ```

@@ -46,9 +46,22 @@
           "Tech",
           "科学"
         ],
-        "error": ""
+        "error": "",
+        "tokens": {
+          "recorded_at": "2026-05-03T23:16:56+08:00",
+          "input": 28791,
+          "output": 1946,
+          "total": 30737,
+          "cache_read": 1141376,
+          "cache_write": 0
+        }
       }
-    ]
+    ],
+    "total_tokens": {
+      "input": 28791,
+      "output": 1946,
+      "total": 30737
+    }
   },
   "evolution": {
     "last_run": null,

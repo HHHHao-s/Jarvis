@@ -5,6 +5,8 @@ data/articles.json
 data/seen.json
 data/input.yaml
 data/*.tmp
+data/*.jsonl
+data/tmp/
 
 # Bundler cache
 .bundle

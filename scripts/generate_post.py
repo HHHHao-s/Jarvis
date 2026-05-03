@@ -76,7 +76,10 @@ def format_article(article: dict) -> str:
     time_str = ''
     if processed_at:
         try:
-            dt = datetime.fromisoformat(processed_at)
+            if hasattr(processed_at, 'strftime'):
+                dt = processed_at
+            else:
+                dt = datetime.fromisoformat(processed_at)
             time_str = dt.strftime('%H:%M')
         except ValueError:
             pass

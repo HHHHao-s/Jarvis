@@ -85,6 +85,17 @@ def cmd_prepare(_args):
 
 def cmd_record(args):
     """Record a pipeline run outcome."""
+    # If --stats-file is provided, read parameters from it
+    if args.stats_file:
+        import json
+        stats = json.loads(Path(args.stats_file).read_text())
+        args.date = args.date or stats.get("date")
+        args.sources_queried = args.sources_queried or stats.get("sources_queried", 0)
+        args.articles_found = args.articles_found or stats.get("articles_found", 0)
+        args.articles_added = args.articles_added or stats.get("articles_added", 0)
+        if not args.categories:
+            args.categories = ",".join(stats.get("categories", []))
+
     state = read_json(STATE_FILE)
     p = state.setdefault("pipeline", {})
     p["last_run"] = now()
@@ -274,6 +285,7 @@ def parse_args():
     rec.add_argument("--articles-found", type=int)
     rec.add_argument("--articles-added", type=int)
     rec.add_argument("--categories")
+    rec.add_argument("--stats-file", help="Read params from pipeline_stats.json")
     rec.add_argument("--error")
 
     evo = sub.add_parser("evolve-record", help="Record an evolution run")
