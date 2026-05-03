@@ -1,11 +1,22 @@
 {
   "date": "2026-05-03",
-  "sources_queried": 1,
-  "articles_found": 4,
-  "articles_added": 4,
+  "sources_queried": 12,
+  "articles_found": 58,
+  "articles_added": 58,
   "categories": [
     "AI",
     "Tech",
-    "科学"
+    "体育",
+    "健康",
+    "商业",
+    "国际",
+    "技术",
+    "政治",
+    "文化",
+    "环境",
+    "社会",
+    "科学",
+    "科技",
+    "经济"
   ]
 }
