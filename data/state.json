@@ -79,13 +79,21 @@
           "科技",
           "经济"
         ],
-        "error": ""
+        "error": "",
+        "tokens": {
+          "recorded_at": "2026-05-03T23:35:17+08:00",
+          "input": 37505,
+          "output": 9917,
+          "total": 47422,
+          "cache_read": 7328128,
+          "cache_write": 0
+        }
       }
     ],
     "total_tokens": {
-      "input": 28791,
-      "output": 1946,
-      "total": 30737
+      "input": 66296,
+      "output": 11863,
+      "total": 78159
     }
   },
   "evolution": {
