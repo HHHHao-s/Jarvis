@@ -86,6 +86,7 @@ def cmd_prepare(_args):
 def cmd_record(args):
     """Record a pipeline run outcome."""
     # If --stats-file is provided, read parameters from it
+    removed_sources = []
     if args.stats_file:
         import json
         stats = json.loads(Path(args.stats_file).read_text())
@@ -95,6 +96,7 @@ def cmd_record(args):
         args.articles_added = args.articles_added or stats.get("articles_added", 0)
         if not args.categories:
             args.categories = ",".join(stats.get("categories", []))
+        removed_sources = stats.get("removed_sources", [])
 
     state = read_json(STATE_FILE)
     p = state.setdefault("pipeline", {})
@@ -118,6 +120,7 @@ def cmd_record(args):
         "articles_added": args.articles_added or 0,
         "categories": args.categories.split(",") if args.categories else [],
         "error": args.error or "",
+        "removed_sources": removed_sources,
     }
     p.setdefault("run_history", []).append(entry)
     p["run_history"] = p["run_history"][-90:]

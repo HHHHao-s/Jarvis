@@ -185,10 +185,12 @@ def cmd_check(args):
         stats = json.loads(stats_path.read_text(encoding="utf-8"))
         sources = sorted(set(a.get("source", "?") for a in good))
         categories = sorted(set(a.get("category", "Other") for a in good))
+        removed_sources = sorted(set(a.get("source", "?") for a, _ in bad))
         stats["articles_found"] = len(good)
         stats["articles_added"] = len(good)
         stats["sources_queried"] = len(sources)
         stats["categories"] = categories
+        stats["removed_sources"] = removed_sources
         stats_path.write_text(json.dumps(stats, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
