@@ -1,6 +1,8 @@
 [project]
 name = "jarvis"
-version = "0.1.0"
-description = "Add your description here"
+version = "0.2.0"
+description = "Self-evolving daily global news digest system"
 requires-python = ">=3.14"
 dependencies = ["pyyaml"]
+
+[tool.uv.sources]
