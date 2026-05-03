@@ -41,7 +41,7 @@ jobs:
           git remote set-url origin "https://x-access-token:${GH_PAT}@github.com/${GITHUB_REPOSITORY}.git"
 
       - name: Run Evolution
-        run: claude -p "/evolve" --dangerously-skip-permissions
+        run: claude -p "/evolve" --dangerously-skip-permissions --output-format stream-json --include-partial-messages
         env:
           ANTHROPIC_AUTH_TOKEN: ${{ secrets.ANTHROPIC_AUTH_TOKEN }}
           ANTHROPIC_BASE_URL: ${{ secrets.ANTHROPIC_BASE_URL }}
@@ -49,6 +49,8 @@ jobs:
           ANTHROPIC_DEFAULT_OPUS_MODEL: ${{ secrets.ANTHROPIC_MODEL }}
           ANTHROPIC_DEFAULT_SONNET_MODEL: ${{ secrets.ANTHROPIC_MODEL }}
           ANTHROPIC_DEFAULT_HAIKU_MODEL: ${{ secrets.ANTHROPIC_HAIKU_MODEL }}
+          CLAUDE_CODE_SUBAGENT_MODEL: ${{ secrets.ANTHROPIC_HAIKU_MODEL }}
+          CLAUDE_CODE_EFFORT_LEVEL : "max"
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
           SMTP_USER: ${{ secrets.SMTP_USER }}
