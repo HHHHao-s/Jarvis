@@ -56,17 +56,6 @@ Agent 失败则重试一次。
 python scripts/validate_urls.py lock data/tmp/
 python scripts/merge_yaml.py
 python scripts/validate_urls.py check data/tmp/input.yaml --check-http
-```
-
-如果上一步有文章被过滤（`data/tmp/removed_articles.json` 存在且非空），主 agent 执行恢复：
-
-1. Read `data/tmp/removed_articles.json` 和 `data/tmp/url_whitelist.json`
-2. 对每篇被移除的文章，在 whitelist[source] 中按标题相似度匹配正确 URL（仅在该源自己的白名单里找）
-3. 匹配到的文章，修正 URL 后加回 `data/tmp/input.yaml`
-4. 更新 `data/tmp/pipeline_stats.json` 反映恢复后的数量
-5. 无法匹配的文章保留移除
-
-```bash
 uv run python scripts/generate_post.py --input data/tmp/input.yaml
 ```
 

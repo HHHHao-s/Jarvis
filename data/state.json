@@ -110,13 +110,21 @@
           "文化"
         ],
         "error": "",
-        "removed_sources": []
+        "removed_sources": [],
+        "tokens": {
+          "recorded_at": "2026-05-04T00:19:26+08:00",
+          "input": 53154,
+          "output": 16341,
+          "total": 69495,
+          "cache_read": 658304,
+          "cache_write": 0
+        }
       }
     ],
     "total_tokens": {
-      "input": 66296,
-      "output": 11863,
-      "total": 78159
+      "input": 119450,
+      "output": 28204,
+      "total": 147654
     }
   },
   "evolution": {
