@@ -33,6 +33,14 @@ uv run python scripts/send_email.py error --message "<error message>" [--log-fil
 
 Sends an error notification with the error message and optional log tail.
 
+### Send custom notification
+
+```
+uv run python scripts/send_email.py notify --subject "<subject>" --body "<body>" [--html]
+```
+
+Sends a custom notification with your own subject and body. Use `--html` if the body contains HTML markup.
+
 ## Notes
 
 - HTML email format is used by default

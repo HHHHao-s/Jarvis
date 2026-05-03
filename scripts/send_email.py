@@ -113,6 +113,11 @@ def parse_args():
     e.add_argument('--log-file', help='Log file to include tail')
     e.add_argument('--log-lines', type=int, default=50, help='Number of log lines to include')
 
+    n = sub.add_parser('notify', help='Send custom notification')
+    n.add_argument('--subject', '-s', required=True, help='Notification subject')
+    n.add_argument('--body', '-b', required=True, help='Notification body (plain text or HTML)')
+    n.add_argument('--html', action='store_true', help='Send body as HTML')
+
     return p.parse_args()
 
 
@@ -121,6 +126,7 @@ def main():
     args = parse_args()
     cfg = get_smtp_config()
 
+    html = True
     if args.command == 'digest':
         subject, body = build_digest_email(args.date, args.post)
     elif args.command == 'error':
@@ -131,12 +137,16 @@ def main():
                 lines = lp.read_text(encoding='utf-8', errors='replace').splitlines()
                 log_tail = '\n'.join(lines[-args.log_lines:])
         subject, body = build_error_email(args.message, log_tail)
+    elif args.command == 'notify':
+        subject = args.subject
+        body = args.body
+        html = args.html
     else:
         print(f'Unknown command: {args.command}', file=sys.stderr)
         sys.exit(1)
 
     try:
-        send_email(cfg, subject, body, html=True)
+        send_email(cfg, subject, body, html=html)
         print(f'SUCCESS: Email sent to {", ".join(cfg["to"])}')
     except Exception as e:
         print(f'ERROR: Failed to send email: {e}', file=sys.stderr)
