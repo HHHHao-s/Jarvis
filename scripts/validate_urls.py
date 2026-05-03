@@ -43,8 +43,9 @@ def cmd_lock(args):
         print(f"Directory not found: {tmp_dir}", file=sys.stderr)
         sys.exit(1)
 
-    whitelist = {}  # url -> {source, title}
+    whitelist = {}  # source-id -> {url: {source, title}}
     total_cleaned = 0
+    total_urls = 0
 
     for md_file in sorted(tmp_dir.glob("*.md")):
         source_id = md_file.stem
@@ -52,28 +53,33 @@ def cmd_lock(args):
         lines = content.split("\n")
         cleaned = []
         removed = 0
+        source_wl = {}
 
         for line in lines:
             m = URL_PATTERN.search(line)
             if m:
                 title, url = m.group(1), m.group(2)
                 if is_syntactic(url):
-                    whitelist[url] = {"source": source_id, "title": title}
+                    source_wl[url] = {"source": source_id, "title": title}
                     cleaned.append(line)
                 else:
                     removed += 1
             else:
                 cleaned.append(line)
 
+        if source_wl:
+            whitelist[source_id] = source_wl
+            total_urls += len(source_wl)
+
         if removed > 0:
             md_file.write_text("\n".join(cleaned), encoding="utf-8")
-            print(f"  [{md_file.name}] cleaned {removed} bad URLs")
+            print(f"  [{md_file.name}] {len(source_wl)} URLs, cleaned {removed} bad")
 
         total_cleaned += removed
 
-    whitelist_path = Path(args.dir).parent / "url_whitelist.json"
+    whitelist_path = Path(args.dir) / "url_whitelist.json"
     whitelist_path.write_text(json.dumps(whitelist, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"\nWhitelist: {len(whitelist)} URLs from {len(list(tmp_dir.glob('*.md')))} files → {whitelist_path}")
+    print(f"\nWhitelist: {total_urls} URLs across {len(whitelist)} sources → {whitelist_path}")
     if total_cleaned:
         print(f"Cleaned: {total_cleaned} bad URLs removed from tmp files")
 
@@ -108,17 +114,20 @@ def cmd_check(args):
         print("No articles to validate.")
         return
 
-    print(f"Validating {len(articles)} articles (whitelist: {len(whitelist)} URLs)\n")
+    total_wl = sum(len(v) for v in whitelist.values())
+    print(f"Validating {len(articles)} articles (whitelist: {total_wl} URLs across {len(whitelist)} sources)\n")
 
     good = []
     bad = []
 
     for a in articles:
         url = a.get("url", "").strip()
+        source = a.get("source", "")
 
-        # Phase 1: Must match whitelist exactly
-        if whitelist and url not in whitelist:
-            bad.append((a, "not in whitelist (sub-agent fabricated or modified URL)"))
+        # Phase 1: Must match the source's whitelist exactly
+        source_wl = whitelist.get(source, {}) if whitelist else {}
+        if whitelist and url not in source_wl:
+            bad.append((a, f"not in whitelist for source '{source}' (fabricated or modified URL)"))
             continue
 
         # Phase 2: Syntactic check
@@ -165,10 +174,22 @@ def cmd_check(args):
     if bad:
         bad_path = yaml_path.parent / "removed_articles.json"
         bad_path.write_text(
-            json.dumps([{"reason": r, "title": a.get("title", ""), "url": a.get("url", "")}
+            json.dumps([{"reason": r, "source": a.get("source", "?"), "title": a.get("title", ""), "url": a.get("url", "")}
                         for a, r in bad], ensure_ascii=False, indent=2),
             encoding="utf-8",
         )
+
+    # Update pipeline_stats.json to reflect filtered article count
+    stats_path = yaml_path.parent / "pipeline_stats.json"
+    if stats_path.exists():
+        stats = json.loads(stats_path.read_text(encoding="utf-8"))
+        sources = sorted(set(a.get("source", "?") for a in good))
+        categories = sorted(set(a.get("category", "Other") for a in good))
+        stats["articles_found"] = len(good)
+        stats["articles_added"] = len(good)
+        stats["sources_queried"] = len(sources)
+        stats["categories"] = categories
+        stats_path.write_text(json.dumps(stats, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
 def main():

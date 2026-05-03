@@ -17,8 +17,8 @@ STATE_FILE = ROOT / "data" / "state.json"
 TZ8 = timezone(timedelta(hours=8))
 
 DEFAULT_LOG = {
-    "pipeline": ROOT / "data" / "pipeline_output.jsonl",
-    "evolve": ROOT / "data" / "evolve_output.jsonl",
+    "pipeline": ROOT / "data" / "tmp" / "pipeline_output.jsonl",
+    "evolve": ROOT / "data" / "tmp" / "evolve_output.jsonl",
 }
 
 
@@ -27,10 +27,7 @@ def extract(log_path: Path) -> dict:
     if not log_path.exists():
         return {"error": f"Log file not found: {log_path}"}
 
-    total_input = 0
-    total_output = 0
-    cache_read = 0
-    cache_write = 0
+    final = {}
 
     with open(log_path, encoding="utf-8") as f:
         for line in f:
@@ -42,18 +39,14 @@ def extract(log_path: Path) -> dict:
             except json.JSONDecodeError:
                 continue
 
-            usage = event.get("usage") or event.get("message", {}).get("usage")
-            if usage:
-                total_input += usage.get("input_tokens", 0)
-                total_output += usage.get("output_tokens", 0)
-                cache_read += usage.get("cache_read_input_tokens", 0)
-                cache_write += usage.get("cache_creation_input_tokens", 0)
-
+            # Only use the final result event — intermediate usage is cumulative, not delta
             if event.get("type") == "result":
-                final_usage = event.get("usage") or {}
-                if final_usage:
-                    total_input = final_usage.get("input_tokens", total_input)
-                    total_output = final_usage.get("output_tokens", total_output)
+                final = event.get("usage") or {}
+
+    total_input = final.get("input_tokens", 0)
+    total_output = final.get("output_tokens", 0)
+    cache_read = final.get("cache_read_input_tokens", 0)
+    cache_write = final.get("cache_creation_input_tokens", 0)
 
     return {
         "input": total_input,

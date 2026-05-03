@@ -10,8 +10,8 @@ import yaml
 TZ8 = timezone(timedelta(hours=8))
 ROOT = Path(__file__).resolve().parent.parent
 TMP_DIR = ROOT / "data" / "tmp"
-OUTPUT = ROOT / "data" / "input.yaml"
-STATS_FILE = ROOT / "data" / "pipeline_stats.json"
+OUTPUT = ROOT / "data" / "tmp" / "input.yaml"
+STATS_FILE = ROOT / "data" / "tmp" / "pipeline_stats.json"
 
 
 def main():
