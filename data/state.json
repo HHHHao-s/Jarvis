@@ -1,12 +1,12 @@
 {
   "version": 1,
   "created_at": "2026-05-03T00:00:00+08:00",
-  "last_updated": "2026-05-03T23:34:59+08:00",
+  "last_updated": "2026-05-04T00:17:58+08:00",
   "pipeline": {
-    "last_run": "2026-05-03T23:34:59+08:00",
-    "last_success": "2026-05-03T23:34:59+08:00",
-    "total_runs": 3,
-    "total_successes": 3,
+    "last_run": "2026-05-04T00:17:58+08:00",
+    "last_success": "2026-05-04T00:17:58+08:00",
+    "total_runs": 4,
+    "total_successes": 4,
     "total_failures": 0,
     "consecutive_failures": 0,
     "run_history": [
@@ -88,6 +88,29 @@
           "cache_read": 7328128,
           "cache_write": 0
         }
+      },
+      {
+        "timestamp": "2026-05-04T00:17:58+08:00",
+        "date": "2026-05-04",
+        "success": true,
+        "sources_queried": 12,
+        "articles_found": 58,
+        "articles_added": 58,
+        "categories": [
+          "AI",
+          "Tech",
+          "商业",
+          "国际",
+          "政治",
+          "经济",
+          "科学",
+          "健康",
+          "环境",
+          "社会",
+          "文化"
+        ],
+        "error": "",
+        "removed_sources": []
       }
     ],
     "total_tokens": {
@@ -105,23 +128,23 @@
     "run_history": []
   },
   "digests": {
-    "last_date": "2026-05-03",
-    "total_posts": 3,
-    "total_articles": 108,
+    "last_date": "2026-05-04",
+    "total_posts": 4,
+    "total_articles": 166,
     "category_distribution": {
-      "AI": 3,
-      "Tech": 3,
-      "科学": 3,
-      "商业": 2,
-      "国际": 2,
-      "社会": 2,
-      "经济": 2,
-      "健康": 2,
-      "文化": 2,
-      "政治": 2,
+      "AI": 4,
+      "Tech": 4,
+      "科学": 4,
+      "商业": 3,
+      "国际": 3,
+      "社会": 3,
+      "经济": 3,
+      "健康": 3,
+      "文化": 3,
+      "政治": 3,
       "科技": 2,
       "体育": 2,
-      "环境": 2,
+      "环境": 3,
       "技术": 1
     },
     "top_sources": []
