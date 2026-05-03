@@ -1,12 +1,11 @@
 {
   "date": "2026-05-03",
   "sources_queried": 1,
-  "articles_found": 5,
-  "articles_added": 5,
+  "articles_found": 4,
+  "articles_added": 4,
   "categories": [
     "AI",
-    "健康",
-    "社会",
-    "经济"
+    "Tech",
+    "科学"
   ]
 }

@@ -1,12 +1,12 @@
 {
   "version": 1,
   "created_at": "2026-05-03T00:00:00+08:00",
-  "last_updated": "2026-05-03T23:00:26+08:00",
+  "last_updated": "2026-05-03T23:16:17+08:00",
   "pipeline": {
-    "last_run": "2026-05-03T23:00:26+08:00",
-    "last_success": "2026-05-03T23:00:26+08:00",
-    "total_runs": 3,
-    "total_successes": 3,
+    "last_run": "2026-05-03T23:16:17+08:00",
+    "last_success": "2026-05-03T23:16:17+08:00",
+    "total_runs": 2,
+    "total_successes": 2,
     "total_failures": 0,
     "consecutive_failures": 0,
     "run_history": [
@@ -35,32 +35,16 @@
         "error": ""
       },
       {
-        "timestamp": "2026-05-03T22:49:44+08:00",
+        "timestamp": "2026-05-03T23:16:17+08:00",
         "date": "2026-05-03",
         "success": true,
         "sources_queried": 1,
-        "articles_found": 5,
-        "articles_added": 5,
+        "articles_found": 4,
+        "articles_added": 4,
         "categories": [
           "AI",
           "Tech",
-          "健康",
           "科学"
-        ],
-        "error": ""
-      },
-      {
-        "timestamp": "2026-05-03T23:00:26+08:00",
-        "date": "2026-05-03",
-        "success": true,
-        "sources_queried": 1,
-        "articles_found": 5,
-        "articles_added": 5,
-        "categories": [
-          "AI",
-          "健康",
-          "社会",
-          "经济"
         ],
         "error": ""
       }
@@ -76,17 +60,17 @@
   },
   "digests": {
     "last_date": "2026-05-03",
-    "total_posts": 3,
-    "total_articles": 56,
+    "total_posts": 2,
+    "total_articles": 50,
     "category_distribution": {
-      "AI": 3,
+      "AI": 2,
       "Tech": 2,
       "科学": 2,
       "商业": 1,
       "国际": 1,
-      "社会": 2,
-      "经济": 2,
-      "健康": 3,
+      "社会": 1,
+      "经济": 1,
+      "健康": 1,
       "文化": 1,
       "政治": 1,
       "科技": 1,
