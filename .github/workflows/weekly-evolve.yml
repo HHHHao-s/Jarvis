@@ -43,7 +43,7 @@ jobs:
           git remote set-url origin "https://x-access-token:${GH_PAT}@github.com/${GITHUB_REPOSITORY}.git"
 
       - name: Run Evolution
-        run: claude -p "/evolve" --dangerously-skip-permissions --output-format stream-json --include-partial-messages
+        run: claude -p "/evolve" --dangerously-skip-permissions --output-format stream-json --include-partial-messages --verbose
         env:
           ANTHROPIC_AUTH_TOKEN: ${{ secrets.ANTHROPIC_AUTH_TOKEN }}
           ANTHROPIC_BASE_URL: ${{ secrets.ANTHROPIC_BASE_URL }}
