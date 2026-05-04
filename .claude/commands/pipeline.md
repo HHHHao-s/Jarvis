@@ -8,13 +8,7 @@
 
 Read `data/sources.json`。
 
-## 2. 准备目录
-
-```bash
-mkdir -p data/tmp
-```
-
-## 3. 并行启动 Sub-agent
+## 2. 并行启动 Sub-agent
 
 为每个 `active: true` 的信息源启动一个 Agent（general-purpose），**同一轮消息中全部并行发出**，不加 `run_in_background`。
 
@@ -48,7 +42,7 @@ Only use Write tool for output files, no code.
 
 Agent 失败则重试一次。
 
-## 4. 脚本链
+## 3. 脚本链
 
 等所有 agent 完成后：
 
@@ -59,7 +53,7 @@ python scripts/validate_urls.py check data/tmp/input.yaml --check-http
 uv run python scripts/generate_post.py --input data/tmp/input.yaml
 ```
 
-## 5. 邮件通知
+## 4. 邮件通知
 
 成功：
 ```bash
@@ -71,7 +65,7 @@ uv run python scripts/send_email.py digest --date YYYY-MM-DD --post docs/_posts/
 uv run python scripts/send_email.py error --message "错误信息"
 ```
 
-## 6. 记录状态并推送
+## 5. 记录状态并推送
 
 ```bash
 uv run python scripts/pipeline.py record --success --stats-file data/tmp/pipeline_stats.json
@@ -79,7 +73,7 @@ uv run python scripts/pipeline.py record --success --stats-file data/tmp/pipelin
 git add docs/_posts/ data/ && git commit -m "Daily digest $(date +%Y-%m-%d)" && git push
 ```
 
-## 7. 输出摘要
+## 6. 输出摘要
 
 报告：信息源数量、文章总数、覆盖分类、https://hhhhao-s.github.io/Jarvis
 
