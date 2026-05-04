@@ -1,12 +1,12 @@
 {
   "version": 1,
   "created_at": "2026-05-03T00:00:00+08:00",
-  "last_updated": "2026-05-04T00:17:58+08:00",
+  "last_updated": "2026-05-04T08:22:52+08:00",
   "pipeline": {
-    "last_run": "2026-05-04T00:17:58+08:00",
-    "last_success": "2026-05-04T00:17:58+08:00",
-    "total_runs": 4,
-    "total_successes": 4,
+    "last_run": "2026-05-04T08:22:52+08:00",
+    "last_success": "2026-05-04T08:22:52+08:00",
+    "total_runs": 5,
+    "total_successes": 5,
     "total_failures": 0,
     "consecutive_failures": 0,
     "run_history": [
@@ -119,6 +119,30 @@
           "cache_read": 658304,
           "cache_write": 0
         }
+      },
+      {
+        "timestamp": "2026-05-04T08:22:52+08:00",
+        "date": "2026-05-04",
+        "success": true,
+        "sources_queried": 4,
+        "articles_found": 17,
+        "articles_added": 17,
+        "categories": [
+          "AI",
+          "Tech",
+          "健康",
+          "商业",
+          "国际",
+          "环境",
+          "社会",
+          "科学"
+        ],
+        "error": "",
+        "removed_sources": [
+          "BBC News",
+          "Hacker News",
+          "Nature"
+        ]
       }
     ],
     "total_tokens": {
@@ -137,22 +161,22 @@
   },
   "digests": {
     "last_date": "2026-05-04",
-    "total_posts": 4,
-    "total_articles": 166,
+    "total_posts": 5,
+    "total_articles": 183,
     "category_distribution": {
-      "AI": 4,
-      "Tech": 4,
-      "科学": 4,
-      "商业": 3,
-      "国际": 3,
-      "社会": 3,
+      "AI": 5,
+      "Tech": 5,
+      "科学": 5,
+      "商业": 4,
+      "国际": 4,
+      "社会": 4,
       "经济": 3,
-      "健康": 3,
+      "健康": 4,
       "文化": 3,
       "政治": 3,
       "科技": 2,
       "体育": 2,
-      "环境": 3,
+      "环境": 4,
       "技术": 1
     },
     "top_sources": []

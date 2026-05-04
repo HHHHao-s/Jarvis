@@ -74,6 +74,13 @@ toc: true
 ---
 
 
+<!-- article-id: 19231aea -->
+### [软银组建机器人公司冲刺千亿IPO](https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/)
+**来源**: TechCrunch &nbsp;|&nbsp; **标签**: `软银` `机器人` `数据中心` `IPO` `孙正义` `AI基础设施` &nbsp;|&nbsp; **时间**: 08:20 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> 软银正组建名为Roze AI的机器人公司，利用自主机器人建设数据中心，目标估值1000亿美元，计划2026年下半年IPO。该公司将整合软银的能源、土地和基础设施资产及此前收购的ABB Robotics。部分内部高管对千亿美元估值持保留态度，但此举被视为AI基础设施领域的重要布局。
+
+---
+
 ## 商业
 
 <!-- article-id: 7cf11e2c -->
@@ -104,6 +111,13 @@ toc: true
 
 ---
 
+
+<!-- article-id: 0ab605f5 -->
+### [微软Copilot付费用户突破2000万](https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/)
+**来源**: TechCrunch &nbsp;|&nbsp; **标签**: `微软` `Copilot` `AI办公` `企业AI` `纳德拉` `付费用户` &nbsp;|&nbsp; **时间**: 08:20 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 微软CEO纳德拉在财报电话会上宣布M365 Copilot付费企业用户已达2000万，较上季度增长500万。用户周活跃度已与Outlook持平，Accenture签约74万席位成为最大客户。Copilot Agent模式已成默认体验，支持多模型路由，包括Anthropic Claude。
+
+---
 
 ## AI
 
@@ -227,6 +241,34 @@ toc: true
 ---
 
 
+<!-- article-id: 867ee4b1 -->
+### [自主AI智能体运行时治理](https://arxiv.org/abs/2604.24686)
+**来源**: arXiv AI &nbsp;|&nbsp; **标签**: `AI治理` `自主智能体` `AI安全` `运行时监控` `伦理` &nbsp;|&nbsp; **时间**: 08:12 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 提出自适应运行时治理框架，解决自主AI智能体在不可观测环境中的治理难题。该方法通过实时监控与动态干预机制，在不牺牲智能体自主性的前提下确保AI行为符合安全规范与伦理标准。
+
+---
+
+<!-- article-id: 554e54d9 -->
+### [Zig项目严苛反AI贡献政策](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
+**来源**: Hacker News &nbsp;|&nbsp; **标签**: `AI政策` `开源社区` `开发者文化` &nbsp;|&nbsp; **时间**: 08:12 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> Zig项目制定了开源领域最严格的反AI贡献政策，全面禁止使用LLM提交issue、PR或评论。社区VP提出“贡献者扑克”理念，认为项目维护的核心是培养长期贡献者而非合并代码，AI生成的完美PR无助于社区成长。
+
+---
+
+<!-- article-id: 72ba5d8b -->
+### [Anthropic拟融资500亿估值9000亿](https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/)
+**来源**: TechCrunch &nbsp;|&nbsp; **标签**: `Anthropic` `AI融资` `大模型` `IPO` `估值` `Claude` &nbsp;|&nbsp; **时间**: 08:20 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> 据TechCrunch独家报道，AI初创公司Anthropic（Claude开发者）正进行新一轮约500亿美元融资，估值高达9000亿美元，有望超越OpenAI成为全球估值最高的AI公司。本轮可能是IPO前最后一轮私募融资，最快2026年10月上市。Anthropic年收入已突破400亿美元，增长迅猛。
+
+---
+
+<!-- article-id: 2075a9a9 -->
+### [Salesforce众包构建AI路线图](https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/)
+**来源**: TechCrunch &nbsp;|&nbsp; **标签**: `Salesforce` `AI代理` `企业AI` `Agentforce` `客户反馈` &nbsp;|&nbsp; **时间**: 08:20 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> Salesforce正通过每周与客户会面的方式，众包式构建其AI产品路线图，利用直接反馈快速迭代Agentforce平台。参与群体包括轮换客户组和内部Alpha用户，重点聚焦AI代理、语音AI和Slack集成。这种实时反馈机制代表了企业AI产品开发的新模式。
+
+---
+
 ## 国际
 
 <!-- article-id: cf4d5e44 -->
@@ -264,6 +306,20 @@ toc: true
 
 ---
 
+
+<!-- article-id: e313a0ca -->
+### [法国政府全面转向Linux](https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/)
+**来源**: Hacker News &nbsp;|&nbsp; **标签**: `数字主权` `Linux` `法国政府` &nbsp;|&nbsp; **时间**: 08:12 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> 法国政府宣布“去微软化”战略，计划将250万台政府电脑从Windows迁移至Linux（采用NixOS/Securix），并推出Tchap、Visio等本土替代工具。此举旨在减少对美国科技依赖，强化数字主权，预计秋季前各部委将提交具体迁移方案。
+
+---
+
+<!-- article-id: f9eee99f -->
+### [五角大楼与科技巨头签署AI军事协议](https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/)
+**来源**: TechCrunch &nbsp;|&nbsp; **标签**: `五角大楼` `AI军事化` `英伟达` `国防科技` `云计算` `微软` &nbsp;|&nbsp; **时间**: 08:20 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 美国国防部与英伟达、微软、AWS及Reflection AI签署协议，获准在机密网络（IL6/IL7级别）上部署AI技术。此举正值五角大楼与Anthropic因军用AI使用限制发生法律纠纷之际，标志着军方AI应用进入新阶段，引发关于AI军事化伦理的广泛讨论。
+
+---
 
 ## 政治
 
@@ -337,6 +393,41 @@ toc: true
 ---
 
 
+<!-- article-id: 656916b3 -->
+### [开源多智能体数学证明系统](https://arxiv.org/abs/2604.24021)
+**来源**: arXiv AI &nbsp;|&nbsp; **标签**: `多智能体` `数学证明` `定理证明` `大语言模型` `自动推理` &nbsp;|&nbsp; **时间**: 08:12 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> QED是一个开源多智能体系统，利用多个LLM智能体协作生成数学定理证明，可应用于未解决的数学难题。该系统通过分工协作机制将复杂证明任务分解，显著提升了自动定理证明的能力和可靠性。
+
+---
+
+<!-- article-id: 1f5ca0e2 -->
+### [端到端自主科学发现系统](https://browse-export.arxiv.org/abs/2604.27092)
+**来源**: arXiv AI &nbsp;|&nbsp; **标签**: `科学发现` `自主智能体` `光学物理` `实验验证` `大语言模型` &nbsp;|&nbsp; **时间**: 08:12 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> Qiushi Discovery Engine首次实现了AI智能体在真实光学平台上自主发现并实验验证全新物理机制（光学双线性相互作用），标志着AI驱动的端到端科学发现从概念验证走向实际应用。
+
+---
+
+<!-- article-id: 1e7012f6 -->
+### [机器集体智能科学发现](https://arxiv.org/html/2604.27297v1)
+**来源**: arXiv AI &nbsp;|&nbsp; **标签**: `集体智能` `科学发现` `符号推理` `可解释AI` `方程发现` &nbsp;|&nbsp; **时间**: 08:12 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> 提出机器集体智能新范式，结合符号主义与元启发式算法，实现从数据中自主发现控制方程。相比深度神经网络，外推误差降低六个数量级，并将数百万参数压缩为仅5-40个可解释参数。
+
+---
+
+<!-- article-id: a4f3953c -->
+### [AI发现DNA并非完全锁在细胞内](https://gladstone.org/news/ai-discovery-reveals-dna-isnt-locked-away-cells-after-all)
+**来源**: Nature &nbsp;|&nbsp; **标签**: `DNA` `基因调控` `人工智能` `表观遗传学` &nbsp;|&nbsp; **时间**: 08:20 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> 新的人工智能方法发现超过85%的核小体并非完全锁定状态，而是部分可访问的。这一发现从根本上改变了我们对基因调控的理解——基因拥有"音量旋钮"而非简单的开关，为疾病治疗提供了全新视角。
+
+---
+
+<!-- article-id: 67db711a -->
+### [复杂生命起源提前近十亿年](https://www.nioz.nl/en/news-and-blogs/news/complex-life-developed-earlier-than-previously-thought-nature-study-reveals)
+**来源**: Nature &nbsp;|&nbsp; **标签**: `生命演化` `真核生物` `分子钟` `古生物学` `地球历史` &nbsp;|&nbsp; **时间**: 08:20 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> 科学家利用分子钟技术发现复杂真核细胞约在29亿年前开始演化，比此前认知早了近十亿年。新提出的"CALM"模型表明细胞核在线粒体之前演化，且氧气并非复杂生命出现的先决条件，改写生命演化史。
+
+---
+
 ## 健康
 
 <!-- article-id: 2960fb03 -->
@@ -361,6 +452,20 @@ toc: true
 ---
 
 
+<!-- article-id: a4cdc62f -->
+### [生物分子多模态基础模型](https://arxiv.org/abs/2604.24506)
+**来源**: arXiv AI &nbsp;|&nbsp; **标签**: `生物分子` `多模态` `基础模型` `药物发现` `生成式AI` &nbsp;|&nbsp; **时间**: 08:12 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> MIMIC是一个生成式多模态基础模型，能够处理生物分子的多种表示形式（序列、结构、功能），为药物发现和分子设计提供统一的AI框架，有望加速生物医学研究进程。
+
+---
+
+<!-- article-id: e748eb0a -->
+### [阻断应激信号减轻心脏病炎症](https://www.ou.edu/news/articles/2026/may/stress-signals-harmful-inflammation-heart-attack)
+**来源**: Nature &nbsp;|&nbsp; **标签**: `心脏病` `炎症` `应激信号` `心脏修复` `免疫反应` &nbsp;|&nbsp; **时间**: 08:20 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 研究发现心脏病发作后中性粒细胞从血管壁而非骨髓中被动员至损伤部位，这一过程由应激激素驱动。使用β受体阻滞剂阻断该信号可减少有害炎症并改善小鼠心脏愈合效果，为心脏康复提供了新策略。
+
+---
+
 ## 环境
 
 <!-- article-id: 0b3b1191 -->
@@ -384,6 +489,13 @@ toc: true
 
 ---
 
+
+<!-- article-id: b6e002c7 -->
+### [热带雨林30年恢复九成生物多样性](https://m.dongascience.com/en/news/77688)
+**来源**: Nature &nbsp;|&nbsp; **标签**: `雨林` `生物多样性` `生态恢复` `森林保护` `厄瓜多尔` &nbsp;|&nbsp; **时间**: 08:20 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> 对厄瓜多尔热带雨林62个样地的研究表明，采伐后的森林在30年内可恢复约90%的生物多样性。传播种子的鸟类、蝙蝠和蜜蜂恢复最快，但恢复过程高度依赖邻近原始森林作为种子来源。
+
+---
 
 ## 社会
 
@@ -422,6 +534,13 @@ toc: true
 
 ---
 
+
+<!-- article-id: 0352aae8 -->
+### [EFF宣布退出X平台](https://www.eff.org/deeplinks/2026/04/eff-leaving-x)
+**来源**: Hacker News &nbsp;|&nbsp; **标签**: `数字权利` `EFF` `社交媒体` &nbsp;|&nbsp; **时间**: 08:12 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 电子前哨基金会EFF宣布退出X平台，原因是触及率从2018年月均5000万次降至目前不足3%。EFF认为X不再适合数字权利倡导工作，将转向Bluesky和Mastodon等开放社交平台，并将重心放在更有效的政策倡导渠道上。
+
+---
 
 ## 文化
 
