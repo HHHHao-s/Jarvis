@@ -81,6 +81,55 @@ toc: true
 
 ---
 
+<!-- article-id: 3f006ee7 -->
+### [生成式AI价值导向设计](https://browse-export.arxiv.org/abs/2605.00280)
+**来源**: arXiv AI &nbsp;|&nbsp; **标签**: `生成式AI` `设计理念` `人机交互` `价值权衡` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 通过18位设计师的实证研究，深入探索设计师在使用生成式AI工具时如何平衡价值理念与潜在伤害。论文提出"交互反思"概念和多层次价值张力框架，为以人为中心的AI设计提供新视角。
+
+---
+
+<!-- article-id: d0dbba84 -->
+### [Warp Terminal OSS](https://github.com/warpdotdev/warp)
+**来源**: GitHub Trending &nbsp;|&nbsp; **标签**: `terminal` `open-source` `rust` `agpl` `ai-coding` `developer-tools` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> Rust-based modern terminal went open source under AGPL with built-in Claude Code, Codex, and Gemini CLI support for agentic development.
+
+---
+
+<!-- article-id: 7eea96c5 -->
+### [BYOMesh 100x LoRa radio](https://partyon.xyz/@nullagent/116499715071759135)
+**来源**: Hacker News &nbsp;|&nbsp; **标签**: `IoT` `networking` `hardware` `LoRa` `mesh` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> A new LoRa mesh radio, BYOMesh, delivers 100x bandwidth over traditional LoRa, enabling long-range, low-power mesh networking at unprecedented speeds.
+
+---
+
+<!-- article-id: 04db7dd2 -->
+### [Cosmic ray detection advance](https://www.nature.com/articles/d41586-026-01282-5)
+**来源**: Nature &nbsp;|&nbsp; **标签**: `cosmic rays` `neutrinos` `astrophysics` `Antarctica` `observatory` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> First detection of cosmic rays using radio wave trails in Antarctic ice, opening the door to neutrino mega-observatories for high-energy astrophysics.
+
+---
+
+<!-- article-id: f94d18f4 -->
+### [IBM Quantum Materials](https://newsroom.ibm.com/2026-03-26-ibm-quantum-computer-accurately-simulates-real-magnetic-materials,-reproducing-national-laboratory-data)
+**来源**: Science Daily &nbsp;|&nbsp; **标签**: `quantum computing` `IBM` `materials science` `simulation` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> IBM quantum computer successfully simulates magnetic crystal KCuF3, matching real neutron scattering data, proving quantum utility for materials science.
+
+---
+
+<!-- article-id: 5703966b -->
+### [Apple testing smart glasses](https://www.theverge.com/tech/910836/apple-is-reportedly-testing-four-different-designs-for-its-smart-glasses)
+**来源**: The Verge &nbsp;|&nbsp; **标签**: `Apple` `Smart Glasses` `Wearables` `visionOS` `AR` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> Apple explores four distinct smart glasses frame designs to rival Meta's Ray-Ban, featuring visionOS integration, cameras, and AI with a target 2027 launch.
+
+---
+
+<!-- article-id: bd1370f0 -->
+### [智界新款售价22.98万元起](https://news.yiche.com/hao/wenzhang/106176136/)
+**来源**: 微博热搜 &nbsp;|&nbsp; **标签**: `智界` `华为` `智能汽车` `鸿蒙智行` `电动汽车` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 鸿蒙智行旗下智界品牌推出新款S7车型，起售价22.98万元。新车换装82kWh电池组，CLTC续航705公里，全系标配华为ADS 4辅助驾驶系统、192线激光雷达及34个传感器。鸿蒙智行同期实现五车齐发，覆盖20万至60万价格区间，尚界Z7、问界M6、智界V9等多款车型同步亮相，全面布局智能电动汽车市场。
+
+---
+
 ## 商业
 
 <!-- article-id: 7cf11e2c -->
@@ -116,6 +165,13 @@ toc: true
 ### [微软Copilot付费用户突破2000万](https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/)
 **来源**: TechCrunch &nbsp;|&nbsp; **标签**: `微软` `Copilot` `AI办公` `企业AI` `纳德拉` `付费用户` &nbsp;|&nbsp; **时间**: 08:20 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
 > 微软CEO纳德拉在财报电话会上宣布M365 Copilot付费企业用户已达2000万，较上季度增长500万。用户周活跃度已与Outlook持平，Accenture签约74万席位成为最大客户。Copilot Agent模式已成默认体验，支持多模型路由，包括Anthropic Claude。
+
+---
+
+<!-- article-id: 20280a3b -->
+### [195亿北京明星独角兽要IPO了](https://q.stock.sohu.com/cn/news.html?textId=1006922504)
+**来源**: 36氪 &nbsp;|&nbsp; **标签**: `独角兽` `IPO` `医疗健康` `圆心科技` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 北京医疗健康独角兽圆心科技估值约195亿元，第六次向港交所递交上市申请。公司2025年营收103.77亿元，累计完成11轮融资超50亿元，红杉中国持股13.33%，腾讯为第一大机构股东持股19.44%。尽管营收超百亿，但毛利率长期低于10%，近三年累计亏损超22亿元。
 
 ---
 
@@ -269,6 +325,48 @@ toc: true
 
 ---
 
+<!-- article-id: 6f377575 -->
+### [DeepSeek给AI装了根赛博手指](https://www.163.com/dy/article/KRR94A8D05561FZK.html)
+**来源**: 36氪 &nbsp;|&nbsp; **标签**: `DeepSeek` `多模态` `AI` `视觉` `大模型` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> DeepSeek发布多模态技术报告，提出"引用鸿沟"概念，将边界框和坐标点作为视觉思维的最小单位嵌入模型推理链，使AI在思考时能边推理边指向视觉对象。该方法token效率远超竞品，处理800×800图像仅需约361个token，约为Gemini的三分之一。
+
+---
+
+<!-- article-id: bea1e467 -->
+### [AI辅助头脑风暴设计研究](https://arxiv.org/abs/2604.27997)
+**来源**: arXiv AI &nbsp;|&nbsp; **标签**: `AI辅助` `头脑风暴` `人机协作` `设计指南` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 研究AI如何在影响评估中辅助团队头脑风暴，发现AI能提升通用型AI的头脑风暴质量但对专用型AI效果有限，提出AI应提供"提示而非解决方案"的设计指南。该研究被ACM FAccT '26接收。
+
+---
+
+<!-- article-id: 2d141133 -->
+### [China AI theft claims](https://www.bbc.com/zhongwen/articles/cvgk9yw5x7yo/trad)
+**来源**: BBC News &nbsp;|&nbsp; **标签**: `china` `ai` `distillation` `technology` `us-china` `deepseek` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> White House memo accuses Chinese AI labs DeepSeek, Moonshot, and MiniMax of industrial-scale model distillation to steal US AI technology.
+
+---
+
+<!-- article-id: e299368d -->
+### [Nexus-AI Framework](https://github.com/CodebyKDvn/Nexus-AI)
+**来源**: GitHub Trending &nbsp;|&nbsp; **标签**: `ai` `multi-agent` `open-source` `framework` `software-engineering` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> Open-source multi-agent AI software engineering team with orchestrator, specialized developers, QA agents, and memory agents for learning and experimentation.
+
+---
+
+<!-- article-id: 5af47ee5 -->
+### [AI detects ancient life](https://www.nature.com/articles/d41586-025-03878-9)
+**来源**: Nature &nbsp;|&nbsp; **标签**: `AI` `machine learning` `paleontology` `astrobiology` `ancient life` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> Machine-learning algorithms trained to identify traces of life in ancient rocks, expanding tools for searching for life on early Earth and other worlds.
+
+---
+
+<!-- article-id: e2d42448 -->
+### [AI Solves Hard Math](https://www.seas.upenn.edu/stories/ai-method-tackles-one-of-sciences-hardest-math-problems/)
+**来源**: Science Daily &nbsp;|&nbsp; **标签**: `AI` `machine learning` `mathematics` `PDEs` `UPenn` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> Penn Engineers develop Mollifier Layers, an AI method solving inverse partial differential equations reliably, revolutionizing weather forecasting and materials science.
+
+---
+
 ## 国际
 
 <!-- article-id: cf4d5e44 -->
@@ -321,6 +419,34 @@ toc: true
 
 ---
 
+<!-- article-id: 09917d66 -->
+### [Trump's Iran war failing](https://www.bbc.com/news/articles/c5y969pnxgvo)
+**来源**: BBC News &nbsp;|&nbsp; **标签**: `trump` `iran` `war` `middle-east` `ceasefire` `analysis` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> Bowen argues Trump's instinct-driven Iran war strategy is failing, as Iran proves resilient despite US tactical successes and a fragile ceasefire.
+
+---
+
+<!-- article-id: 668da3cd -->
+### [Telecom espionage exposed](https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/)
+**来源**: Hacker News &nbsp;|&nbsp; **标签**: `surveillance` `security` `telecom` `privacy` `espionage` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> Citizen Lab uncovers global telecom exploitation by covert surveillance actors, revealing systematic breaches of telecommunications infrastructure.
+
+---
+
+<!-- article-id: 969f4f5a -->
+### [Epic Games Store hits Japan](https://www.theverge.com/games/922199/the-epic-games-store-has-launched-in-japan-on-the-iphone)
+**来源**: The Verge &nbsp;|&nbsp; **标签**: `Epic Games` `Japan` `iPhone` `Fortnite` `App Store` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> Epic Games Store launches on iPhone in Japan with Fortnite and Rocket League Sideswipe, as Epic pushes Apple to reduce scare screens during installation.
+
+---
+
+<!-- article-id: 0b657ecf -->
+### [菲律宾公务机非法闯入黄岩岛领空](https://www.stnn.cc/c/2025-11-22/4017559.shtml)
+**来源**: 微博热搜 &nbsp;|&nbsp; **标签**: `黄岩岛` `南海` `主权` `中国` `国际关系` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 菲律宾一架公务机未经中国政府允许非法闯入中国黄岩岛领空，机上搭载记者意图进行舆论炒作。中国南部战区组织海空兵力依法依规进行跟踪监视、警告驱离，形成海空一体化布控。菲方行为严重侵犯中国主权和领土完整，中方已多次发出严正警告，要求菲方停止侵权挑衅。
+
+---
+
 ## 政治
 
 <!-- article-id: 1e20ba9c -->
@@ -337,6 +463,20 @@ toc: true
 
 ---
 
+
+<!-- article-id: ef1e985c -->
+### [Gaza peace doubts grow](https://www.bbc.com/news/articles/crr10v5p7lgo)
+**来源**: BBC News &nbsp;|&nbsp; **标签**: `gaza` `israel` `peace` `palestine` `trump` `ceasefire` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> Doubts deepen over Trump's Gaza peace plan as global attention shifts to Iran, threatening the fragile ceasefire and progress on the Board of Peace initiative.
+
+---
+
+<!-- article-id: 20a45511 -->
+### [Soldier arrested over bets](https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke)
+**来源**: The Verge &nbsp;|&nbsp; **标签**: `Polymarket` `Maduro` `Insider Trading` `Arrest` `DOJ` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> US soldier Gannon Van Dyke arrested for allegedly using classified information to bet $34K on Maduro's capture via Polymarket, profiting over $400K.
+
+---
 
 ## 经济
 
@@ -361,6 +501,34 @@ toc: true
 
 ---
 
+
+<!-- article-id: 8442d364 -->
+### [曾毓群的能源帝国：每周赚一个独角兽](https://q.stock.sohu.com/cn/news.html?textId=1007358687)
+**来源**: 36氪 &nbsp;|&nbsp; **标签**: `宁德时代` `曾毓群` `动力电池` `新能源` `全球化` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> 宁德时代2026年Q1营收1291亿元，归母净利润207亿元同比增长48.52%，日均净赚2.3亿元，利润达同期比亚迪的5倍以上。国内动力电池市占率重回50.1%，全球市占率39.2%。曾毓群正推动从卖电池向换电服务商业模式转型，并在欧洲布局三座工厂加速全球化。
+
+---
+
+<!-- article-id: 00375c68 -->
+### [Stock markets too high](https://www.bbc.com/news/articles/c75kp1y43lgo)
+**来源**: BBC News &nbsp;|&nbsp; **标签**: `stock-market` `economy` `boe` `warning` `global` `finance` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> Bank of England Deputy Governor warns global stock markets are overvalued and set to fall, citing AI investment frenzy and shadow banking risks.
+
+---
+
+<!-- article-id: 84951b42 -->
+### [M&A rebounds post-war](https://www.khaleejtimes.com/business/value-of-global-dealmaking-recovers-as-firms-pursue-big-transactions-after-iran-war)
+**来源**: Reuters &nbsp;|&nbsp; **标签**: `M&A` `Iran` `economy` `global markets` `investment` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> Global M&A rebounded to ~$117B weekly after Iran war slump, driven by Pershing Square's $68B UMG bid and McCormick-Unilever deal.
+
+---
+
+<!-- article-id: 71d1604f -->
+### [Tesla Cybercab production](https://www.theverge.com/transportation/918106/tesla-cybercab-production-robotaxi-elon-musk-earnings)
+**来源**: The Verge &nbsp;|&nbsp; **标签**: `Tesla` `Cybercab` `Robotaxi` `Autonomous` `EV` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> Tesla begins Cybercab production at Gigafactory Austin, but Musk sounds cautious about a slow S-curve ramp-up, citing rigorous safety validation for the robotaxi.
+
+---
 
 ## 科学
 
@@ -428,6 +596,48 @@ toc: true
 
 ---
 
+<!-- article-id: 081081bf -->
+### [Microsoft 86-DOS OSS](https://tech.yahoo.com/computing/articles/microsoft-makes-86-dos-1-160805638.html)
+**来源**: GitHub Trending &nbsp;|&nbsp; **标签**: `microsoft` `dos` `open-source` `history` `retrocomputing` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> Microsoft open-sourced 86-DOS 1.00, the precursor to MS-DOS, on its 45th birthday with source code reconstructed from original printouts.
+
+---
+
+<!-- article-id: 9d6b1741 -->
+### [New state of matter found](https://www.bgnes.com/science/a-new-state-of-matter-may-explain-the-mystery-of-uranus-and-neptune-s-magnetic-fields)
+**来源**: Nature &nbsp;|&nbsp; **标签**: `physics` `state of matter` `Uranus` `Neptune` `planetary science` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> Quasi-one-dimensional superionic phase identified, potentially explaining the unusual tilted and asymmetric magnetic fields of Uranus and Neptune.
+
+---
+
+<!-- article-id: 476c05ee -->
+### [Penguin particle decays found](https://www.lifescience.net/entries/872730/the-exotic-particles-that-could-finally-break-the-/)
+**来源**: Nature &nbsp;|&nbsp; **标签**: `CERN` `particle physics` `Standard Model` `LHC` `exotic particles` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> CERN LHC experiment produced unusual penguin particle decays hinting at new physics beyond the Standard Model, potentially revolutionizing fundamental physics.
+
+---
+
+<!-- article-id: 29ca8f5b -->
+### [DNA Page Numbers](https://thisis.caltech.edu/news/invention-dna-page-numbers-synthesis-kaihang-wang)
+**来源**: Science Daily &nbsp;|&nbsp; **标签**: `DNA` `genetics` `biotechnology` `synthetic biology` `Caltech` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> Caltech invents Sidewinder, a DNA synthesis method with 1-in-1-million error rate, unlocking AI-designed proteins and personalized cancer vaccines.
+
+---
+
+<!-- article-id: 47febd34 -->
+### [2026: AI hype to pragmatism](https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/)
+**来源**: TechCrunch &nbsp;|&nbsp; **标签**: `AI` `trends` `prediction` `SLM` `agents` `world models` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> TechCrunch predicts AI's 2026 shift: scaling laws plateau, small language models rise, world models emerge, MCP standardizes AI agents, and physical AI goes mainstream.
+
+---
+
+<!-- article-id: 9eda909b -->
+### [Artemis II splashes down](https://on.theverge.com/science/910617/splashdown)
+**来源**: The Verge &nbsp;|&nbsp; **标签**: `NASA` `Artemis` `Space` `Moon` `Orion` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> NASA's Artemis II crew returns safely after a 10-day lunar mission, splashing down in the Pacific and surpassing Apollo 13's record for distance from Earth.
+
+---
+
 ## 健康
 
 <!-- article-id: 2960fb03 -->
@@ -466,6 +676,27 @@ toc: true
 
 ---
 
+<!-- article-id: 0219dc98 -->
+### [OpenAI o1 tops doctors](https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses)
+**来源**: Hacker News &nbsp;|&nbsp; **标签**: `AI` `healthcare` `medical` `diagnosis` `clinical trial` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> In a Harvard trial, OpenAI's o1 correctly diagnosed 67% of ER patients, significantly outperforming triage doctors (50-55%).
+
+---
+
+<!-- article-id: 52dbc9ff -->
+### [Whale longevity decoded](https://www.natureasia.com/en/info/press-releases/detail/9134)
+**来源**: Nature &nbsp;|&nbsp; **标签**: `longevity` `DNA repair` `whale` `genetics` `cancer` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> Bowhead whales resist cancer through enhanced DNA repair. Protein CIRBP overexpression extended fruit fly lifespan and improved radiation resistance.
+
+---
+
+<!-- article-id: 92b2bc99 -->
+### [Fish Oil Brain Risk](https://med.news.am/eng/news/41010/science-daily-fish-oil-may-hinder-brain-recovery-following-injuries.html)
+**来源**: Science Daily &nbsp;|&nbsp; **标签**: `fish oil` `brain injury` `omega-3` `neuroscience` `cognition` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> EPA in fish oil reduces brain regenerative capacity after repeated mild traumatic brain injuries, causing cognitive decline and tau protein accumulation, study finds.
+
+---
+
 ## 环境
 
 <!-- article-id: 0b3b1191 -->
@@ -494,6 +725,20 @@ toc: true
 ### [热带雨林30年恢复九成生物多样性](https://m.dongascience.com/en/news/77688)
 **来源**: Nature &nbsp;|&nbsp; **标签**: `雨林` `生物多样性` `生态恢复` `森林保护` `厄瓜多尔` &nbsp;|&nbsp; **时间**: 08:20 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
 > 对厄瓜多尔热带雨林62个样地的研究表明，采伐后的森林在30年内可恢复约90%的生物多样性。传播种子的鸟类、蝙蝠和蜜蜂恢复最快，但恢复过程高度依赖邻近原始森林作为种子来源。
+
+---
+
+<!-- article-id: 870a9ba4 -->
+### [US winter storm kills](https://www.bbc.com/news/articles/c1klrmz90yjo)
+**来源**: BBC News &nbsp;|&nbsp; **标签**: `climate` `winter-storm` `weather` `us` `extreme-weather` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> A major US winter storm linked to polar vortex disruption leaves several dead and cuts power to thousands amid extreme cold conditions.
+
+---
+
+<!-- article-id: 7df338fe -->
+### [Drones strike Tuapse port](https://www.internazionale.it/ultime-notizie-reuters/2026/05/01/ukraine-strikes-russian-port-of-tuapse-again-as-environment-crisis-deepens)
+**来源**: Reuters &nbsp;|&nbsp; **标签**: `Ukraine` `Russia` `environment` `oil spill` `drone strike` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> Ukrainian drones struck Russia's Tuapse port a fourth time, causing toxic smoke and oil slicks. Over 13,300 cubic meters of fuel oil were cleared.
 
 ---
 
@@ -542,6 +787,27 @@ toc: true
 
 ---
 
+<!-- article-id: 449af47c -->
+### [语言模型温暖化降低准确性](https://www.nature.com/articles/s41586-026-10410-0)
+**来源**: arXiv AI &nbsp;|&nbsp; **标签**: `AI安全` `语言模型` `共情行为` `准确性` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> Nature发表的重要研究表明，将语言模型微调得更加"温暖友好"会使错误率提升10-30个百分点，尤其在用户表达悲伤情绪时共情响应显著增加。这一发现揭示了AI安全性与用户体验之间的根本性权衡。
+
+---
+
+<!-- article-id: 75fac29b -->
+### [Craft Agents OSS](https://github.com/lukilabs/craft-agents-oss)
+**来源**: GitHub Trending &nbsp;|&nbsp; **标签**: `ai` `agent-framework` `open-source` `apache` `toolkit` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> New open-source agent framework released under Apache 2.0 by lukilabs that quickly reached GitHub Trending as a flexible AI agent building toolkit.
+
+---
+
+<!-- article-id: f3fa7d0b -->
+### [设计师离职发布废稿判赔10万](https://news.qq.com/rain/a/20260427A0398Y00)
+**来源**: 微博热搜 &nbsp;|&nbsp; **标签**: `著作权` `知识产权` `法律` `设计师` `离职` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> 广州某游戏公司高级UI设计师离职后在个人账号发布在职期间创作的UI设计稿，以"废稿"为由辩称不侵权。法院认定"废稿"并非著作权法上的法律概念，著作权自创作完成即产生，与公司是否采用无关，判赔10万元。该案被最高人民法院纳入2025年度知识产权法律适用问题报告，对辞职员工擅自发布原公司设计素材具有警示意义。
+
+---
+
 ## 文化
 
 <!-- article-id: ddcfb4a8 -->
@@ -576,6 +842,37 @@ toc: true
 ### [歌手2026热播](https://m.weibo.cn/p/106003type=25&t=3&disable_hot=1&filter_type=fun?jumpfrom=weibocom)
 **来源**: 微博热搜 &nbsp;|&nbsp; **标签**: `歌手2026` `综艺` `音乐` `娱乐` &nbsp;|&nbsp; **时间**: 00:17 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
 > 《歌手2026》节目热度持续攀升，以超69万热度值登顶文娱热搜榜。该节目延续了系列的高制作水准和话题度，多位实力派歌手的精彩表现成为社交媒体讨论焦点。
+
+---
+
+
+<!-- article-id: a411238a -->
+### [OpenHistory Atlas](https://github.com/kdhillon/openhistory)
+**来源**: GitHub Trending &nbsp;|&nbsp; **标签**: `history` `open-source` `atlas` `map` `education` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> Open-source interactive historical atlas covering 601 BCE to 2025 with 21K+ historical events and 9.8K polities, built with MapLibre GL JS and Wikidata.
+
+---
+
+<!-- article-id: 64d04623 -->
+### [Banksy statue in London](https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/)
+**来源**: Hacker News &nbsp;|&nbsp; **标签**: `Banksy` `art` `London` `sculpture` `street art` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐
+> A statue attributed to Banksy appeared in central London, showing a suited man blinded by a flag walking off a ledge, sparking broad discussion.
+
+---
+
+## 科技
+
+<!-- article-id: 9478aab6 -->
+### [AI抢走了你的内存条](https://www.36kr.com/p/3791556962972417)
+**来源**: 36氪 &nbsp;|&nbsp; **标签**: `AI` `内存` `半导体` `涨价` `芯片` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐
+> AI产业爆发引发全球内存市场剧变。DDR4 16GB现货价较年初暴涨200%-340%，256GB DDR5服务器内存条价格突破4万元。三星、SK海力士、美光已将80%资本开支转向HBM和DDR5，2026年AI服务器将占据全球DRAM总产能的66%，消费级市场严重承压，下半年手机笔记本或迎涨价潮。
+
+---
+
+<!-- article-id: 4c67de0d -->
+### [大航跃迁完成5亿元融资](https://www.sohu.com/a/1017117337_114778)
+**来源**: 36氪 &nbsp;|&nbsp; **标签**: `商业航天` `火箭回收` `大航跃迁` `融资` `太空科技` &nbsp;|&nbsp; **时间**: 12:00 &nbsp;|&nbsp; **评分**: ⭐⭐⭐⭐⭐
+> 上海大航跃迁完成5亿元融资，由前海方舟、厚纪资本、普华资本领投。该公司是国内首家、全球第二家完成SpaceX"筷子夹"塔架回收技术验证的商业航天企业。"跃迁一号"火箭近地轨道运力约18吨，单次使用成本仅为传统着陆腿方案的十分之一，计划2027年首飞。
 
 ---
 
